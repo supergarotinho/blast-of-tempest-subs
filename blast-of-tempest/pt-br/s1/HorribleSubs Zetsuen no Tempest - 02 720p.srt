@@ -92,7 +92,7 @@ Um dia,
 
 24
 00:03:13,950 --> 00:03:16,030
-a princesa dos magos
+a princesa dos s
 
 25
 00:03:16,030 --> 00:03:18,680
@@ -228,7 +228,7 @@ Posso passar por isso mais uma vez?
 
 58
 00:05:12,170 --> 00:05:15,320
-Existe um clã de magos chamado Kusaribe,
+Existe um clã de s chamado Kusaribe,
 
 59
 00:05:15,320 --> 00:05:18,920
@@ -840,7 +840,7 @@ Vou começar abrindo um buraco na sua perna.
 
 211
 00:14:00,330 --> 00:14:03,610
-Conte-me tudo o que você sabe sobre o mago.
+Conte-me tudo o que você sabe sobre a maga.
 
 212
 00:14:03,610 --> 00:14:06,380
@@ -912,7 +912,7 @@ O incidente ocorreu há cerca de um ano?
 
 229
 00:15:47,820 --> 00:15:50,980
-Isso foi antes de eu ser exilado!
+Isso foi antes de eu ser exilada!
 
 230
 00:15:50,980 --> 00:15:52,470
