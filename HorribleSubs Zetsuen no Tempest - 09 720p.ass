@@ -1,0 +1,390 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:34.06,0:01:36.37,Default,,0,0,0,,A princesa já está morta.
+Dialogue: 0,0:01:37.33,0:01:38.99,Default,,0,0,0,,O que está acontecendo?
+Dialogue: 0,0:01:40.14,0:01:41.28,Default,,0,0,0,,Princesa...
+Dialogue: 0,0:01:41.28,0:01:44.54,Default,,0,0,0,,Seu mundo está dois anos no nosso passado.
+Dialogue: 0,0:01:45.03,0:01:46.00,Default,,0,0,0,,Com o poder da magia,
+Dialogue: 0,0:01:46.00,0:01:48.73,Default,,0,0,0,,o presente está conectado ao seu tempo naquela ilha
+Dialogue: 0,0:01:48.73,0:01:51.77,Default,,0,0,0,,viajando no tempo dois anos no passado.
+Dialogue: 0,0:01:52.74,0:01:55.67,Default,,0,0,0,,Viajando no tempo?
+Dialogue: 0,0:01:56.76,0:01:59.76,Default,,0,0,0,,Episódio 9 Namorado
+Dialogue: 0,0:02:20.07,0:02:21.12,Default,,0,0,0,,Uma pessoa?
+Dialogue: 0,0:02:30.32,0:02:31.79,Default,,0,0,0,,Eu, Natsumura Kusaribe,
+Dialogue: 0,0:02:33.96,0:02:35.58,Default,,0,0,0,,estou aqui para fazer uma visita não anunciada.
+Dialogue: 0,0:02:36.83,0:02:38.51,Default,,0,0,0,,Viajando no tempo?
+Dialogue: 0,0:02:38.51,0:02:39.69,Default,,0,0,0,,Então você afirma
+Dialogue: 0,0:02:39.69,0:02:43.49,Default,,0,0,0,,o Hakaze com quem estamos falando agora é o Hakaze de dois anos atrás.
+Dialogue: 0,0:02:43.49,0:02:46.55,Default,,0,0,0,,E que o atual Hakaze é esse bando de ossos?
+Dialogue: 0,0:02:46.55,0:02:47.50,Default,,0,0,0,,Isso está correto.
+Dialogue: 0,0:02:47.50,0:02:48.27,Default,,0,0,0,,Mas então
+Dialogue: 0,0:02:48.27,0:02:51.90,Default,,0,0,0,,como isso me permitiria conectar com ela dois anos atrás?
+Dialogue: 0,0:02:52.38,0:02:56.01,Default,,0,0,0,,Aquela boneca, um talismã feito com magia Kusaribe,
+Dialogue: 0,0:02:56.01,0:02:58.90,Default,,0,0,0,,conecta-se a outra boneca semelhante para comunicação.
+Dialogue: 0,0:02:59.42,0:03:04.48,Default,,0,0,0,,Imagino a boneca que a princesa usou há dois anos
+Dialogue: 0,0:03:04.48,0:03:06.95,Default,,0,0,0,,foi destruída em algum momento.
+Dialogue: 0,0:03:07.91,0:03:08.78,Default,,0,0,0,,Então,
+Dialogue: 0,0:03:08.78,0:03:11.59,Default,,0,0,0,,porque esta boneca não conseguiu encontrar outra boneca para se conectar no presente,
+Dialogue: 0,0:03:11.59,0:03:15.04,Default,,0,0,0,,você está dizendo que ele olhou através do tempo, para se conectar com o que aconteceu dois anos atrás?
+Dialogue: 0,0:03:15.40,0:03:16.41,Default,,0,0,0,,Exatamente.
+Dialogue: 0,0:03:16.91,0:03:18.28,Default,,0,0,0,,É verdade...
+Dialogue: 0,0:03:18.28,0:03:20.09,Default,,0,0,0,,Em uma conversa normal,
+Dialogue: 0,0:03:20.09,0:03:22.49,Default,,0,0,0,,não tínhamos motivo para mencionar o ano atual.
+Dialogue: 0,0:03:22.49,0:03:24.23,Default,,0,0,0,,Mesmo que tivéssemos discutido datas,
+Dialogue: 0,0:03:24.23,0:03:26.72,Default,,0,0,0,,estamos exatamente dois anos à frente, então não poderíamos ter percebido.
+Dialogue: 0,0:03:29.54,0:03:30.73,Default,,0,0,0,,Impossível...
+Dialogue: 0,0:03:30.73,0:03:31.98,Default,,0,0,0,,Inconcebível!
+Dialogue: 0,0:03:32.53,0:03:33.58,Default,,0,0,0,,Mesmo!
+Dialogue: 0,0:03:33.58,0:03:35.40,Default,,0,0,0,,Você vive de acordo com princípios confiáveis ​​e conservadores.
+Dialogue: 0,0:03:35.40,0:03:38.52,Default,,0,0,0,,Você nunca correria um risco como me matar.
+Dialogue: 0,0:03:38.52,0:03:39.74,Default,,0,0,0,,Sem mim lá,
+Dialogue: 0,0:03:40.16,0:03:43.53,Default,,0,0,0,,O que você fará se o renascimento da Árvore do Êxodo falhar?
+Dialogue: 0,0:03:44.12,0:03:45.10,Default,,0,0,0,,Princesa,
+Dialogue: 0,0:03:45.53,0:03:48.53,Default,,0,0,0,,Por mais conservador que eu seja, se eu for competir com você,
+Dialogue: 0,0:03:48.53,0:03:50.65,Default,,0,0,0,,até eu precisaria assumir algum risco.
+Dialogue: 0,0:03:50.65,0:03:55.17,Default,,0,0,0,,Para você, pode parecer que são apenas quatro meses de preparação.
+Dialogue: 0,0:03:55.17,0:03:58.99,Default,,0,0,0,,Mas estamos trabalhando cuidadosamente nisso há dois anos.
+Dialogue: 0,0:03:59.80,0:04:01.47,Default,,0,0,0,,Adicionalmente,
+Dialogue: 0,0:04:01.83,0:04:04.76,Default,,0,0,0,,Junichiro confirmou que este é seu esqueleto.
+Dialogue: 0,0:04:08.99,0:04:10.58,Default,,0,0,0,,Isso mesmo...
+Dialogue: 0,0:04:11.33,0:04:13.52,Default,,0,0,0,,Sempre foi estranho
+Dialogue: 0,0:04:13.52,0:04:16.74,Default,,0,0,0,,que a garrafa com a boneca apareceu no Japão em quatro meses.
+Dialogue: 0,0:04:16.74,0:04:19.93,Default,,0,0,0,,Dadas as estimativas da posição desta ilha,
+Dialogue: 0,0:04:19.93,0:04:22.70,Default,,0,0,0,,em relação ao Japão, chegou muito cedo.
+Dialogue: 0,0:04:25.71,0:04:29.14,Default,,0,0,0,,Por que não imaginei que dois anos poderiam ter se passado?
+Dialogue: 0,0:04:29.74,0:04:31.84,Default,,0,0,0,,Superestimei minha própria sorte?
+Dialogue: 0,0:04:33.13,0:04:34.52,Default,,0,0,0,,Nesse caso,
+Dialogue: 0,0:04:34.52,0:04:36.88,Default,,0,0,0,,eu estou realmente morto?
+Dialogue: 0,0:04:37.50,0:04:41.92,Default,,0,0,0,,Isso tudo realmente aconteceu há dois anos?
+Dialogue: 0,0:04:42.50,0:04:45.01,Default,,0,0,0,,Falando com você agora, Princesa,
+Dialogue: 0,0:04:45.01,0:04:47.93,Default,,0,0,0,,é como uma ilusão para nós.
+Dialogue: 0,0:04:48.31,0:04:50.27,Default,,0,0,0,,Embora você esteja vivo, você também está morto.
+Dialogue: 0,0:04:51.32,0:04:55.48,Default,,0,0,0,,Para você, aquela ilha é uma gaiola dentro do tempo.
+Dialogue: 0,0:04:56.15,0:04:59.19,Default,,0,0,0,,Princesa, você perdeu.
+Dialogue: 0,0:05:12.07,0:05:14.75,Default,,0,0,0,,Sua barreira pessoal deve estar chegando ao limite.
+Dialogue: 0,0:05:14.75,0:05:16.76,Default,,0,0,0,,Se pudermos esgotá-lo, ele cairá.
+Dialogue: 0,0:05:17.50,0:05:19.09,Default,,0,0,0,,Homens, fiquem atentos!
+Dialogue: 0,0:05:19.09,0:05:20.17,Default,,0,0,0,,Continue atirando!
+Dialogue: 0,0:05:22.27,0:05:23.88,Default,,0,0,0,,Mais cem metros...
+Dialogue: 0,0:05:26.18,0:05:27.13,Default,,0,0,0,,Cinqüenta...
+Dialogue: 0,0:05:29.39,0:05:30.39,Default,,0,0,0,,Árvore dentro da árvore,
+Dialogue: 0,0:05:30.39,0:05:31.72,Default,,0,0,0,,grande árvore dentro da grande árvore...
+Dialogue: 0,0:05:37.02,0:05:38.02,Default,,0,0,0,,Nós fizemos isso?
+Dialogue: 0,0:05:43.97,0:05:46.11,Default,,0,0,0,,Árvore que existe desde o princípio, Árvore do Gênesis.
+Dialogue: 0,0:05:46.50,0:05:48.83,Default,,0,0,0,,Ouça minhas palavras e realize meu desejo.
+Dialogue: 0,0:05:57.15,0:05:58.78,Default,,0,0,0,,O-O tanque...
+Dialogue: 0,0:06:00.02,0:06:08.63,Default,,0,0,0,,Retorna! Retorna! Retorna! Retorna! Retorna! Retorna! Retorna! Retorna!
+Dialogue: 0,0:06:09.19,0:06:11.08,Default,,0,0,0,,Nossa prática não inclui magia ofensiva.
+Dialogue: 0,0:06:11.57,0:06:13.60,Default,,0,0,0,,Mas ao tocar na arma
+Dialogue: 0,0:06:13.60,0:06:16.67,Default,,0,0,0,,e oferecê-lo à Árvore do Gênesis,
+Dialogue: 0,0:06:16.67,0:06:18.51,Default,,0,0,0,,é possível reduzi-lo a cinzas em segundos.
+Dialogue: 0,0:06:27.56,0:06:28.95,Default,,0,0,0,,E ele pode usar o poder
+Dialogue: 0,0:06:29.20,0:06:31.70,Default,,0,0,0,,dessa oferta para criar outra barreira defensiva,
+Dialogue: 0,0:06:31.70,0:06:34.48,Default,,0,0,0,,permitindo que ele resistisse a mais dez ou vinte rodadas!
+Dialogue: 0,0:06:36.15,0:06:39.36,Default,,0,0,0,,Falha ao neutralizar o alvo que emergiu da barreira!
+Dialogue: 0,0:06:39.36,0:06:41.13,Default,,0,0,0,,As tropas estão em desordem!
+Dialogue: 0,0:06:41.13,0:06:44.63,Default,,0,0,0,,Informamos as tropas sobre a extensão de suas habilidades.
+Dialogue: 0,0:06:45.51,0:06:47.73,Default,,0,0,0,,À direita, por volta das 3:00!
+Dialogue: 0,0:06:47.73,0:06:48.46,Default,,0,0,0,,Onde ele está?
+Dialogue: 0,0:06:48.46,0:06:50.88,Default,,0,0,0,,Porém, mesmo sendo humano,
+Dialogue: 0,0:06:50.88,0:06:53.65,Default,,0,0,0,,sua mobilidade e defesa superiores
+Dialogue: 0,0:06:53.65,0:06:55.79,Default,,0,0,0,,representam um desafio significativo para os nossos homens.
+Dialogue: 0,0:06:57.19,0:07:00.60,Default,,0,0,0,,Jovens, sua jornada chegou ao fim.
+Dialogue: 0,0:07:01.35,0:07:04.23,Default,,0,0,0,,Não há mais razão para nos opormos.
+Dialogue: 0,0:07:05.09,0:07:06.83,Default,,0,0,0,,Não tenho mais nenhuma discussão com você.
+Dialogue: 0,0:07:06.83,0:07:08.98,Default,,0,0,0,,No entanto, como chefe do Kusaribe,
+Dialogue: 0,0:07:08.98,0:07:12.99,Default,,0,0,0,,Não posso permitir que você continue usando nossa magia.
+Dialogue: 0,0:07:13.34,0:07:15.91,Default,,0,0,0,,Se você deixar os talismãs e partir deste lugar,
+Dialogue: 0,0:07:15.91,0:07:17.99,Default,,0,0,0,,Garanto que você não sairá ferido.
+Dialogue: 0,0:07:22.48,0:07:24.46,Default,,0,0,0,,Nossa jornada, de fato, terminou.
+Dialogue: 0,0:07:25.34,0:07:27.63,Default,,0,0,0,,No final das contas, era impossível para nós
+Dialogue: 0,0:07:27.63,0:07:29.84,Default,,0,0,0,,para carregar o destino do mundo.
+Dialogue: 0,0:07:32.74,0:07:34.85,Default,,0,0,0,,Que pena, Hakaze.
+Dialogue: 0,0:07:35.42,0:07:38.20,Default,,0,0,0,,Bem, não há nada que possamos fazer se você for apenas ossos.
+Dialogue: 0,0:07:38.20,0:07:39.48,Default,,0,0,0,,Não me odeie.
+Dialogue: 0,0:07:39.48,0:07:42.16,Default,,0,0,0,,Não espero sua pena.
+Dialogue: 0,0:07:42.16,0:07:43.35,Default,,0,0,0,,Faça como quiser.
+Dialogue: 0,0:07:43.76,0:07:46.77,Default,,0,0,0,,Sim, apenas morra lá.
+Dialogue: 0,0:07:46.77,0:07:48.19,Default,,0,0,0,,Até mais, Hakazeh.
+Dialogue: 0,0:07:55.12,0:07:55.92,Default,,0,0,0,,Bom.
+Dialogue: 0,0:07:55.92,0:07:57.20,Default,,0,0,0,,É isso que você deve fazer.
+Dialogue: 0,0:07:57.20,0:07:58.86,Default,,0,0,0,,Tudo bem, obrigado, Samon.
+Dialogue: 0,0:07:59.59,0:08:02.26,Default,,0,0,0,,Ainda tenho planos para isso.
+Dialogue: 0,0:08:02.26,0:08:02.79,Default,,0,0,0,,Eh?
+Dialogue: 0,0:08:03.88,0:08:04.95,Default,,0,0,0,,Com que propósito?
+Dialogue: 0,0:08:05.41,0:08:07.63,Default,,0,0,0,,Se a princesa não puder retornar,
+Dialogue: 0,0:08:07.63,0:08:09.34,Default,,0,0,0,,isso significa que você também perdeu!
+Dialogue: 0,0:08:09.99,0:08:13.61,Default,,0,0,0,,Se você usasse esse talismã para libertar a Árvore do Êxodo,
+Dialogue: 0,0:08:13.61,0:08:15.42,Default,,0,0,0,,ninguém será capaz de pará-lo.
+Dialogue: 0,0:08:15.87,0:08:17.55,Default,,0,0,0,,O mundo vai acabar aí!
+Dialogue: 0,0:08:17.90,0:08:18.97,Default,,0,0,0,,Ei, agora...
+Dialogue: 0,0:08:18.97,0:08:21.60,Default,,0,0,0,,Quando foi que eu disse alguma coisa sobre cuidar do mundo?
+Dialogue: 0,0:08:22.10,0:08:25.39,Default,,0,0,0,,Se algo acontecer ao mundo, vocês serão os únicos que ficarão chateados.
+Dialogue: 0,0:08:25.93,0:08:27.23,Default,,0,0,0,,Esse garoto...
+Dialogue: 0,0:08:29.90,0:08:31.98,Default,,0,0,0,,Vamos fazer um acordo, Kusaribe Samon.
+Dialogue: 0,0:08:32.63,0:08:36.56,Default,,0,0,0,,Se Hakaze não conseguir, farei com que você realize meu desejo.
+Dialogue: 0,0:08:36.56,0:08:40.79,Default,,0,0,0,,E se você não puder, eu realmente não dou a mínima para este mundo.
+Dialogue: 0,0:08:43.14,0:08:44.19,Default,,0,0,0,,Claro...
+Dialogue: 0,0:08:44.68,0:08:47.41,Default,,0,0,0,,Desde o começo, Mahiro deve ter considerado isso...
+Dialogue: 0,0:08:47.41,0:08:50.11,Default,,0,0,0,,O que ele faria se não pudesse mais contar com Hakaze-san.
+Dialogue: 0,0:08:50.77,0:08:53.46,Default,,0,0,0,,Porque eu trouxe esse talismã comigo,
+Dialogue: 0,0:08:53.46,0:08:57.92,Default,,0,0,0,,Isso me colocou na posição de lidar com Hakaze ou com você.
+Dialogue: 0,0:08:58.38,0:09:00.47,Default,,0,0,0,,Se Hakaze não desse certo,
+Dialogue: 0,0:09:00.47,0:09:03.60,Default,,0,0,0,,Nunca tive problemas em mudar de lado.
+Dialogue: 0,0:09:04.35,0:09:05.52,Default,,0,0,0,,Mas, Mahiro...
+Dialogue: 0,0:09:06.47,0:09:09.23,Default,,0,0,0,,Você realmente concorda em abandonar Hakaze-san desse jeito?
+Dialogue: 0,0:09:13.64,0:09:14.66,Default,,0,0,0,,O...
+Dialogue: 0,0:09:15.31,0:09:17.00,Default,,0,0,0,,A audácia desse garoto.
+Dialogue: 0,0:09:17.84,0:09:20.46,Default,,0,0,0,,Ele abandonou a princesa sem hesitação ou sentimento.
+Dialogue: 0,0:09:20.85,0:09:25.08,Default,,0,0,0,,Ele está disposto a arriscar o mundo em prol de seu próprio desejo?
+Dialogue: 0,0:09:25.43,0:09:27.96,Default,,0,0,0,,Então o que será, Kusaribe-san?
+Dialogue: 0,0:09:28.67,0:09:30.96,Default,,0,0,0,,Eu sou um cara que atira rápido.
+Dialogue: 0,0:09:36.97,0:09:38.64,Default,,0,0,0,,Ele não está blefando.
+Dialogue: 0,0:09:38.90,0:09:40.73,Default,,0,0,0,,Se eu tentar pegar o talismã,
+Dialogue: 0,0:09:40.73,0:09:42.50,Default,,0,0,0,,ele vai puxar o gatilho sem dúvida.
+Dialogue: 0,0:09:43.12,0:09:45.81,Default,,0,0,0,,Nesse ritmo, ele pode muito bem fazer isso de qualquer maneira.
+Dialogue: 0,0:09:46.54,0:09:49.13,Default,,0,0,0,,Esse também é o raciocínio da Árvore do Gênesis?
+Dialogue: 0,0:09:50.48,0:09:53.82,Default,,0,0,0,,Não, aquele garoto abandonou a princesa.
+Dialogue: 0,0:09:53.82,0:09:55.65,Default,,0,0,0,,Não tem como a princesa vencer!
+Dialogue: 0,0:09:55.94,0:09:58.07,Default,,0,0,0,,Preciso lidar com isso com calma,
+Dialogue: 0,0:09:58.07,0:09:59.83,Default,,0,0,0,,dentro do limite de erro aceitável.
+Dialogue: 0,0:10:00.87,0:10:02.52,Default,,0,0,0,,Qual é o seu desejo?
+Dialogue: 0,0:10:02.96,0:10:04.95,Default,,0,0,0,,Suponho que preciso saber.
+Dialogue: 0,0:10:05.37,0:10:06.57,Default,,0,0,0,,Um ano atrás,
+Dialogue: 0,0:10:06.57,0:10:09.27,Default,,0,0,0,,alguém assassinou minha irmã mais nova.
+Dialogue: 0,0:10:09.27,0:10:11.88,Default,,0,0,0,,Estou procurando o responsável,
+Dialogue: 0,0:10:11.88,0:10:14.32,Default,,0,0,0,,para que eu possa encontrá-lo e matá-lo.
+Dialogue: 0,0:10:14.32,0:10:17.14,Default,,0,0,0,,Então você está me pedindo para encontrar o assassino com magia?
+Dialogue: 0,0:10:17.14,0:10:18.42,Default,,0,0,0,,Correto.
+Dialogue: 0,0:10:18.42,0:10:20.60,Default,,0,0,0,,Se eu puder matar Kim com minhas próprias mãos,
+Dialogue: 0,0:10:20.60,0:10:23.35,Default,,0,0,0,,Não tenho problema em lhe dar esse talismã.
+Dialogue: 0,0:10:23.94,0:10:25.58,Default,,0,0,0,,Procurando por um suspeito...
+Dialogue: 0,0:10:25.58,0:10:28.04,Default,,0,0,0,,Um pedido muito mais razoável do que eu poderia imaginar.
+Dialogue: 0,0:10:28.57,0:10:31.52,Default,,0,0,0,,No entanto, levará algum tempo para encontrá-lo.
+Dialogue: 0,0:10:31.95,0:10:33.68,Default,,0,0,0,,Onde fica a cena do crime?
+Dialogue: 0,0:10:33.68,0:10:35.08,Default,,0,0,0,,A partir daí, posso usar uma pesquisa—
+Dialogue: 0,0:10:35.08,0:10:36.76,Default,,0,0,0,,Não há necessidade disso.
+Dialogue: 0,0:10:36.76,0:10:39.44,Default,,0,0,0,,A magia de Hakaze filtrou as possibilidades.
+Dialogue: 0,0:10:39.91,0:10:40.99,Default,,0,0,0,,O assassino
+Dialogue: 0,0:10:41.28,0:10:43.41,Default,,0,0,0,,é alguém do Kusaribe!
+Dialogue: 0,0:10:44.20,0:10:46.45,Default,,0,0,0,,Você deverá conseguir encontrá-los rapidinho.
+Dialogue: 0,0:10:48.33,0:10:51.17,Default,,0,0,0,,Você tem certeza de que alguém do clã é responsável?
+Dialogue: 0,0:10:51.50,0:10:53.78,Default,,0,0,0,,Foi o que disse a magia de Hakaze.
+Dialogue: 0,0:10:53.78,0:10:56.29,Default,,0,0,0,,Hakaze tinha algum motivo para mentir?
+Dialogue: 0,0:10:56.78,0:10:58.08,Default,,0,0,0,,Improvável.
+Dialogue: 0,0:10:58.42,0:11:03.01,Default,,0,0,0,,Não consigo pensar em nenhum motivo para ela enganar você sobre os resultados de sua investigação.
+Dialogue: 0,0:11:03.01,0:11:04.93,Default,,0,0,0,,Então vá em frente
+Dialogue: 0,0:11:05.26,0:11:08.42,Default,,0,0,0,,e identificar quem matou minha irmã, Aika.
+Dialogue: 0,0:11:08.42,0:11:11.39,Default,,0,0,0,,E traga-o vivo para mim!
+Dialogue: 0,0:11:11.39,0:11:13.15,Default,,0,0,0,,Esse é meu desejo!
+Dialogue: 0,0:11:15.71,0:11:18.05,Default,,0,0,0,,Se alguém usasse magia
+Dialogue: 0,0:11:18.05,0:11:20.97,Default,,0,0,0,,cometer assassinato para seu próprio benefício,
+Dialogue: 0,0:11:20.97,0:11:22.70,Default,,0,0,0,,isso é um crime imperdoável.
+Dialogue: 0,0:11:23.37,0:11:25.62,Default,,0,0,0,,Embora ele possa ser do nosso clã,
+Dialogue: 0,0:11:25.62,0:11:29.54,Default,,0,0,0,,entregando o assassino a ele em troca do talismã
+Dialogue: 0,0:11:29.54,0:11:31.76,Default,,0,0,0,,é um preço insignificante.
+Dialogue: 0,0:11:32.71,0:11:33.63,Default,,0,0,0,,Muito bem.
+Dialogue: 0,0:11:34.53,0:11:36.19,Default,,0,0,0,,Eu realizarei seu desejo.
+Dialogue: 0,0:11:38.03,0:11:40.73,Default,,0,0,0,,Quando sua irmã foi morta?
+Dialogue: 0,0:11:40.73,0:11:44.05,Default,,0,0,0,,Ano passado, 23 de novembro.
+Dialogue: 0,0:11:44.05,0:11:46.60,Default,,0,0,0,,Tetsuma, peço desculpas por incomodá-lo enquanto você estava ocupado.
+Dialogue: 0,0:11:46.95,0:11:48.74,Default,,0,0,0,,Quero que você analise uma coisa imediatamente.
+Dialogue: 0,0:11:49.29,0:11:50.41,Default,,0,0,0,,Isso é prioridade máxima.
+Dialogue: 0,0:11:51.04,0:11:52.42,Default,,0,0,0,,Só mais um pouquinho...
+Dialogue: 0,0:11:52.81,0:11:54.21,Default,,0,0,0,,Um pouco mais,
+Dialogue: 0,0:11:54.21,0:11:56.36,Default,,0,0,0,,e o mundo fará sentido para mim novamente!
+Dialogue: 0,0:11:56.89,0:11:59.49,Default,,0,0,0,,Sim, você é realmente incrível, Mahiro.
+Dialogue: 0,0:12:00.07,0:12:01.61,Default,,0,0,0,,Absolutamente incrível.
+Dialogue: 0,0:12:02.30,0:12:04.27,Default,,0,0,0,,Inúmeras pessoas morreram,
+Dialogue: 0,0:12:04.27,0:12:06.62,Default,,0,0,0,,o mundo foi abalado por árvores e magia,
+Dialogue: 0,0:12:06.62,0:12:09.87,Default,,0,0,0,,até o próprio tempo foi distorcido.
+Dialogue: 0,0:12:10.37,0:12:15.78,Default,,0,0,0,,Mas você continuará a impor sua lógica, em nome do seu desejo.
+Dialogue: 0,0:12:16.90,0:12:19.97,Default,,0,0,0,,Mas, Mahiro, isso é uma tragédia...
+Dialogue: 0,0:12:19.97,0:12:21.22,Default,,0,0,0,,Uma tragédia!
+Dialogue: 0,0:12:22.14,0:12:25.83,Default,,0,0,0,,Não tenho o poder nem o direito de impedir isso, mas...
+Dialogue: 0,0:12:27.00,0:12:29.35,Default,,0,0,0,,Hakaze-san, aqui é Yoshino.
+Dialogue: 0,0:12:30.00,0:12:33.40,Default,,0,0,0,,O acordo entre Mahiro e Samon foi finalizado.
+Dialogue: 0,0:12:33.92,0:12:35.07,Default,,0,0,0,,Eu vejo...
+Dialogue: 0,0:12:35.92,0:12:39.93,Default,,0,0,0,,Isso significaria que o xeque-mate foi, na verdade, às minhas custas.
+Dialogue: 0,0:12:40.44,0:12:42.57,Default,,0,0,0,,Você realmente vai desistir tão facilmente?
+Dialogue: 0,0:12:43.06,0:12:44.86,Default,,0,0,0,,Se você estiver certo, Hakaze-san,
+Dialogue: 0,0:12:44.86,0:12:47.91,Default,,0,0,0,,A Árvore do Êxodo vai destruir o mundo, certo?
+Dialogue: 0,0:12:47.91,0:12:49.45,Default,,0,0,0,,Está fora do meu controle.
+Dialogue: 0,0:12:49.90,0:12:52.87,Default,,0,0,0,,No seu tempo, eu já estaria morto.
+Dialogue: 0,0:12:53.27,0:12:55.85,Default,,0,0,0,,Mesmo que eu possa pará-lo temporariamente,
+Dialogue: 0,0:12:55.85,0:12:58.88,Default,,0,0,0,,eventualmente não haverá ninguém para deter Samon.
+Dialogue: 0,0:12:59.30,0:13:02.31,Default,,0,0,0,,Assim que ficou claro que eu não poderia retornar,
+Dialogue: 0,0:13:02.31,0:13:04.25,Default,,0,0,0,,todas as possibilidades desapareceram.
+Dialogue: 0,0:13:04.75,0:13:07.25,Default,,0,0,0,,Não posso reclamar que Mahiro decidiu me abandonar.
+Dialogue: 0,0:13:09.12,0:13:13.09,Default,,0,0,0,,Se eu pudesse citar Hamlet, como Mahiro faz em momentos como este,
+Dialogue: 0,0:13:13.09,0:13:14.89,Default,,0,0,0,,Eu seria muito mais legal.
+Dialogue: 0,0:13:15.32,0:13:17.31,Default,,0,0,0,,Infelizmente, nada me vem à mente.
+Dialogue: 0,0:13:17.87,0:13:22.07,Default,,0,0,0,,Definitivamente não é o momento de citar essa tragédia.
+Dialogue: 0,0:13:22.07,0:13:23.94,Default,,0,0,0,,Aika-chan sempre costumava...
+Dialogue: 0,0:13:38.41,0:13:40.04,Default,,0,0,0,,Há mais coisas
+Dialogue: 0,0:13:40.37,0:13:47.22,Default,,0,0,0,,no céu e na terra, do que sonha a vossa filosofia.
+Dialogue: 0,0:13:47.69,0:13:49.32,Default,,0,0,0,,Hamlet de novo?
+Dialogue: 0,0:13:49.32,0:13:50.00,Default,,0,0,0,,De fato.
+Dialogue: 0,0:13:50.92,0:13:52.47,Default,,0,0,0,,Vamos parar com isso.
+Dialogue: 0,0:13:52.85,0:13:55.42,Default,,0,0,0,,Por quê? É um clássico.
+Dialogue: 0,0:13:55.80,0:13:58.71,Default,,0,0,0,,Essa história é uma tragédia sobre a mãe de Hamlet,
+Dialogue: 0,0:13:58.71,0:14:01.76,Default,,0,0,0,,seu amante e o irmão mais velho de seu amante
+Dialogue: 0,0:14:01.76,0:14:04.01,Default,,0,0,0,,que morre devido à sua obsessão por vingança.
+Dialogue: 0,0:14:04.55,0:14:09.10,Default,,0,0,0,,E o próprio Hamlet morre em um duelo com o irmão mais velho.
+Dialogue: 0,0:14:09.10,0:14:10.49,Default,,0,0,0,,É muito azar.
+Dialogue: 0,0:14:12.34,0:14:14.78,Default,,0,0,0,,Então, se relacionássemos isso com nossas vidas,
+Dialogue: 0,0:14:15.42,0:14:19.30,Default,,0,0,0,,seria aqui que você e Mahiro se matariam por minha causa.
+Dialogue: 0,0:14:19.30,0:14:23.51,Default,,0,0,0,,E estou dizendo que esse futuro não é realmente impossível...
+Dialogue: 0,0:14:23.51,0:14:26.80,Default,,0,0,0,,Se você não gosta de citações de Hamlet,
+Dialogue: 0,0:14:27.17,0:14:29.59,Default,,0,0,0,,por que não cito outro
+Dialogue: 0,0:14:29.59,0:14:33.39,Default,,0,0,0,,história de vingança, mas uma na qual todos vivem felizes para sempre?
+Dialogue: 0,0:14:33.85,0:14:36.26,Default,,0,0,0,,Esta é outra peça de Shakespeare,
+Dialogue: 0,0:14:36.26,0:14:38.77,Default,,0,0,0,,e é sobre um feiticeiro em uma ilha.
+Dialogue: 0,0:14:38.77,0:14:40.84,Default,,0,0,0,,Um mago em uma ilha?
+Dialogue: 0,0:14:41.31,0:14:44.86,Default,,0,0,0,,Uma história sobre vingança, mas todos vivem felizes para sempre?
+Dialogue: 0,0:14:49.19,0:14:51.20,Default,,0,0,0,,Como se chama essa história?
+Dialogue: 0,0:14:52.00,0:14:53.47,Default,,0,0,0,,É chamado
+Dialogue: 0,0:14:56.83,0:14:58.25,Default,,0,0,0,,A Tempestade.
+Dialogue: 0,0:15:00.44,0:15:01.39,Default,,0,0,0,,O que está acontecendo?
+Dialogue: 0,0:15:01.92,0:15:03.98,Default,,0,0,0,,Por que estou lembrando disso agora?
+Dialogue: 0,0:15:04.61,0:15:07.87,Default,,0,0,0,,Vingança, uma ilha, um mago...
+Dialogue: 0,0:15:08.29,0:15:09.53,Default,,0,0,0,,Isso tudo é coincidência?
+Dialogue: 0,0:15:13.99,0:15:15.50,Default,,0,0,0,,É possível, Aika-chan,
+Dialogue: 0,0:15:16.57,0:15:19.54,Default,,0,0,0,,para fazer com que essa história não termine em tragédia?
+Dialogue: 0,0:15:20.35,0:15:22.30,Default,,0,0,0,,É por isso que estou aqui?
+Dialogue: 0,0:15:23.55,0:15:27.22,Default,,0,0,0,,Existe alguma maneira de salvar Hakaze-san daquela ilha?
+Dialogue: 0,0:15:30.08,0:15:32.02,Default,,0,0,0,,Vou tentar, Aika-chan.
+Dialogue: 0,0:15:32.64,0:15:36.45,Default,,0,0,0,,Não sei se o personagem daquela história
+Dialogue: 0,0:15:37.25,0:15:41.10,Default,,0,0,0,,é um duende do ar ou um monstro horrível,
+Dialogue: 0,0:15:41.75,0:15:45.10,Default,,0,0,0,,mas se esse é o papel que me foi dado...
+Dialogue: 0,0:15:48.64,0:15:49.76,Default,,0,0,0,,Sinto muito, Mahiro.
+Dialogue: 0,0:15:56.01,0:15:57.10,Default,,0,0,0,,O que diabos você está fazendo?!
+Dialogue: 0,0:15:57.61,0:15:59.93,Default,,0,0,0,,Pensei em pegar emprestado aquele talismã por um segundo.
+Dialogue: 0,0:16:06.75,0:16:09.28,Default,,0,0,0,,Onde você conseguiu algo assim?
+Dialogue: 0,0:16:09.52,0:16:12.28,Default,,0,0,0,,Você acreditaria se eu dissesse que eles são baratos quando comprados pelo correio?
+Dialogue: 0,0:16:14.24,0:16:15.24,Default,,0,0,0,,O que...
+Dialogue: 0,0:16:15.66,0:16:17.21,Default,,0,0,0,,O que está acontecendo?
+Dialogue: 0,0:16:18.51,0:16:19.75,Default,,0,0,0,,Árvore dentro da árvore,
+Dialogue: 0,0:16:19.75,0:16:21.54,Default,,0,0,0,,grande árvore dentro da grande árvore,
+Dialogue: 0,0:16:22.27,0:16:24.44,Default,,0,0,0,,ouça minhas palavras e realize meu desejo.
+Dialogue: 0,0:16:26.73,0:16:30.01,Default,,0,0,0,,Não permitirei que as coisas fiquem ainda mais incertas!
+Dialogue: 0,0:16:34.20,0:16:35.44,Default,,0,0,0,,Já chega!
+Dialogue: 0,0:16:43.77,0:16:45.31,Default,,0,0,0,,Não ouse machucar Yoshino...
+Dialogue: 0,0:16:45.67,0:16:47.06,Default,,0,0,0,,Não seja tolo!
+Dialogue: 0,0:16:47.06,0:16:49.78,Default,,0,0,0,,Se o talismã for roubado de você, eu também estarei em desvantagem!
+Dialogue: 0,0:16:49.78,0:16:50.44,Default,,0,0,0,,Cale a boca!
+Dialogue: 0,0:16:50.91,0:16:52.30,Default,,0,0,0,,Fique fora disso!
+Dialogue: 0,0:17:01.15,0:17:02.20,Default,,0,0,0,,Yoshino...
+Dialogue: 0,0:17:03.24,0:17:07.96,Default,,0,0,0,,Como fui parar no meio de uma briga entre crianças?
+Dialogue: 0,0:17:14.86,0:17:15.84,Default,,0,0,0,,Agora, vinte.
+Dialogue: 0,0:17:21.91,0:17:25.06,Default,,0,0,0,,Portanto, parece que se duas barreiras colidem,
+Dialogue: 0,0:17:25.06,0:17:27.28,Default,,0,0,0,,Pelo menos posso repelir você.
+Dialogue: 0,0:17:27.28,0:17:28.02,Default,,0,0,0,,Quem é você?
+Dialogue: 0,0:17:28.35,0:17:30.87,Default,,0,0,0,,Sobrenome: Yamamoto. Nome: Evangeline.
+Dialogue: 0,0:17:31.50,0:17:33.51,Default,,0,0,0,,Também conhecida como Fraulein Yamamoto.
+Dialogue: 0,0:17:34.31,0:17:36.13,Default,,0,0,0,,Vinte e oito anos e desempregado.
+Dialogue: 0,0:17:37.06,0:17:38.57,Default,,0,0,0,,E aqui para fazer uma visita inesperada.
+Dialogue: 0,0:17:39.52,0:17:41.62,Default,,0,0,0,,O que ele está pensando?
+Dialogue: 0,0:17:42.19,0:17:43.62,Default,,0,0,0,,Qual é a motivação dele?!
+Dialogue: 0,0:17:43.62,0:17:45.42,Default,,0,0,0,,Bem?
+Dialogue: 0,0:17:45.42,0:17:47.84,Default,,0,0,0,,Por que viemos aqui?
+Dialogue: 0,0:17:49.04,0:17:51.30,Default,,0,0,0,,A razão pela qual deveríamos ter vindo
+Dialogue: 0,0:17:51.30,0:17:54.47,Default,,0,0,0,,é pelo bem de uma garota que foi injustamente morta.
+Dialogue: 0,0:17:54.88,0:18:00.35,Default,,0,0,0,,Mas será que é realmente aceitável abandonarmos uma garota na mesma posição injusta?
+Dialogue: 0,0:18:00.35,0:18:01.97,Default,,0,0,0,,Você realmente concorda em deixá-la morrer?
+Dialogue: 0,0:18:02.61,0:18:04.46,Default,,0,0,0,,Seja por vingança,
+Dialogue: 0,0:18:04.46,0:18:07.04,Default,,0,0,0,,você realmente permitirá um final tão trágico?
+Dialogue: 0,0:18:08.29,0:18:11.10,Default,,0,0,0,,Em uma das cidades onde a fruta voou,
+Dialogue: 0,0:18:11.10,0:18:13.07,Default,,0,0,0,,você salvou uma garota que não precisava salvar.
+Dialogue: 0,0:18:13.59,0:18:16.06,Default,,0,0,0,,Não foi porque você não suportou esse final?!
+Dialogue: 0,0:18:16.56,0:18:18.07,Default,,0,0,0,,Não tenho escolha...
+Dialogue: 0,0:18:18.55,0:18:22.21,Default,,0,0,0,,O Hakaze do outro lado daquela boneca é o Hakaze do passado.
+Dialogue: 0,0:18:22.21,0:18:25.33,Default,,0,0,0,,O atual Hakaze é a coleção de ossos que existe ali.
+Dialogue: 0,0:18:25.33,0:18:28.58,Default,,0,0,0,,Não importa o que façamos. Ela já está morta!
+Dialogue: 0,0:18:28.58,0:18:33.67,Default,,0,0,0,,Então, é razoável que eu faça um acordo para matar o assassino!
+Dialogue: 0,0:18:34.22,0:18:39.26,Default,,0,0,0,,Então, se houvesse uma maneira de se vingar e salvar Hakaze-san,
+Dialogue: 0,0:18:39.80,0:18:42.64,Default,,0,0,0,,você estaria disposto a voltar para o lado de Hakaze-san?
+Dialogue: 0,0:18:43.72,0:18:45.11,Default,,0,0,0,,O que ele está dizendo?
+Dialogue: 0,0:18:46.02,0:18:49.08,Default,,0,0,0,,Não há como salvar alguém que é apenas um monte de ossos.
+Dialogue: 0,0:18:49.08,0:18:51.20,Default,,0,0,0,,Mesmo com magia, você não pode reviver os mortos!
+Dialogue: 0,0:18:51.65,0:18:52.57,Default,,0,0,0,,Eu sei.
+Dialogue: 0,0:18:53.01,0:18:54.61,Default,,0,0,0,,Os mortos não retornarão à vida.
+Dialogue: 0,0:18:55.22,0:18:57.07,Default,,0,0,0,,Aika-chan não retornará à vida.
+Dialogue: 0,0:18:57.50,0:18:58.87,Default,,0,0,0,,Mas estou preparado
+Dialogue: 0,0:18:58.87,0:19:01.97,Default,,0,0,0,,para provar que há uma maneira de recuperar Hakaze-san
+Dialogue: 0,0:19:01.97,0:19:04.87,Default,,0,0,0,,de sua dimensão há dois anos.
+Dialogue: 0,0:19:08.26,0:19:10.91,Default,,0,0,0,,Ele não pode querer dizer...
+Dialogue: 0,0:19:11.66,0:19:13.26,Default,,0,0,0,,Mesmo que isso seja verdade,
+Dialogue: 0,0:19:13.26,0:19:16.15,Default,,0,0,0,,se eu estiver prestes a descobrir a identidade do assassino de Aika,
+Dialogue: 0,0:19:16.15,0:19:18.97,Default,,0,0,0,,Por que eu deveria me preocupar em voltar para o lado do Hakaze?
+Dialogue: 0,0:19:18.97,0:19:21.69,Default,,0,0,0,,Não importa como você olhe, não há nada para mim.
+Dialogue: 0,0:19:22.29,0:19:24.09,Default,,0,0,0,,Sim, está certo.
+Dialogue: 0,0:19:24.09,0:19:25.25,Default,,0,0,0,,Mas há algo.
+Dialogue: 0,0:19:26.70,0:19:30.00,Default,,0,0,0,,Se você voltar para este lado,
+Dialogue: 0,0:19:30.65,0:19:34.32,Default,,0,0,0,,Vou te contar a identidade do namorado da Aika-chan.
+Dialogue: 0,0:19:40.15,0:19:42.18,Default,,0,0,0,,Namorado?
+Dialogue: 0,0:19:44.20,0:19:46.35,Default,,0,0,0,,É melhor você não ficar inventando coisas.
+Dialogue: 0,0:19:46.35,0:19:49.30,Default,,0,0,0,,Como se eu fosse inventar coisas em um momento como esse.
+Dialogue: 0,0:19:52.08,0:19:53.96,Default,,0,0,0,,Você realmente sabe quem foi?
+Dialogue: 0,0:19:53.96,0:19:57.25,Default,,0,0,0,,Bem, sim, já que fui eu.
+Dialogue: 0,0:19:57.25,0:19:58.43,Default,,0,0,0,,Sim eu sei.
+Dialogue: 0,0:19:58.96,0:20:00.22,Default,,0,0,0,,Mas, Mahiro,
+Dialogue: 0,0:20:00.60,0:20:03.02,Default,,0,0,0,,a menos que você concorde com meus termos,
+Dialogue: 0,0:20:03.02,0:20:04.94,Default,,0,0,0,,Nunca lhe direi quem foi.
+Dialogue: 0,0:20:06.03,0:20:09.85,Default,,0,0,0,,Você ficará para sempre sem saber quem foi.
+Dialogue: 0,0:20:13.94,0:20:14.84,Default,,0,0,0,,Espere...
+Dialogue: 0,0:20:14.84,0:20:16.31,Default,,0,0,0,,Quem se importa com namorado?
+Dialogue: 0,0:20:16.31,0:20:18.69,Default,,0,0,0,,Por que você está dividido? Inacreditável!
+Dialogue: 0,0:20:19.11,0:20:21.45,Default,,0,0,0,,Não vou concordar tão facilmente.
+Dialogue: 0,0:20:21.84,0:20:26.61,Default,,0,0,0,,Se você pensar logicamente, é impossível restaurar Hakaze se ela for apenas ossos.
+Dialogue: 0,0:20:26.61,0:20:28.36,Default,,0,0,0,,Vou provar a você que isso é possível.
+Dialogue: 0,0:20:28.89,0:20:30.83,Default,,0,0,0,,Se eu conseguir te convencer,
+Dialogue: 0,0:20:30.83,0:20:32.64,Default,,0,0,0,,você vai se juntar ao lado de Hakaze-san novamente?
+Dialogue: 0,0:20:32.64,0:20:35.71,Default,,0,0,0,,E se eu fizer isso, você vai me dizer quem era o namorado da Aika, certo?
+Dialogue: 0,0:20:36.09,0:20:38.75,Default,,0,0,0,,Se pudermos trazer Hakaze-san de volta, eu te conto.
+Dialogue: 0,0:20:45.05,0:20:46.00,Default,,0,0,0,,Multar...
+Dialogue: 0,0:20:46.00,0:20:47.64,Default,,0,0,0,,Faça o impossível possível.
+Dialogue: 0,0:20:47.64,0:20:49.65,Default,,0,0,0,,Ei! O que você está dizendo?
+Dialogue: 0,0:20:49.65,0:20:52.26,Default,,0,0,0,,O que ele poderia dizer neste momento?!
+Dialogue: 0,0:20:52.26,0:20:55.35,Default,,0,0,0,,Segundo você, Hakaze está morto, certo?
+Dialogue: 0,0:20:55.89,0:20:57.22,Default,,0,0,0,,Por que você está em pânico?
+Dialogue: 0,0:20:58.81,0:21:02.82,Default,,0,0,0,,Vai levar tempo para você pegar o assassino de Aika para mim.
+Dialogue: 0,0:21:03.34,0:21:05.36,Default,,0,0,0,,Isso será bom para matar o tempo.
+Dialogue: 0,0:21:11.71,0:21:14.92,Default,,0,0,0,,Muito bem, concordo com esses termos.
+Dialogue: 0,0:21:16.88,0:21:20.29,Default,,0,0,0,,Yoshino, vou ouvir seu plano.
+Dialogue: 0,0:21:21.86,0:21:22.90,Default,,0,0,0,,No entanto...
+Dialogue: 0,0:21:23.94,0:21:27.51,Default,,0,0,0,,Somente até o assassino de Aika ser trazido para cá.
+Dialogue: 0,0:21:27.84,0:21:31.24,Default,,0,0,0,,Se você não conseguir me convencer até lá, não há acordo.
+Dialogue: 0,0:21:31.79,0:21:33.59,Default,,0,0,0,,Sim, está tudo bem.
+Dialogue: 0,0:21:41.94,0:21:43.90,Default,,0,0,0,,Não acredito...
+Dialogue: 0,0:21:43.90,0:21:46.31,Default,,0,0,0,,Toda a situação virou de cabeça para baixo,
+Dialogue: 0,0:21:46.31,0:21:48.27,Default,,0,0,0,,apenas com a palavra "namorado".
+Dialogue: 0,0:21:48.82,0:21:51.27,Default,,0,0,0,,O que está acontecendo com a lógica deste mundo?
+Dialogue: 0,0:21:52.12,0:21:54.45,Default,,0,0,0,,Todos os eventos deste mundo,
+Dialogue: 0,0:21:54.45,0:21:56.01,Default,,0,0,0,,todos os seres vivos,
+Dialogue: 0,0:21:56.01,0:22:00.50,Default,,0,0,0,,assim como o oceano, o céu, as nuvens, o vento e o sol...
+Dialogue: 0,0:22:01.06,0:22:05.17,Default,,0,0,0,,Tudo isso foi colocado em uma balança e superado...
+Dialogue: 0,0:22:05.93,0:22:08.18,Default,,0,0,0,,Por uma garota chamada Aika.
+Dialogue: 0,0:22:17.78,0:22:18.56,Default,,0,0,0,,Tudo bem...
+Dialogue: 0,0:22:20.07,0:22:21.94,Default,,0,0,0,,Aqui está minha teoria.
+Dialogue: 0,0:24:02.12,0:24:05.02,Default,,0,0,0,,Então as coisas acontecerão exatamente como planejamos originalmente...
+Dialogue: 0,0:24:05.02,0:24:08.17,Default,,0,0,0,,O clã Kusaribe passou três gerações
+Dialogue: 0,0:24:08.17,0:24:10.29,Default,,0,0,0,,construindo meticulosamente isto...
+Dialogue: 0,0:24:10.29,0:24:12.59,Default,,0,0,0,,Diga-me seu nome, mago.
+Dialogue: 0,0:24:13.32,0:24:15.74,Default,,0,0,0,,Viu? Eu também tenho lanches.
+Dialogue: 0,0:24:16.41,0:24:18.81,Default,,0,0,0,,Você é surpreendentemente dissimulado.
+Dialogue: 0,0:24:19.22,0:24:20.48,Default,,0,0,0,,Impressionante.
+Dialogue: 0,0:24:21.56,0:24:22.84,Default,,0,0,0,,É uma teoria válida!
+Dialogue: 0,0:24:22.84,0:24:23.98,Default,,0,0,0,,É uma falácia lógica!
+Dialogue: 0,0:24:23.98,0:24:27.34,Default,,0,0,0,,Episódio 10 Como Fazer uma Máquina do Tempo

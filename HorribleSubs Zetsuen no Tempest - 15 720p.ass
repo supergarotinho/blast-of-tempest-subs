@@ -1,0 +1,418 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:32.95,0:01:36.90,Default,,0,0,0,,Então como diabos eu fui parar numa liquidação de Ano Novo com você?
+Dialogue: 0,0:01:37.21,0:01:39.96,Default,,0,0,0,,Temos que coletar suprimentos.
+Dialogue: 0,0:01:40.54,0:01:42.71,Default,,0,0,0,,E há outros itens solicitados.
+Dialogue: 0,0:01:45.27,0:01:47.59,Default,,0,0,0,,Não sabia que você usava roupas íntimas tão chamativas.
+Dialogue: 0,0:01:47.59,0:01:49.31,Default,,0,0,0,,Essas seriam para você.
+Dialogue: 0,0:01:51.89,0:01:54.09,Default,,0,0,0,,Alguém não está se encontrando com este Hanemura
+Dialogue: 0,0:01:54.39,0:01:57.02,Default,,0,0,0,,Quem deveria ser o mago do Êxodo?
+Dialogue: 0,0:01:57.45,0:02:01.76,Default,,0,0,0,,Você não me trouxe aqui para evitar que eu chegasse muito perto do cara?
+Dialogue: 0,0:02:03.89,0:02:05.96,Default,,0,0,0,,Isso é parte, mas...
+Dialogue: 0,0:02:05.96,0:02:07.98,Default,,0,0,0,,Existe uma ordem para as coisas.
+Dialogue: 0,0:02:08.29,0:02:10.02,Default,,0,0,0,,Deveria ser óbvio
+Dialogue: 0,0:02:10.02,0:02:13.52,Default,,0,0,0,,que precisamos confirmar sua identidade antes de deixar você vê-lo.
+Dialogue: 0,0:02:15.40,0:02:17.57,Default,,0,0,0,,Ele é real?
+Dialogue: 0,0:02:18.39,0:02:21.45,Default,,0,0,0,,Segundo a princesa, não há dúvidas.
+Dialogue: 0,0:02:23.67,0:02:25.85,Default,,0,0,0,,Hanemura Megumu...
+Dialogue: 0,0:02:25.85,0:02:27.56,Default,,0,0,0,,Seu poder é, sem dúvida,
+Dialogue: 0,0:02:27.56,0:02:30.12,Default,,0,0,0,,o poder de um mago do Êxodo.
+Dialogue: 0,0:02:30.12,0:02:34.59,Default,,0,0,0,,Mas, além disso, isso faz dele um suspeito do assassinato de Fuwa Aika.
+Dialogue: 0,0:02:35.17,0:02:37.40,Default,,0,0,0,,Gostaria de saber qual será a jogada de Mahiro...
+Dialogue: 0,0:02:43.20,0:02:44.03,Default,,0,0,0,,Jovem...
+Dialogue: 0,0:02:55.09,0:02:57.94,Default,,0,0,0,,Eu realmente não sei
+Dialogue: 0,0:02:57.94,0:03:00.95,Default,,0,0,0,,Assunto: Estarei esperando por você <3
+Dialogue: 0,0:02:58.44,0:03:00.51,Default,,0,0,0,,como me sinto sobre isso...
+Dialogue: 0,0:03:01.76,0:03:04.40,Default,,0,0,0,,E então, é um prazer conhecê-lo, Hanemura-kun!
+Dialogue: 0,0:03:04.40,0:03:05.70,Default,,0,0,0,,C-Certo...
+Dialogue: 0,0:03:06.22,0:03:08.27,Default,,0,0,0,,Meu nome é Evangeline Yamamoto.
+Dialogue: 0,0:03:08.73,0:03:11.12,Default,,0,0,0,,Pode me chamar de Fraulein Yamamoto.
+Dialogue: 0,0:03:11.74,0:03:14.66,Default,,0,0,0,,E-Esse é um nome único...
+Dialogue: 0,0:03:14.66,0:03:17.18,Default,,0,0,0,,Ah, esse é o mago, Natsumura-kun.
+Dialogue: 0,0:03:17.52,0:03:19.67,Default,,0,0,0,,Chame-o apenas de Natsu.
+Dialogue: 0,0:03:20.18,0:03:21.59,Default,,0,0,0,,Por favor, não me chame assim.
+Dialogue: 0,0:03:22.59,0:03:24.35,Default,,0,0,0,,Pois bem, Hanemura-kun…
+Dialogue: 0,0:03:24.97,0:03:27.47,Default,,0,0,0,,Por que você não começa nos contando mais sobre você?
+Dialogue: 0,0:03:27.68,0:03:29.63,Default,,0,0,0,,C-Claro.
+Dialogue: 0,0:03:30.40,0:03:32.60,Default,,0,0,0,,Graças a Deus ela é tão legal...
+Dialogue: 0,0:03:34.29,0:03:36.38,Default,,0,0,0,,Então agora você é o motorista?
+Dialogue: 0,0:03:36.38,0:03:38.04,Default,,0,0,0,,Dirigir não é minha única função.
+Dialogue: 0,0:03:38.04,0:03:41.07,Default,,0,0,0,,Se algo acontecesse com Samon-dono, eu agiria como seu guarda-costas.
+Dialogue: 0,0:03:41.68,0:03:43.21,Default,,0,0,0,,Quem se importaria agora?
+Dialogue: 0,0:03:44.35,0:03:47.61,Default,,0,0,0,,Não vá na contramão ou algo assim só porque você tem uma flecha no rosto.
+Dialogue: 0,0:03:48.03,0:03:49.87,Default,,0,0,0,,Não faz muito tempo que você acordou,
+Dialogue: 0,0:03:50.34,0:03:51.64,Default,,0,0,0,,mas você não parou de falar.
+Dialogue: 0,0:03:52.38,0:03:55.68,Default,,0,0,0,,Mais importante, estou surpreso que você não tenha desistido.
+Dialogue: 0,0:03:56.13,0:03:57.04,Default,,0,0,0,,Em quê?
+Dialogue: 0,0:03:57.56,0:04:00.08,Default,,0,0,0,,Você só tinha um plano,
+Dialogue: 0,0:04:00.08,0:04:02.13,Default,,0,0,0,,no qual você investiu muitos anos,
+Dialogue: 0,0:04:02.13,0:04:05.43,Default,,0,0,0,,ser frustrado pateticamente em um instante, como uma espécie de piada.
+Dialogue: 0,0:04:07.31,0:04:08.43,Default,,0,0,0,,Fuwa Mahiro...
+Dialogue: 0,0:04:09.25,0:04:12.15,Default,,0,0,0,,Suponha que o mundo fosse destruído,
+Dialogue: 0,0:04:12.15,0:04:14.56,Default,,0,0,0,,e um deus apareceu diante de você,
+Dialogue: 0,0:04:15.21,0:04:19.32,Default,,0,0,0,,você preferiria que dissesse que você não poderia ter feito nada para mudar o resultado?
+Dialogue: 0,0:04:19.32,0:04:24.57,Default,,0,0,0,,Ou que, se você não tivesse desistido, poderia ter afetado o resultado?
+Dialogue: 0,0:04:24.95,0:04:26.49,Default,,0,0,0,,Que deus irritante.
+Dialogue: 0,0:04:27.00,0:04:28.73,Default,,0,0,0,,Essa é a natureza de Deus.
+Dialogue: 0,0:04:29.62,0:04:33.23,Default,,0,0,0,,Se lhe dissessem que você teve uma chance, depois de ter desistido,
+Dialogue: 0,0:04:33.23,0:04:36.96,Default,,0,0,0,,Eu preferiria que me dissessem que nunca tive uma chance,
+Dialogue: 0,0:04:36.96,0:04:38.88,Default,,0,0,0,,depois de não desistir.
+Dialogue: 0,0:04:39.59,0:04:40.77,Default,,0,0,0,,E você?
+Dialogue: 0,0:04:41.80,0:04:43.56,Default,,0,0,0,,Sua irmã poderia ter
+Dialogue: 0,0:04:43.56,0:04:45.90,Default,,0,0,0,,foi morto pela lógica da Árvore do Gênesis.
+Dialogue: 0,0:04:46.56,0:04:48.72,Default,,0,0,0,,Você então abandonaria sua vingança?
+Dialogue: 0,0:04:49.03,0:04:52.73,Default,,0,0,0,,Eu realmente pareço tão decente para você?
+Dialogue: 0,0:04:54.73,0:04:57.81,Default,,0,0,0,,Aparentemente nenhum de nós sabe quando desistir, Fuwa Mahiro.
+Dialogue: 0,0:04:58.55,0:05:01.61,Default,,0,0,0,,Mahiro está ótimo. Pare de usar meu nome completo.
+Dialogue: 0,0:05:04.11,0:05:06.03,Default,,0,0,0,,É algo assim.
+Dialogue: 0,0:05:08.01,0:05:09.60,Default,,0,0,0,,Ele fez isso com tanta facilidade...
+Dialogue: 0,0:05:10.83,0:05:14.80,Default,,0,0,0,,Você não precisa de nenhum contrato ou oferta para usar magia?
+Dialogue: 0,0:05:14.80,0:05:15.85,Default,,0,0,0,,Oh não...
+Dialogue: 0,0:05:15.85,0:05:18.66,Default,,0,0,0,,Eu só penso em fazer e acontece.
+Dialogue: 0,0:05:19.11,0:05:21.45,Default,,0,0,0,,Como está sua energia física e emocional?
+Dialogue: 0,0:05:21.45,0:05:22.46,Default,,0,0,0,,Eu não tenho certeza.
+Dialogue: 0,0:05:22.91,0:05:25.98,Default,,0,0,0,,Ele não exige oferendas e não demonstra nenhum sinal de fadiga.
+Dialogue: 0,0:05:26.39,0:05:27.81,Default,,0,0,0,,Que perigoso...
+Dialogue: 0,0:05:29.03,0:05:31.11,Default,,0,0,0,,Assim como Hakaze-san disse,
+Dialogue: 0,0:05:31.11,0:05:33.35,Default,,0,0,0,,ele parece incerto sobre como usar seu poder.
+Dialogue: 0,0:05:33.70,0:05:37.56,Default,,0,0,0,,Então, com que precisão você pode atacar um inimigo?
+Dialogue: 0,0:05:37.56,0:05:38.99,Default,,0,0,0,,Um...
+Dialogue: 0,0:05:47.01,0:05:48.11,Default,,0,0,0,,Por exemplo,
+Dialogue: 0,0:05:49.00,0:05:51.43,Default,,0,0,0,,se eu fosse imaginar fazer essa árvore desaparecer...
+Dialogue: 0,0:06:23.50,0:06:25.39,Default,,0,0,0,,O que diabos você estava fazendo?!
+Dialogue: 0,0:06:25.39,0:06:26.94,Default,,0,0,0,,Eu estava apenas testando as coisas um pouco...
+Dialogue: 0,0:06:26.94,0:06:28.54,Default,,0,0,0,,O que você quer dizer com "um pouco"?!
+Dialogue: 0,0:06:28.54,0:06:30.91,Default,,0,0,0,,De agora em diante, não use magia sem nossa permissão!
+Dialogue: 0,0:06:30.91,0:06:31.70,Default,,0,0,0,,Sim, senhora...
+Dialogue: 0,0:06:31.70,0:06:32.80,Default,,0,0,0,,Juro!
+Dialogue: 0,0:06:33.89,0:06:34.70,Default,,0,0,0,,Caramba.
+Dialogue: 0,0:06:34.70,0:06:37.18,Default,,0,0,0,,Afinal, ela não era muito legal...
+Dialogue: 0,0:06:42.72,0:06:44.04,Default,,0,0,0,,Um...
+Dialogue: 0,0:06:45.90,0:06:48.80,Default,,0,0,0,,E agora, eu gostaria de começar
+Dialogue: 0,0:06:49.10,0:06:53.14,Default,,0,0,0,,Interrogatório de Hanemura Megumu-kun, em relação à acusação de assassinato.
+Dialogue: 0,0:06:53.14,0:06:54.64,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:06:54.94,0:06:57.57,Default,,0,0,0,,O-O que você quer dizer?
+Dialogue: 0,0:06:57.57,0:07:01.82,Default,,0,0,0,,Bem, o mago do Êxodo foi acusado de assassinato.
+Dialogue: 0,0:07:02.28,0:07:03.36,Default,,0,0,0,,Mas...
+Dialogue: 0,0:07:03.36,0:07:04.94,Default,,0,0,0,,EU...
+Dialogue: 0,0:07:04.94,0:07:06.78,Default,,0,0,0,,Não fique tão nervoso.
+Dialogue: 0,0:07:06.78,0:07:09.86,Default,,0,0,0,,Não pretendo ficar me prolongando com perguntas.
+Dialogue: 0,0:07:10.51,0:07:14.26,Default,,0,0,0,,Por enquanto, diga-me apenas isto. No dia 23 de novembro,
+Dialogue: 0,0:07:14.26,0:07:17.08,Default,,0,0,0,,há um ano, das 22h à meia-noite,
+Dialogue: 0,0:07:17.59,0:07:19.12,Default,,0,0,0,,onde você estava?
+Dialogue: 0,0:07:19.46,0:07:20.79,Default,,0,0,0,,Hein? O quê?
+Dialogue: 0,0:07:21.18,0:07:24.65,Default,,0,0,0,,Naquela data e hora, minha irmã mais nova foi morta.
+Dialogue: 0,0:07:25.17,0:07:27.76,Default,,0,0,0,,Encontrei o corpo dela na manhã seguinte.
+Dialogue: 0,0:07:28.09,0:07:30.00,Default,,0,0,0,,Ainda não sabemos quem foi o assassino.
+Dialogue: 0,0:07:30.82,0:07:33.01,Default,,0,0,0,,Sinto muito ouvir isso.
+Dialogue: 0,0:07:33.27,0:07:35.37,Default,,0,0,0,,Não quero sua pena ou simpatia.
+Dialogue: 0,0:07:35.37,0:07:37.77,Default,,0,0,0,,E além disso, considerando o estado atual do mundo,
+Dialogue: 0,0:07:37.77,0:07:40.98,Default,,0,0,0,,não é a pior coisa que poderia acontecer.
+Dialogue: 0,0:07:41.58,0:07:44.63,Default,,0,0,0,,Eu simplesmente não consigo perdoar o fato
+Dialogue: 0,0:07:44.63,0:07:47.32,Default,,0,0,0,,que o assassino de Aika ainda pode estar vivo.
+Dialogue: 0,0:07:47.87,0:07:50.61,Default,,0,0,0,,Isso porque é irracional e inconsistente.
+Dialogue: 0,0:07:51.14,0:07:52.76,Default,,0,0,0,,Eu farei o que for preciso
+Dialogue: 0,0:07:53.33,0:07:55.45,Default,,0,0,0,,para corrigir esse erro.
+Dialogue: 0,0:07:59.68,0:08:00.78,Default,,0,0,0,,Um...
+Dialogue: 0,0:08:02.23,0:08:03.67,Default,,0,0,0,,Quem é Aika?
+Dialogue: 0,0:08:04.25,0:08:05.85,Default,,0,0,0,,Ela é minha irmã mais nova!
+Dialogue: 0,0:08:05.85,0:08:07.36,Default,,0,0,0,,Você não conseguiu entender isso nessa conversa?!
+Dialogue: 0,0:08:07.36,0:08:09.28,Default,,0,0,0,,O contexto?
+Dialogue: 0,0:08:09.28,0:08:10.46,Default,,0,0,0,,Nossa.
+Dialogue: 0,0:08:10.86,0:08:14.47,Default,,0,0,0,,De qualquer forma, depois de usar magia para encontrar o assassino,
+Dialogue: 0,0:08:14.47,0:08:17.93,Default,,0,0,0,,o mago do Êxodo é o principal suspeito.
+Dialogue: 0,0:08:18.28,0:08:19.50,Default,,0,0,0,,Responda-me...
+Dialogue: 0,0:08:19.50,0:08:24.04,Default,,0,0,0,,O que você estava fazendo na noite do dia 23?
+Dialogue: 0,0:08:27.89,0:08:29.19,Default,,0,0,0,,Mas...
+Dialogue: 0,0:08:29.64,0:08:32.33,Default,,0,0,0,,Isso foi há mais de um ano...
+Dialogue: 0,0:08:34.90,0:08:36.82,Default,,0,0,0,,E-Espere!
+Dialogue: 0,0:08:36.82,0:08:39.93,Default,,0,0,0,,Novembro do ano retrasado deveria ser...
+Dialogue: 0,0:08:41.36,0:08:43.50,Default,,0,0,0,,É isso mesmo.
+Dialogue: 0,0:08:43.79,0:08:47.57,Default,,0,0,0,,Naquela data, naquele momento, eu estava com Yu-chan.
+Dialogue: 0,0:08:47.57,0:08:48.57,Default,,0,0,0,,Yu-chan?
+Dialogue: 0,0:08:48.57,0:08:49.32,Default,,0,0,0,,Sim.
+Dialogue: 0,0:08:49.32,0:08:52.22,Default,,0,0,0,,Ela é minha namorada. Namoramos desde o meu primeiro ano,
+Dialogue: 0,0:08:52.22,0:08:54.97,Default,,0,0,0,,e sua pele é branca como a neve, então eu a chamo de Yu-chan!
+Dialogue: 0,0:08:55.32,0:08:58.16,Default,,0,0,0,,Ela é bem dura no geral, mas também pode ser muito fofa.
+Dialogue: 0,0:08:58.16,0:08:59.18,Default,,0,0,0,,Como se eu me importasse.
+Dialogue: 0,0:09:03.44,0:09:08.21,Default,,0,0,0,,Então, se falássemos com ela, saberíamos se seu álibi é sólido ou não?
+Dialogue: 0,0:09:08.61,0:09:09.86,Default,,0,0,0,,Sim, mas...
+Dialogue: 0,0:09:10.84,0:09:12.86,Default,,0,0,0,,Não posso deixar você ver Yu-chan.
+Dialogue: 0,0:09:13.31,0:09:14.40,Default,,0,0,0,,Por que não?
+Dialogue: 0,0:09:15.44,0:09:17.95,Default,,0,0,0,,Esse negócio todo é muito estranho.
+Dialogue: 0,0:09:18.51,0:09:20.53,Default,,0,0,0,,Não sei que tipo de perigo correremos.
+Dialogue: 0,0:09:20.91,0:09:23.50,Default,,0,0,0,,Não quero envolver Yu-chan nisso de jeito nenhum!
+Dialogue: 0,0:09:27.01,0:09:28.11,Default,,0,0,0,,Também,
+Dialogue: 0,0:09:28.87,0:09:32.51,Default,,0,0,0,,Ela terminou comigo recentemente, então as coisas estão bem estranhas.
+Dialogue: 0,0:09:32.97,0:09:35.87,Default,,0,0,0,,Ela não responde minhas ligações ou mensagens,
+Dialogue: 0,0:09:35.87,0:09:37.76,Default,,0,0,0,,e ouvi dizer que ela pode ter se mudado...
+Dialogue: 0,0:09:38.09,0:09:40.36,Default,,0,0,0,,Então você não poderia tê-la visto para começar!
+Dialogue: 0,0:09:42.06,0:09:42.92,Default,,0,0,0,,Qualquer que seja.
+Dialogue: 0,0:09:42.92,0:09:45.37,Default,,0,0,0,,Isso significa que meu nome foi limpo?
+Dialogue: 0,0:09:45.37,0:09:46.35,Default,,0,0,0,,Não.
+Dialogue: 0,0:09:46.59,0:09:50.44,Default,,0,0,0,,Isso significa apenas que terei que perguntar diretamente ao seu corpo.
+Dialogue: 0,0:09:51.55,0:09:52.36,Default,,0,0,0,,Huh?
+Dialogue: 0,0:09:54.18,0:09:55.54,Default,,0,0,0,,O que?!
+Dialogue: 0,0:09:59.49,0:10:00.32,Default,,0,0,0,,Ai!
+Dialogue: 0,0:10:00.81,0:10:02.03,Default,,0,0,0,,Para que foi isso?
+Dialogue: 0,0:10:03.18,0:10:05.64,Default,,0,0,0,,Você pode usar magia ou qualquer coisa que quiser.
+Dialogue: 0,0:10:05.64,0:10:08.70,Default,,0,0,0,,Tente fazer o que eu acabei de fazer e me coloque no chão.
+Dialogue: 0,0:10:08.70,0:10:10.50,Default,,0,0,0,,Posso usar o que eu quiser?
+Dialogue: 0,0:10:10.50,0:10:13.21,Default,,0,0,0,,M-Mas eu sou o mago do Êxodo!
+Dialogue: 0,0:10:13.60,0:10:14.86,Default,,0,0,0,,Sim, você é...
+Dialogue: 0,0:10:14.86,0:10:17.72,Default,,0,0,0,,Então não seria bom se você realmente tentasse me matar.
+Dialogue: 0,0:10:18.56,0:10:22.84,Default,,0,0,0,,Mas se você pudesse fazer isso, você poderia ter matado Aika também.
+Dialogue: 0,0:10:22.84,0:10:24.14,Default,,0,0,0,,M-Mas...
+Dialogue: 0,0:10:24.14,0:10:26.85,Default,,0,0,0,,Mesmo que eu morresse aqui,
+Dialogue: 0,0:10:26.85,0:10:31.05,Default,,0,0,0,,Tenho certeza de que Yoshino e Hakaze me vingariam...
+Dialogue: 0,0:10:34.18,0:10:36.57,Default,,0,0,0,,Ele não perdeu sua habilidade de negociar com firmeza.
+Dialogue: 0,0:10:37.24,0:10:40.00,Default,,0,0,0,,Qualquer pessoa normal ficaria cautelosa depois de ouvir isso.
+Dialogue: 0,0:10:40.57,0:10:44.44,Default,,0,0,0,,Mesmo que Hanemura estivesse escondendo sua verdadeira natureza de homem cruel,
+Dialogue: 0,0:10:45.01,0:10:48.83,Default,,0,0,0,,ele não arriscaria fazer da princesa sua inimiga enquanto estivesse tão mal preparado.
+Dialogue: 0,0:10:49.27,0:10:50.33,Default,,0,0,0,,Vamos, levante-se.
+Dialogue: 0,0:10:53.09,0:10:56.62,Default,,0,0,0,,Sua namorada provavelmente te deixou porque você é muito patético.
+Dialogue: 0,0:10:57.39,0:11:01.14,Default,,0,0,0,,Na verdade, estou começando a duvidar que ela fosse sua namorada...
+Dialogue: 0,0:11:01.14,0:11:01.64,Default,,0,0,0,,De fato.
+Dialogue: 0,0:11:02.24,0:11:03.70,Default,,0,0,0,,Mesmo que ela exista,
+Dialogue: 0,0:11:03.70,0:11:07.10,Default,,0,0,0,,também é possível que esses sentimentos fossem completamente unilaterais.
+Dialogue: 0,0:11:09.12,0:11:11.30,Default,,0,0,0,,Você é um perseguidor ou algo assim?
+Dialogue: 0,0:11:11.30,0:11:12.81,Default,,0,0,0,,Ei, cara perseguidor?
+Dialogue: 0,0:11:13.16,0:11:14.19,Default,,0,0,0,,EU...
+Dialogue: 0,0:11:14.67,0:11:16.03,Default,,0,0,0,,EU...
+Dialogue: 0,0:11:17.25,0:11:19.32,Default,,0,0,0,,Eu não sou um perseguidor!
+Dialogue: 0,0:11:25.31,0:11:27.50,Default,,0,0,0,,É muito óbvio que você não tem intenção de me bater.
+Dialogue: 0,0:11:27.84,0:11:31.00,Default,,0,0,0,,Se você for vir até mim, faça como se fosse quebrar meus membros.
+Dialogue: 0,0:11:31.49,0:11:32.72,Default,,0,0,0,,O que eu vou fazer?
+Dialogue: 0,0:11:32.72,0:11:34.69,Default,,0,0,0,,Não sinto que possa vencer.
+Dialogue: 0,0:11:37.33,0:11:39.03,Default,,0,0,0,,Sua força é inegável,
+Dialogue: 0,0:11:39.03,0:11:40.83,Default,,0,0,0,,mas com um coração tão fraco...
+Dialogue: 0,0:11:41.38,0:11:45.02,Default,,0,0,0,,Parece mais plausível que Takigawa Yoshino seja o mago de Exodus.
+Dialogue: 0,0:11:46.04,0:11:48.56,Default,,0,0,0,,Além disso, é possível que ele esteja tramando algo,
+Dialogue: 0,0:11:48.86,0:11:51.49,Default,,0,0,0,,então não devemos baixar a guarda.
+Dialogue: 0,0:11:52.31,0:11:54.11,Default,,0,0,0,,Presumivelmente, a árvore aqui
+Dialogue: 0,0:11:53.01,0:11:55.81,Default,,0,0,0,,Infelizmente, isso foi o máximo que conseguimos controlar na mídia.
+Dialogue: 0,0:11:54.11,0:11:56.79,Default,,0,0,0,,foi destruída ontem à tarde,
+Dialogue: 0,0:11:55.81,0:11:58.82,Default,,0,0,0,,Árvore desaparece de repente
+Dialogue: 0,0:11:55.81,0:11:58.82,Default,,0,0,0,,Desapareceu da noite para o dia!? Para onde foi a árvore?
+Dialogue: 0,0:11:56.79,0:11:59.98,Default,,0,0,0,,mas de acordo com os moradores da área,
+Dialogue: 0,0:11:59.33,0:12:01.36,Default,,0,0,0,,Bem, não é nenhuma surpresa.
+Dialogue: 0,0:11:59.98,0:12:04.53,Default,,0,0,0,,eles não ouviram nem sabiam como ele desapareceu.
+Dialogue: 0,0:12:01.77,0:12:03.81,Default,,0,0,0,,Afinal, ele fez uma árvore inteira desaparecer.
+Dialogue: 0,0:12:04.61,0:12:06.10,Default,,0,0,0,,Rumores na Internet sugerem
+Dialogue: 0,0:12:06.10,0:12:08.62,Default,,0,0,0,,pode ter sido o mago da obra do Êxodo.
+Dialogue: 0,0:12:09.91,0:12:12.62,Default,,0,0,0,,Bem, os rumores são realmente verdadeiros.
+Dialogue: 0,0:12:13.53,0:12:15.68,Default,,0,0,0,,Não se preocupe. Mais alguma coisa?
+Dialogue: 0,0:12:17.36,0:12:18.26,Default,,0,0,0,,Esse.
+Dialogue: 0,0:12:20.48,0:12:23.48,Default,,0,0,0,,Uma equipe investigativa estrangeira foi ao Monte Fuji.
+Dialogue: 0,0:12:23.88,0:12:27.23,Default,,0,0,0,,Eles estão lá como reserva.
+Dialogue: 0,0:12:27.23,0:12:29.65,Default,,0,0,0,,Eles não são exatamente idiotas.
+Dialogue: 0,0:12:29.65,0:12:32.14,Default,,0,0,0,,Eles estão fadados a descobrir o segredo do clã Kusaribe.
+Dialogue: 0,0:12:32.57,0:12:34.02,Default,,0,0,0,,Isso não é bom!
+Dialogue: 0,0:12:34.37,0:12:37.35,Default,,0,0,0,,Não, estivemos na defensiva até agora,
+Dialogue: 0,0:12:37.83,0:12:40.90,Default,,0,0,0,,mas esta pode ser uma boa oportunidade para partir para a ofensiva.
+Dialogue: 0,0:12:40.90,0:12:42.74,Default,,0,0,0,,Parece que você está gostando disso.
+Dialogue: 0,0:12:45.28,0:12:47.28,Default,,0,0,0,,Por favor, retorne ao centro em breve.
+Dialogue: 0,0:12:47.82,0:12:50.45,Default,,0,0,0,,Se houver mais alguma novidade, entrarei em contato com você.
+Dialogue: 0,0:12:53.81,0:12:55.54,Default,,0,0,0,,E quanto ao outro assunto urgente?
+Dialogue: 0,0:12:55.54,0:12:59.22,Default,,0,0,0,,Antes disso, precisamos persuadir Kusaribe Samon.
+Dialogue: 0,0:12:59.74,0:13:00.69,Default,,0,0,0,,E...
+Dialogue: 0,0:13:00.69,0:13:02.50,Default,,0,0,0,,A princesa também.
+Dialogue: 0,0:13:10.67,0:13:12.77,Default,,0,0,0,,Eles estão agindo como casais...
+Dialogue: 0,0:13:13.15,0:13:15.39,Default,,0,0,0,,Elas são mesmo.
+Dialogue: 0,0:13:16.36,0:13:18.47,Default,,0,0,0,,E nesse frio também...
+Dialogue: 0,0:13:18.99,0:13:20.90,Default,,0,0,0,,De fato.
+Dialogue: 0,0:13:23.23,0:13:25.55,Default,,0,0,0,,É quase como se nunca tivesse acontecido.
+Dialogue: 0,0:13:26.03,0:13:29.69,Default,,0,0,0,,Cerca de mil milhões de pessoas desaparecem da noite para o dia,
+Dialogue: 0,0:13:29.69,0:13:32.82,Default,,0,0,0,,e o mundo mudou muito.
+Dialogue: 0,0:13:33.26,0:13:36.77,Default,,0,0,0,,Mas os casais em todo o mundo estão comemorando o ano novo,
+Dialogue: 0,0:13:36.77,0:13:38.09,Default,,0,0,0,,caminhando alegremente.
+Dialogue: 0,0:13:38.69,0:13:41.68,Default,,0,0,0,,Parece errado que eles não tenham noção de perigo.
+Dialogue: 0,0:13:42.84,0:13:48.56,Default,,0,0,0,,Talvez nossas próprias emoções também tenham sido reescritas pela Árvore.
+Dialogue: 0,0:13:49.70,0:13:51.60,Default,,0,0,0,,Não creio que isso seja verdade.
+Dialogue: 0,0:13:53.38,0:13:55.77,Default,,0,0,0,,Mesmo antes da Árvore do Gênesis aparecer,
+Dialogue: 0,0:13:56.34,0:13:58.54,Default,,0,0,0,,houve guerra, fome,
+Dialogue: 0,0:13:58.54,0:14:00.31,Default,,0,0,0,,crime, desastre natural,
+Dialogue: 0,0:14:00.31,0:14:04.15,Default,,0,0,0,,pobreza e doenças que vitimaram dezenas de milhares de pessoas em todo o mundo.
+Dialogue: 0,0:14:04.85,0:14:08.39,Default,,0,0,0,,Mas ninguém realmente tinha a noção do perigo.
+Dialogue: 0,0:14:09.33,0:14:13.04,Default,,0,0,0,,Não importa se bilhões morreram. É assim que o mundo sempre foi.
+Dialogue: 0,0:14:14.53,0:14:18.61,Default,,0,0,0,,De certa forma, é como se tivéssemos pago adiantado com todas essas vidas.
+Dialogue: 0,0:14:18.61,0:14:21.19,Default,,0,0,0,,Mas agora não há guerra,
+Dialogue: 0,0:14:21.19,0:14:26.72,Default,,0,0,0,,e pode ser o momento mais apropriado para as pessoas se sentirem tão à vontade.
+Dialogue: 0,0:14:28.47,0:14:30.09,Default,,0,0,0,,Você tem um sangue-frio incomum.
+Dialogue: 0,0:14:30.56,0:14:31.44,Default,,0,0,0,,O que?
+Dialogue: 0,0:14:31.44,0:14:35.32,Default,,0,0,0,,Estou dizendo que seu ponto de vista demonstra um pouco de "FC".
+Dialogue: 0,0:14:35.32,0:14:39.50,Default,,0,0,0,,SF é a abreviação de ficção científica, não sangue-frio.
+Dialogue: 0,0:14:40.46,0:14:41.90,Default,,0,0,0,,Bem, talvez tenha sido...
+Dialogue: 0,0:14:43.36,0:14:46.58,Default,,0,0,0,,Sem mencionar que às vezes não sei para onde você está olhando.
+Dialogue: 0,0:14:47.36,0:14:49.33,Default,,0,0,0,,Não consigo dizer se sua visão é ampla ou estreita.
+Dialogue: 0,0:14:49.81,0:14:52.55,Default,,0,0,0,,Nem sei dizer se você é gentil ou frio.
+Dialogue: 0,0:14:52.55,0:14:54.52,Default,,0,0,0,,Ah, desculpe.
+Dialogue: 0,0:14:54.52,0:14:56.59,Default,,0,0,0,,Não precisa se desculpar.
+Dialogue: 0,0:14:57.93,0:14:59.07,Default,,0,0,0,,No fim,
+Dialogue: 0,0:14:59.71,0:15:02.92,Default,,0,0,0,,aparentemente é assim que as coisas deveriam ser.
+Dialogue: 0,0:15:05.45,0:15:06.42,Default,,0,0,0,,Ei!
+Dialogue: 0,0:15:06.76,0:15:07.92,Default,,0,0,0,,Não te vejo há uma semana.
+Dialogue: 0,0:15:09.71,0:15:13.88,Default,,0,0,0,,V-Você é um pouco abrupto como sempre, Jun-niisan.
+Dialogue: 0,0:15:13.88,0:15:15.35,Default,,0,0,0,,Mais importante, Yoshino-kun,
+Dialogue: 0,0:15:16.18,0:15:19.51,Default,,0,0,0,,você compraria um café com isso?
+Dialogue: 0,0:15:20.16,0:15:20.98,Default,,0,0,0,,Para nós três?
+Dialogue: 0,0:15:21.32,0:15:25.52,Default,,0,0,0,,Jun-niisan, não trate Yoshino como uma espécie de serva.
+Dialogue: 0,0:15:25.52,0:15:27.72,Default,,0,0,0,,Claro, já volto.
+Dialogue: 0,0:15:33.08,0:15:35.16,Default,,0,0,0,,O que você quer, Jun-niisan?
+Dialogue: 0,0:15:35.55,0:15:38.18,Default,,0,0,0,,Fazendo Yoshino ir embora daquele jeito...
+Dialogue: 0,0:15:38.70,0:15:40.21,Default,,0,0,0,,Você percebe, Hakaze-chan,
+Dialogue: 0,0:15:41.10,0:15:43.88,Default,,0,0,0,,você está apaixonada pelo Yoshino-kun, certo?
+Dialogue: 0,0:15:46.09,0:15:47.22,Default,,0,0,0,,O que?
+Dialogue: 0,0:15:55.46,0:15:57.26,Default,,0,0,0,,Você finalmente está melhorando.
+Dialogue: 0,0:15:57.77,0:16:01.59,Default,,0,0,0,,Se você consegue cortar isso com precisão, tente cortar meu osso.
+Dialogue: 0,0:16:01.59,0:16:04.51,Default,,0,0,0,,Eu já disse que tenho medo de sangue!
+Dialogue: 0,0:16:04.51,0:16:05.84,Default,,0,0,0,,Você não tem esperança...
+Dialogue: 0,0:16:05.84,0:16:07.15,Default,,0,0,0,,Como tá indo?
+Dialogue: 0,0:16:07.15,0:16:09.03,Default,,0,0,0,,Nestes últimos dias de treinamento,
+Dialogue: 0,0:16:09.03,0:16:12.78,Default,,0,0,0,,embora apenas um pouco, sua magia esteja melhorando.
+Dialogue: 0,0:16:13.59,0:16:17.87,Default,,0,0,0,,Embora sua falta de aptidão emocional para isso seja uma preocupação.
+Dialogue: 0,0:16:17.87,0:16:21.19,Default,,0,0,0,,É verdade que mentalmente,
+Dialogue: 0,0:16:21.19,0:16:22.96,Default,,0,0,0,,Yoshino-kun pode ser...
+Dialogue: 0,0:16:22.96,0:16:24.17,Default,,0,0,0,,Por falar nisso,
+Dialogue: 0,0:16:24.17,0:16:27.84,Default,,0,0,0,,Ouvi dizer que você estava indo para o Monte Fuji para derrotar a Árvore do Gênesis?
+Dialogue: 0,0:16:27.84,0:16:29.40,Default,,0,0,0,,S-Sim...
+Dialogue: 0,0:16:29.40,0:16:33.32,Default,,0,0,0,,É incrível que você tenha considerado isso.
+Dialogue: 0,0:16:33.94,0:16:34.97,Default,,0,0,0,,Bem...
+Dialogue: 0,0:16:35.40,0:16:40.35,Default,,0,0,0,,Pensei que talvez se eu salvasse o mundo, Yu-chan me aprovaria.
+Dialogue: 0,0:16:40.35,0:16:42.47,Default,,0,0,0,,Você está fazendo isso pela garota que terminou com você?
+Dialogue: 0,0:16:42.47,0:16:44.02,Default,,0,0,0,,Isso é irracional.
+Dialogue: 0,0:16:44.78,0:16:46.11,Default,,0,0,0,,Eu não preciso ouvir isso
+Dialogue: 0,0:16:46.11,0:16:48.50,Default,,0,0,0,,de alguém com complexo de irmã como você!
+Dialogue: 0,0:16:49.36,0:16:50.44,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:16:53.24,0:16:54.67,Default,,0,0,0,,Bem dito.
+Dialogue: 0,0:16:55.49,0:16:57.65,Default,,0,0,0,,A única coisa que todos queriam dizer.
+Dialogue: 0,0:16:58.29,0:16:59.98,Default,,0,0,0,,As palavras proibidas...
+Dialogue: 0,0:17:03.76,0:17:05.83,Default,,0,0,0,,Quem você disse que tem complexo de irmã?
+Dialogue: 0,0:17:06.29,0:17:09.31,Default,,0,0,0,,Para começar, Aika e eu não somos parentes de sangue.
+Dialogue: 0,0:17:09.31,0:17:11.06,Default,,0,0,0,,Então ela pode ser legalmente minha irmã,
+Dialogue: 0,0:17:11.06,0:17:13.10,Default,,0,0,0,,mas na verdade ela não é minha irmã.
+Dialogue: 0,0:17:13.10,0:17:14.74,Default,,0,0,0,,Então eu não tenho complexo de irmã!
+Dialogue: 0,0:17:15.30,0:17:18.35,Default,,0,0,0,,Isso nem é um complexo de irmãs...
+Dialogue: 0,0:17:18.35,0:17:19.56,Default,,0,0,0,,O que?
+Dialogue: 0,0:17:20.10,0:17:21.52,Default,,0,0,0,,Parece que você está apaixonado por ela.
+Dialogue: 0,0:17:23.83,0:17:25.69,Default,,0,0,0,,Amor?!
+Dialogue: 0,0:17:26.49,0:17:28.79,Default,,0,0,0,,O que você está dizendo, Jun-niisan?
+Dialogue: 0,0:17:29.25,0:17:30.50,Default,,0,0,0,,Estou errado?
+Dialogue: 0,0:17:30.50,0:17:32.74,Default,,0,0,0,,Claro que você está errado.
+Dialogue: 0,0:17:32.74,0:17:36.93,Default,,0,0,0,,Eu nunca consideraria um jovem fraco como aquele como um potencial interesse amoroso.
+Dialogue: 0,0:17:36.93,0:17:40.48,Default,,0,0,0,,Primeiro de tudo, Yoshino tem uma namorada.
+Dialogue: 0,0:17:40.48,0:17:44.68,Default,,0,0,0,,É raro que alguém como ele tenha uma namorada.
+Dialogue: 0,0:17:44.68,0:17:46.59,Default,,0,0,0,,Isso por si só é um milagre.
+Dialogue: 0,0:17:46.59,0:17:48.29,Default,,0,0,0,,Sim, sim, e...
+Dialogue: 0,0:17:48.61,0:17:52.05,Default,,0,0,0,,Mas ele é bastante impressionante à sua maneira.
+Dialogue: 0,0:17:52.64,0:17:55.85,Default,,0,0,0,,No Monte Fuji, ele facilmente concebeu uma estratégia brilhante,
+Dialogue: 0,0:17:55.85,0:17:58.86,Default,,0,0,0,,mesmo diante da morte.
+Dialogue: 0,0:17:58.86,0:18:01.80,Default,,0,0,0,,Sua coragem só poderia ser considerada extraordinária.
+Dialogue: 0,0:18:01.80,0:18:04.52,Default,,0,0,0,,E, no entanto, ele é muito atencioso e tem um lado sensível.
+Dialogue: 0,0:18:04.52,0:18:07.23,Default,,0,0,0,,Ele ainda é bem jovem e tem coisas nas quais precisa trabalhar.
+Dialogue: 0,0:18:07.23,0:18:10.00,Default,,0,0,0,,Mas, por outro lado, se não o fizesse, não seria tão amável.
+Dialogue: 0,0:18:10.00,0:18:12.51,Default,,0,0,0,,Ele pode parecer um fraco,
+Dialogue: 0,0:18:12.51,0:18:15.65,Default,,0,0,0,,mas sua musculatura e seu peito são surpreendentemente firmes.
+Dialogue: 0,0:18:15.65,0:18:18.47,Default,,0,0,0,,Bom, eu nunca toquei nisso, mas...
+Dialogue: 0,0:18:18.47,0:18:21.03,Default,,0,0,0,,Ou melhor, eu não deveria tocar nisso!
+Dialogue: 0,0:18:21.03,0:18:23.84,Default,,0,0,0,,Se eu tocasse em alguma coisa, os lóbulos das orelhas dele pareciam estar
+Dialogue: 0,0:18:23.84,0:18:25.69,Default,,0,0,0,,pode ter o grau certo de suavidade.
+Dialogue: 0,0:18:25.69,0:18:28.46,Default,,0,0,0,,Tenho a sensação de que poderia tocá-los a noite toda.
+Dialogue: 0,0:18:28.81,0:18:32.00,Default,,0,0,0,,E eu gostaria de pentear o cabelo dele.
+Dialogue: 0,0:18:32.00,0:18:33.42,Default,,0,0,0,,Ah, certo!
+Dialogue: 0,0:18:33.42,0:18:36.96,Default,,0,0,0,,E temos planos de visitar uma fonte termal, então esse pode ser um momento oportuno.
+Dialogue: 0,0:18:37.24,0:18:39.55,Default,,0,0,0,,Quer tocar e falar sobre os lóbulos das orelhas?
+Dialogue: 0,0:18:40.01,0:18:42.63,Default,,0,0,0,,Viu? Você está completamente apaixonado.
+Dialogue: 0,0:18:42.63,0:18:43.41,Default,,0,0,0,,Huh?
+Dialogue: 0,0:18:46.75,0:18:48.19,Default,,0,0,0,,Então estou apaixonado.
+Dialogue: 0,0:18:48.65,0:18:51.14,Default,,0,0,0,,Caso contrário, querer tocar nos lóbulos das orelhas de alguém
+Dialogue: 0,0:18:51.14,0:18:54.02,Default,,0,0,0,,a noite toda seria um pouco assustador.
+Dialogue: 0,0:18:55.37,0:18:56.99,Default,,0,0,0,,Agora que você mencionou...
+Dialogue: 0,0:18:58.73,0:19:00.56,Default,,0,0,0,,Quando eu o vi olhando
+Dialogue: 0,0:19:00.56,0:19:04.90,Default,,0,0,0,,para uma foto em seu telefone, possivelmente de sua namorada,
+Dialogue: 0,0:19:04.90,0:19:09.14,Default,,0,0,0,,Eu imediatamente me senti frustrado e solitário...
+Dialogue: 0,0:19:09.74,0:19:12.36,Default,,0,0,0,,Entendo! Esse era o motivo!
+Dialogue: 0,0:19:12.83,0:19:13.75,Default,,0,0,0,,Que assustador!
+Dialogue: 0,0:19:14.43,0:19:15.62,Default,,0,0,0,,Amor?
+Dialogue: 0,0:19:15.62,0:19:16.51,Default,,0,0,0,,Não seja estúpido.
+Dialogue: 0,0:19:16.99,0:19:19.63,Default,,0,0,0,,Não há como um irmão se apaixonar pela irmã mais nova.
+Dialogue: 0,0:19:19.99,0:19:22.76,Default,,0,0,0,,M-Mas você acabou de dizer que ela não era sua irmã—
+Dialogue: 0,0:19:23.17,0:19:24.24,Default,,0,0,0,,Estamos dando uma pausa.
+Dialogue: 0,0:19:24.74,0:19:26.31,Default,,0,0,0,,O-Obrigado.
+Dialogue: 0,0:19:26.67,0:19:27.97,Default,,0,0,0,,Não se esqueça.
+Dialogue: 0,0:19:27.97,0:19:32.68,Default,,0,0,0,,Ainda acho que você pode ter matado Aika.
+Dialogue: 0,0:19:36.55,0:19:38.60,Default,,0,0,0,,Eles formam uma dupla surpreendentemente boa.
+Dialogue: 0,0:19:38.60,0:19:42.39,Default,,0,0,0,,A propósito, esse outro assunto finalmente começou?
+Dialogue: 0,0:19:42.39,0:19:46.43,Default,,0,0,0,,Hayakawa está a caminho agora mesmo para persuadir seu chefe.
+Dialogue: 0,0:19:46.43,0:19:50.71,Default,,0,0,0,,Considerando que ele valoriza a estabilidade acima de tudo, ele seguirá o plano?
+Dialogue: 0,0:19:51.73,0:19:54.05,Default,,0,0,0,,Embora Samon-dono valorize a estabilidade,
+Dialogue: 0,0:19:54.05,0:19:57.28,Default,,0,0,0,,ele também está disposto a fazer uma aposta em prol dessa estabilidade.
+Dialogue: 0,0:19:58.76,0:20:01.70,Default,,0,0,0,,Os projetos foram finalizados e agora estão sendo fabricados.
+Dialogue: 0,0:20:03.32,0:20:04.92,Default,,0,0,0,,Sabemos muito pouco
+Dialogue: 0,0:20:04.92,0:20:07.77,Default,,0,0,0,,sobre a Árvore do Gênesis e a Árvore do Êxodo.
+Dialogue: 0,0:20:08.36,0:20:10.37,Default,,0,0,0,,Que tipo de deuses são eles?
+Dialogue: 0,0:20:10.79,0:20:13.07,Default,,0,0,0,,Exatamente quanto controle eles exercem sobre a lógica do mundo?
+Dialogue: 0,0:20:13.44,0:20:16.72,Default,,0,0,0,,Há quanto tempo a Árvore do Gênesis existe?
+Dialogue: 0,0:20:17.25,0:20:21.57,Default,,0,0,0,,Este plano nos permitirá reexaminar tudo desde o início.
+Dialogue: 0,0:20:22.84,0:20:23.62,Default,,0,0,0,,Bem?
+Dialogue: 0,0:20:24.36,0:20:28.30,Default,,0,0,0,,É verdade que para os Kusaribe, a magia e a Árvore
+Dialogue: 0,0:20:28.75,0:20:31.29,Default,,0,0,0,,estão ambos tão perto de nós
+Dialogue: 0,0:20:31.29,0:20:34.04,Default,,0,0,0,,que podemos ter sido mantidos cativos por falsas suposições.
+Dialogue: 0,0:20:35.39,0:20:37.03,Default,,0,0,0,,Eu ajudarei com seu plano.
+Dialogue: 0,0:20:37.03,0:20:41.26,Default,,0,0,0,,Entretanto, não permitirei nenhuma decisão sem supervisão durante sua execução.
+Dialogue: 0,0:20:41.75,0:20:43.84,Default,,0,0,0,,Claro. Só falta...
+Dialogue: 0,0:20:44.45,0:20:47.32,Default,,0,0,0,,É o que a princesa vai dizer, mas...
+Dialogue: 0,0:20:47.32,0:20:48.91,Default,,0,0,0,,Isso pode ser difícil.
+Dialogue: 0,0:20:48.91,0:20:50.22,Default,,0,0,0,,De fato.
+Dialogue: 0,0:20:50.22,0:20:55.07,Default,,0,0,0,,Considerando o assunto, convencê-la levará um tempo.
+Dialogue: 0,0:20:55.69,0:20:57.13,Default,,0,0,0,,Faça o que quiser.
+Dialogue: 0,0:20:57.13,0:21:00.93,Default,,0,0,0,,Mesmo que algo aconteça, eu posso cuidar da Árvore!
+Dialogue: 0,0:21:00.93,0:21:02.07,Default,,0,0,0,,BB-Mas...
+Dialogue: 0,0:21:02.67,0:21:04.47,Default,,0,0,0,,S-Sem nem saber a natureza desse plano...
+Dialogue: 0,0:21:04.47,0:21:05.41,Default,,0,0,0,,Muita conversa!
+Dialogue: 0,0:21:11.05,0:21:12.20,Default,,0,0,0,,Tem certeza de que estava tudo bem?
+Dialogue: 0,0:21:12.20,0:21:13.62,Default,,0,0,0,,Não era importante.
+Dialogue: 0,0:21:14.15,0:21:15.88,Default,,0,0,0,,Mais importante, Jun-niisan...
+Dialogue: 0,0:21:15.88,0:21:18.22,Default,,0,0,0,,O que devo fazer agora?
+Dialogue: 0,0:21:18.22,0:21:20.77,Default,,0,0,0,,Como pude me apaixonar por Yoshino?
+Dialogue: 0,0:21:20.77,0:21:23.09,Default,,0,0,0,,Isso não estava nos meus planos!
+Dialogue: 0,0:21:23.09,0:21:26.34,Default,,0,0,0,,Normalmente não planejamos essas coisas.
+Dialogue: 0,0:21:27.39,0:21:31.52,Default,,0,0,0,,Mas de qualquer forma, provavelmente não é uma boa ideia amar Yoshino-kun.
+Dialogue: 0,0:21:31.81,0:21:33.21,Default,,0,0,0,,Eu sei que.
+Dialogue: 0,0:21:33.21,0:21:36.38,Default,,0,0,0,,Agora não é hora de considerar um caso de amor...
+Dialogue: 0,0:21:36.38,0:21:38.24,Default,,0,0,0,,Não é isso que eu quero dizer.
+Dialogue: 0,0:21:38.24,0:21:40.52,Default,,0,0,0,,Yoshino-kun tem uma namorada.
+Dialogue: 0,0:21:42.39,0:21:45.09,Default,,0,0,0,,É improdutivo se apaixonar por alguém que tem namorada.
+Dialogue: 0,0:21:45.09,0:21:46.91,Default,,0,0,0,,Também não foi isso que eu quis dizer.
+Dialogue: 0,0:21:47.77,0:21:51.33,Default,,0,0,0,,Se você desejasse fortemente esse relacionamento com Yoshino-kun,
+Dialogue: 0,0:21:52.54,0:21:56.12,Default,,0,0,0,,a Árvore do Gênesis mataria aquela namorada.
+Dialogue: 0,0:22:04.37,0:22:07.51,Default,,0,0,0,,Venha apertar minha mão sob a Árvore do Gênesis!
+Dialogue: 0,0:22:08.43,0:22:13.18,Default,,0,0,0,,Um Anúncio do Mago do Êxodo. No dia 21/01, após as 21h, destruirei a Árvore da Gênese visível nos seguintes locais. Os convidados, por favor, testemunhem. Faça chuva ou faça sol <3
+Dialogue: 0,0:22:08.89,0:22:11.46,Default,,0,0,0,,U-hum, isso...
+Dialogue: 0,0:22:11.46,0:22:12.80,Default,,0,0,0,,Não pode ser...
+Dialogue: 0,0:22:13.71,0:22:15.49,Default,,0,0,0,,Isto é sobre mim?
+Dialogue: 0,0:22:17.46,0:22:19.23,Default,,0,0,0,,O mago do Êxodo
+Dialogue: 0,0:22:19.74,0:22:23.54,Default,,0,0,0,,finalmente fará sua estreia major!
+Dialogue: 0,0:22:23.90,0:22:26.90,Default,,0,0,0,,Episódio 15 Você parece estar tramando algo
+Dialogue: 0,0:22:24.10,0:22:25.96,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:24:02.18,0:24:04.83,Default,,0,0,0,,Fantasmas são meras ilusões.
+Dialogue: 0,0:24:04.83,0:24:06.21,Default,,0,0,0,,Fantasmas, hein?
+Dialogue: 0,0:24:06.21,0:24:08.19,Default,,0,0,0,,Mas é engraçado, não é?
+Dialogue: 0,0:24:08.19,0:24:12.32,Default,,0,0,0,,Mas se eu parecesse assustado aqui, eu pareceria mais fofo?
+Dialogue: 0,0:24:12.32,0:24:14.63,Default,,0,0,0,,Uma vez que uma mulher inocente percebe sua sensualidade,
+Dialogue: 0,0:24:14.63,0:24:16.29,Default,,0,0,0,,ela se torna impossível de lidar.
+Dialogue: 0,0:24:16.29,0:24:17.81,Default,,0,0,0,,Isto é só o começo!
+Dialogue: 0,0:24:17.81,0:24:19.52,Default,,0,0,0,,Vamos torná-lo ainda mais chamativo.
+Dialogue: 0,0:24:19.52,0:24:22.25,Default,,0,0,0,,E a comida? E o banho?
+Dialogue: 0,0:24:23.94,0:24:27.72,Default,,0,0,0,,Episódio 16 A Aparição Errante

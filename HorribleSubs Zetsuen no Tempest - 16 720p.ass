@@ -1,0 +1,401 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:35.31,0:01:38.16,Default,,0,0,0,,Parece que teremos uma boa visão dos fogos de artifício hoje à noite.
+Dialogue: 0,0:01:38.61,0:01:39.87,Default,,0,0,0,,Sim...
+Dialogue: 0,0:01:46.03,0:01:47.00,Default,,0,0,0,,Então...
+Dialogue: 0,0:01:47.02,0:01:49.99,Default,,0,0,0,,Ouvi dizer que quando você usa um yukata,
+Dialogue: 0,0:01:49.99,0:01:52.49,Default,,0,0,0,,você não usa calcinha, para evitar marcas de calcinha...
+Dialogue: 0,0:01:52.94,0:01:53.71,Default,,0,0,0,,Isso é verdade?
+Dialogue: 0,0:01:53.71,0:01:55.52,Default,,0,0,0,,Não estou usando blusa.
+Dialogue: 0,0:01:55.52,0:01:56.88,Default,,0,0,0,,A metade inferior é um segredo.
+Dialogue: 0,0:01:58.94,0:01:59.84,Default,,0,0,0,,No entanto,
+Dialogue: 0,0:02:00.22,0:02:03.85,Default,,0,0,0,,se você tem um desejo incontrolável de saber, não importa o que,
+Dialogue: 0,0:02:04.44,0:02:08.48,Default,,0,0,0,,Vou deixar você entrar e ver por si mesmo, Yoshino-san.
+Dialogue: 0,0:02:08.79,0:02:09.58,Default,,0,0,0,,Uh...
+Dialogue: 0,0:02:09.58,0:02:11.53,Default,,0,0,0,,Sinto muito mesmo!
+Dialogue: 0,0:02:11.53,0:02:13.33,Default,,0,0,0,,Eu perguntei algo totalmente estúpido!
+Dialogue: 0,0:02:13.33,0:02:16.16,Default,,0,0,0,,Nenhuma espinha dorsal.
+Dialogue: 0,0:02:18.50,0:02:21.54,Default,,0,0,0,,Você realmente tem uma personalidade terrível, Aika-chan.
+Dialogue: 0,0:02:21.54,0:02:23.63,Default,,0,0,0,,E você está afirmando que você
+Dialogue: 0,0:02:23.63,0:02:26.54,Default,,0,0,0,,você é uma pessoa tão virtuosa, Yoshino-san?
+Dialogue: 0,0:02:27.03,0:02:30.72,Default,,0,0,0,,Acho que você não poderia dizer isso, considerando que estou namorando
+Dialogue: 0,0:02:30.72,0:02:32.75,Default,,0,0,0,,Aika-chan pelas costas de Mahiro...
+Dialogue: 0,0:02:38.09,0:02:40.08,Default,,0,0,0,,De todas as pessoas que conheço,
+Dialogue: 0,0:02:40.08,0:02:43.18,Default,,0,0,0,,Acredito que você seja o mais assustador, Yoshino-san.
+Dialogue: 0,0:02:46.56,0:02:49.56,Default,,0,0,0,,Episódio 16 A Aparição Errante
+Dialogue: 0,0:02:51.04,0:02:54.50,Default,,0,0,0,,Se você desejasse fortemente esse relacionamento com Yoshino-kun,
+Dialogue: 0,0:02:55.80,0:02:59.01,Default,,0,0,0,,a Árvore do Gênesis mataria aquela namorada.
+Dialogue: 0,0:03:00.02,0:03:02.63,Default,,0,0,0,,Se eu desejasse fortemente esse relacionamento?
+Dialogue: 0,0:03:02.63,0:03:03.69,Default,,0,0,0,,Inconcebível...
+Dialogue: 0,0:03:04.08,0:03:06.80,Default,,0,0,0,,Além disso, estou totalmente satisfeito em passar um tempo com Yoshino assim—
+Dialogue: 0,0:03:07.55,0:03:09.50,Default,,0,0,0,,Deve ser aí que estou errando!
+Dialogue: 0,0:03:10.16,0:03:11.62,Default,,0,0,0,,Você está ouvindo, Hakaze-san?
+Dialogue: 0,0:03:11.90,0:03:13.72,Default,,0,0,0,,Ah! V-Você disse alguma coisa?
+Dialogue: 0,0:03:14.12,0:03:18.71,Default,,0,0,0,,Eu estava dizendo que um espião aparentemente se infiltrou na vila de Kusaribe.
+Dialogue: 0,0:03:18.71,0:03:20.76,Default,,0,0,0,,O-Ah, certo...
+Dialogue: 0,0:03:21.35,0:03:24.25,Default,,0,0,0,,Mas por que Yamamoto teria essa informação?
+Dialogue: 0,0:03:24.87,0:03:26.59,Default,,0,0,0,,Ela deve estar atrás de alguma coisa.
+Dialogue: 0,0:03:27.37,0:03:28.39,Default,,0,0,0,,Está começando.
+Dialogue: 0,0:03:28.39,0:03:38.32,Default,,0,0,0,,Notícias de última hora ao vivo, apenas alguns momentos antes do evento!?
+Dialogue: 0,0:03:28.54,0:03:29.69,Default,,0,0,0,,Todos,
+Dialogue: 0,0:03:29.69,0:03:34.24,Default,,0,0,0,,esta é a árvore que o autointitulado mago do Êxodo anunciou que seria destruída.
+Dialogue: 0,0:03:34.24,0:03:36.13,Default,,0,0,0,,O tempo anunciado está quase chegando,
+Dialogue: 0,0:03:36.13,0:03:38.32,Default,,0,0,0,,mas não houve mudanças visíveis até agora.
+Dialogue: 0,0:03:43.59,0:03:46.84,Default,,0,0,0,,Isso vai ser uma droga se for uma brincadeira.
+Dialogue: 0,0:03:46.84,0:03:48.66,Default,,0,0,0,,Mas parece ser algo real.
+Dialogue: 0,0:03:49.51,0:03:53.22,Default,,0,0,0,,No anúncio, ele não afirmou que a árvore era uma "Árvore do Gênesis"?
+Dialogue: 0,0:03:53.80,0:03:57.38,Default,,0,0,0,,Esse é o verdadeiro nome daquela Árvore,
+Dialogue: 0,0:03:57.38,0:03:59.27,Default,,0,0,0,,conhecido apenas por alguns no governo.
+Dialogue: 0,0:04:00.01,0:04:00.70,Default,,0,0,0,,Ei!
+Dialogue: 0,0:04:00.70,0:04:01.34,Default,,0,0,0,,Isso é...
+Dialogue: 0,0:04:08.30,0:04:09.71,Default,,0,0,0,,Q-Quem são eles?
+Dialogue: 0,0:04:09.71,0:04:12.80,Default,,0,0,0,,Esses dois poderiam ser magos do Êxodo?
+Dialogue: 0,0:04:24.44,0:04:25.84,Default,,0,0,0,,Ei, o que é isso?
+Dialogue: 0,0:04:35.68,0:04:40.02,Default,,0,0,0,,Mais uma figura, que se acredita ser um mago, apareceu diante da Árvore.
+Dialogue: 0,0:04:40.02,0:04:42.34,Default,,0,0,0,,Esta filmagem não foi alterada de forma alguma!
+Dialogue: 0,0:04:42.34,0:04:44.51,Default,,0,0,0,,Notícias de última hora ao vivo: "Mago" misterioso aparece! É isso mesmo que foi anunciado!?
+Dialogue: 0,0:04:42.66,0:04:44.51,Default,,0,0,0,,É realmente como mágica.
+Dialogue: 0,0:04:50.07,0:04:50.85,Default,,0,0,0,,Erradicar!
+Dialogue: 0,0:05:07.84,0:05:10.66,Default,,0,0,0,,É-É verdade! É um mago de verdade!
+Dialogue: 0,0:05:10.97,0:05:12.83,Default,,0,0,0,,Conforme anunciado, ele apareceu diante de nós...
+Dialogue: 0,0:05:14.85,0:05:18.42,Default,,0,0,0,,O-O mago está voando para o céu e além!
+Dialogue: 0,0:05:19.49,0:05:21.10,Default,,0,0,0,,Eles poderiam ser mais chamativos?
+Dialogue: 0,0:05:21.60,0:05:22.48,Default,,0,0,0,,Estamos voltando.
+Dialogue: 0,0:05:23.45,0:05:25.07,Default,,0,0,0,,Ei, espere um segundo...
+Dialogue: 0,0:05:25.07,0:05:26.25,Default,,0,0,0,,O hotel que reservamos—
+Dialogue: 0,0:05:26.25,0:05:27.02,Default,,0,0,0,,Não foi isso que eu quis dizer.
+Dialogue: 0,0:05:27.47,0:05:29.86,Default,,0,0,0,,Estou dizendo que estamos voltando para a fortaleza de Kusaribe.
+Dialogue: 0,0:05:29.86,0:05:30.39,Default,,0,0,0,,Huh?
+Dialogue: 0,0:05:30.64,0:05:34.02,Default,,0,0,0,,Se é verdade que um espião se infiltrou na aldeia,
+Dialogue: 0,0:05:34.02,0:05:35.08,Default,,0,0,0,,Não posso deixar o assunto em paz.
+Dialogue: 0,0:05:35.08,0:05:37.77,Default,,0,0,0,,Mas você disse que eles poderiam estar atrás de algo...
+Dialogue: 0,0:05:38.13,0:05:40.65,Default,,0,0,0,,Mais um motivo para eu querer investigar.
+Dialogue: 0,0:05:40.65,0:05:42.26,Default,,0,0,0,,Essa é a minha natureza.
+Dialogue: 0,0:05:42.75,0:05:43.48,Default,,0,0,0,,E...
+Dialogue: 0,0:05:44.45,0:05:45.24,Default,,0,0,0,,E?
+Dialogue: 0,0:05:48.06,0:05:49.27,Default,,0,0,0,,Não é nada!
+Dialogue: 0,0:05:49.27,0:05:50.04,Default,,0,0,0,,Hakaz—
+Dialogue: 0,0:05:50.87,0:05:53.92,Default,,0,0,0,,Só quero voltar para casa e me refrescar.
+Dialogue: 0,0:05:55.39,0:05:58.31,Default,,0,0,0,,Nada mal para um fracote...
+Dialogue: 0,0:05:58.92,0:06:01.25,Default,,0,0,0,,Escolhemos uma árvore que fosse relativamente inacessível aos transeuntes,
+Dialogue: 0,0:06:01.69,0:06:04.16,Default,,0,0,0,,apenas no caso de ele errar, para minimizar danos colaterais.
+Dialogue: 0,0:06:04.41,0:06:06.55,Default,,0,0,0,,Se ele está intimidado agora, temos um longo caminho pela frente.
+Dialogue: 0,0:06:07.28,0:06:11.18,Default,,0,0,0,,Eu me pergunto se ele entende o que vai acontecer...
+Dialogue: 0,0:06:12.53,0:06:14.81,Default,,0,0,0,,Estaremos ansiosos por outra aparição do mago!
+Dialogue: 0,0:06:14.81,0:06:16.10,Default,,0,0,0,,De volta ao estúdio, Satake-san!
+Dialogue: 0,0:06:16.10,0:06:17.10,Default,,0,0,0,,Bom trabalho.
+Dialogue: 0,0:06:17.42,0:06:18.77,Default,,0,0,0,,Parece que tudo correu bem.
+Dialogue: 0,0:06:20.96,0:06:24.78,Default,,0,0,0,,Sinto como se meu coração fosse explodir pela boca!
+Dialogue: 0,0:06:26.26,0:06:29.73,Default,,0,0,0,,Seria realmente aceitável fazermos algo tão extremo?
+Dialogue: 0,0:06:29.73,0:06:33.15,Default,,0,0,0,,Isso é só o começo! Vamos deixar tudo ainda mais chamativo.
+Dialogue: 0,0:06:33.15,0:06:34.88,Default,,0,0,0,,Vamos continuar fazendo isso?
+Dialogue: 0,0:06:34.88,0:06:36.53,Default,,0,0,0,,Existem outros dois lugares no país,
+Dialogue: 0,0:06:36.53,0:06:37.87,Default,,0,0,0,,e depois iremos para o exterior.
+Dialogue: 0,0:06:37.87,0:06:38.87,Default,,0,0,0,,Em outro continente?!
+Dialogue: 0,0:06:41.13,0:06:42.29,Default,,0,0,0,,Eu quero ir para casa...
+Dialogue: 0,0:06:42.84,0:06:44.08,Default,,0,0,0,,Muito ruim...
+Dialogue: 0,0:06:44.08,0:06:45.92,Default,,0,0,0,,Temos outra missão.
+Dialogue: 0,0:06:47.16,0:06:49.40,Default,,0,0,0,,Não se preocupe! Você pode dormir um pouco.
+Dialogue: 0,0:06:49.40,0:06:52.43,Default,,0,0,0,,E a comida? E o banho?
+Dialogue: 0,0:07:04.59,0:07:06.00,Default,,0,0,0,,É a princesa!
+Dialogue: 0,0:07:06.94,0:07:08.90,Default,,0,0,0,,A princesa voltou!
+Dialogue: 0,0:07:09.32,0:07:12.32,Default,,0,0,0,,Eu sabia que não poderia morrer sem antes te ver novamente.
+Dialogue: 0,0:07:12.32,0:07:14.38,Default,,0,0,0,,É bom ver todos vocês bem.
+Dialogue: 0,0:07:13.15,0:07:14.38,Default,,0,0,0,,Princesa!
+Dialogue: 0,0:07:14.38,0:07:17.91,Default,,0,0,0,,Vocês dois cresceram muito, Hiroyuki e Miki.
+Dialogue: 0,0:07:19.14,0:07:21.87,Default,,0,0,0,,Você conseguiu um namorado através de magia, princesa?
+Dialogue: 0,0:07:22.19,0:07:24.13,Default,,0,0,0,,Seu idiota! O que você...
+Dialogue: 0,0:07:24.13,0:07:25.00,Default,,0,0,0,,Princesa!
+Dialogue: 0,0:07:28.63,0:07:29.72,Default,,0,0,0,,Muito!
+Dialogue: 0,0:07:35.19,0:07:37.20,Default,,0,0,0,,Você parece muito melhor, Sana.
+Dialogue: 0,0:07:39.13,0:07:40.45,Default,,0,0,0,,O túmulo do irmão dela?
+Dialogue: 0,0:07:40.45,0:07:44.34,Default,,0,0,0,,Cerca de seis meses antes de eu ser enviado para a ilha, ele perdeu a vida
+Dialogue: 0,0:07:44.74,0:07:45.65,Default,,0,0,0,,a uma doença.
+Dialogue: 0,0:07:46.32,0:07:49.04,Default,,0,0,0,,Eles eram muito próximos, então quando ele morreu,
+Dialogue: 0,0:07:49.04,0:07:51.36,Default,,0,0,0,,ela não saía da cama.
+Dialogue: 0,0:07:51.68,0:07:53.52,Default,,0,0,0,,Mas ela parece melhor agora.
+Dialogue: 0,0:07:53.52,0:07:54.26,Default,,0,0,0,,De fato.
+Dialogue: 0,0:07:54.55,0:07:56.25,Default,,0,0,0,,Parece que o tempo curou suas feridas.
+Dialogue: 0,0:07:58.23,0:08:00.07,Default,,0,0,0,,Agora que voltei,
+Dialogue: 0,0:08:00.07,0:08:03.07,Default,,0,0,0,,está ficando muito claro que dois anos se passaram.
+Dialogue: 0,0:08:06.08,0:08:08.17,Default,,0,0,0,,E pensar que ela cairia nessa tão facilmente...
+Dialogue: 0,0:08:08.51,0:08:10.76,Default,,0,0,0,,Foi você quem preparou a isca.
+Dialogue: 0,0:08:10.76,0:08:13.09,Default,,0,0,0,,Isso porque Samon-san solicitou.
+Dialogue: 0,0:08:13.47,0:08:15.79,Default,,0,0,0,,Então, nós trouxemos esses dois aqui
+Dialogue: 0,0:08:15.79,0:08:17.51,Default,,0,0,0,,para verificar como eles estão, certo?
+Dialogue: 0,0:08:17.51,0:08:19.85,Default,,0,0,0,,Para ver quem realmente é o mago do Êxodo?
+Dialogue: 0,0:08:20.29,0:08:21.35,Default,,0,0,0,,Ele está bem ali.
+Dialogue: 0,0:08:24.13,0:08:26.40,Default,,0,0,0,,Não estou falando desse inútil...
+Dialogue: 0,0:08:27.77,0:08:30.05,Default,,0,0,0,,Aquele que tem o coração do Êxodo.
+Dialogue: 0,0:08:31.84,0:08:32.82,Default,,0,0,0,,Um fantasma?
+Dialogue: 0,0:08:33.03,0:08:33.86,Default,,0,0,0,,Sim.
+Dialogue: 0,0:08:33.86,0:08:38.53,Default,,0,0,0,,Uma criança disse que viu um fantasma pálido ontem à noite, perto do santuário.
+Dialogue: 0,0:08:38.99,0:08:40.18,Default,,0,0,0,,Eu vejo...
+Dialogue: 0,0:08:40.18,0:08:44.40,Default,,0,0,0,,Acho que eles podem ter sido os únicos que entraram sorrateiramente na vila.
+Dialogue: 0,0:08:44.90,0:08:50.19,Default,,0,0,0,,Seria fácil confundir alguém escondido na escuridão da noite com um fantasma.
+Dialogue: 0,0:08:50.95,0:08:54.46,Default,,0,0,0,,Isso pode ser uma vantagem para nós. Você pode espalhar esse boato.
+Dialogue: 0,0:08:54.46,0:08:58.43,Default,,0,0,0,,Então as crianças não irão vagar por onde não devem.
+Dialogue: 0,0:08:58.68,0:08:59.48,Default,,0,0,0,,Entendido.
+Dialogue: 0,0:08:59.94,0:09:01.83,Default,,0,0,0,,Devemos conduzir nossa própria investigação?
+Dialogue: 0,0:09:02.34,0:09:03.89,Default,,0,0,0,,Vou lhe mostrar a vila também.
+Dialogue: 0,0:09:03.89,0:09:06.42,Default,,0,0,0,,Você não consegue relaxar um pouco?
+Dialogue: 0,0:09:06.42,0:09:08.56,Default,,0,0,0,,Você acabou de voltar para casa.
+Dialogue: 0,0:09:09.27,0:09:11.73,Default,,0,0,0,,Peço desculpas, mas ainda estamos no meio de nossa jornada.
+Dialogue: 0,0:09:12.33,0:09:13.51,Default,,0,0,0,,Como você sabe,
+Dialogue: 0,0:09:13.51,0:09:16.53,Default,,0,0,0,,a Árvore do Gênesis mudou drasticamente o mundo.
+Dialogue: 0,0:09:17.00,0:09:18.69,Default,,0,0,0,,Agora mesmo, sinto como se
+Dialogue: 0,0:09:18.69,0:09:20.95,Default,,0,0,0,,Eu deveria pelo menos ouvir os desejos de Samon.
+Dialogue: 0,0:09:21.40,0:09:23.81,Default,,0,0,0,,Você parece muito mais razoável...
+Dialogue: 0,0:09:24.18,0:09:26.75,Default,,0,0,0,,É, quero dizer que você se tornou ainda mais refinado.
+Dialogue: 0,0:09:26.75,0:09:28.13,Default,,0,0,0,,É um homem.
+Dialogue: 0,0:09:28.13,0:09:31.09,Default,,0,0,0,,As mulheres mudam por causa dos homens.
+Dialogue: 0,0:09:33.47,0:09:34.92,Default,,0,0,0,,N-Não é isso! Ele é...
+Dialogue: 0,0:09:35.19,0:09:37.52,Default,,0,0,0,,Você não tem idade para passar por esse constrangimento.
+Dialogue: 0,0:09:37.52,0:09:41.75,Default,,0,0,0,,Na sua idade, tivemos enxames de crianças por todos os lados.
+Dialogue: 0,0:09:41.75,0:09:42.93,Default,,0,0,0,,Esquerda e direita...
+Dialogue: 0,0:09:50.43,0:09:52.86,Default,,0,0,0,,Hakaze-san, você está andando um pouco rápido.
+Dialogue: 0,0:09:53.29,0:09:54.94,Default,,0,0,0,,Que pena.
+Dialogue: 0,0:09:54.94,0:09:56.35,Default,,0,0,0,,Há muito tempo...
+Dialogue: 0,0:09:56.35,0:09:57.07,Default,,0,0,0,,Olhar.
+Dialogue: 0,0:09:57.91,0:10:01.08,Default,,0,0,0,,Ouvi dizer que eles atravessavam o rio usando uma polia.
+Dialogue: 0,0:10:01.08,0:10:03.03,Default,,0,0,0,,N-De jeito nenhum.
+Dialogue: 0,0:10:03.03,0:10:04.39,Default,,0,0,0,,Parece que não tenho escolha.
+Dialogue: 0,0:10:06.10,0:10:06.89,Default,,0,0,0,,Não!
+Dialogue: 0,0:10:06.89,0:10:12.17,Default,,0,0,0,,Se eu o tocasse, meus sentimentos aumentariam ainda mais.
+Dialogue: 0,0:10:12.38,0:10:13.91,Default,,0,0,0,,Ah, obrigado—
+Dialogue: 0,0:10:14.48,0:10:15.73,Default,,0,0,0,,Estou seguindo em frente.
+Dialogue: 0,0:10:20.52,0:10:22.01,Default,,0,0,0,,Este é um santuário muito impressionante.
+Dialogue: 0,0:10:22.54,0:10:25.96,Default,,0,0,0,,O espião provavelmente veio aqui para procurar documentos antigos.
+Dialogue: 0,0:10:25.96,0:10:27.71,Default,,0,0,0,,Há uma grande possibilidade de que ele retorne.
+Dialogue: 0,0:10:28.28,0:10:30.51,Default,,0,0,0,,Poderia algo aqui explicar a origem
+Dialogue: 0,0:10:30.51,0:10:31.77,Default,,0,0,0,,da Árvore do Gênesis?
+Dialogue: 0,0:10:31.77,0:10:32.86,Default,,0,0,0,,Não,
+Dialogue: 0,0:10:32.86,0:10:36.11,Default,,0,0,0,,a maioria dos nossos registros não são deixados em formato físico,
+Dialogue: 0,0:10:36.11,0:10:37.93,Default,,0,0,0,,mas é transmitida oralmente.
+Dialogue: 0,0:10:40.91,0:10:44.20,Default,,0,0,0,,Então você está dizendo que mesmo que um espião viesse aqui,
+Dialogue: 0,0:10:44.20,0:10:46.43,Default,,0,0,0,,não haveria nada para eles levarem?
+Dialogue: 0,0:10:46.95,0:10:50.39,Default,,0,0,0,,Os poderes possuídos pelos aldeões aqui
+Dialogue: 0,0:10:50.39,0:10:52.42,Default,,0,0,0,,deve ser bastante evidente.
+Dialogue: 0,0:10:52.95,0:10:56.15,Default,,0,0,0,,Desde o aparecimento do mago do Êxodo,
+Dialogue: 0,0:10:56.15,0:10:58.00,Default,,0,0,0,,Tenho certeza de que a atenção será atraída para ele.
+Dialogue: 0,0:10:58.68,0:11:01.96,Default,,0,0,0,,Todos podem usar magia nesta vila.
+Dialogue: 0,0:11:03.33,0:11:05.93,Default,,0,0,0,,Cara, isso foi ótimo!
+Dialogue: 0,0:11:06.48,0:11:08.48,Default,,0,0,0,,Aquilo era um banho completo de cipreste japonês?
+Dialogue: 0,0:11:08.48,0:11:11.39,Default,,0,0,0,,O banho na casa do Samon-san é fantástico!
+Dialogue: 0,0:11:11.39,0:11:14.08,Default,,0,0,0,,Você está relaxado demais. Isto não é uma pousada japonesa.
+Dialogue: 0,0:11:16.39,0:11:19.07,Default,,0,0,0,,Aparentemente, a princesa já emitiu um aviso.
+Dialogue: 0,0:11:19.34,0:11:23.82,Default,,0,0,0,,Ela disse que, sob nenhuma circunstância, alguém pode usar magia por algum tempo.
+Dialogue: 0,0:11:24.09,0:11:26.10,Default,,0,0,0,,Não é de surpreender, mas ela se move rápido.
+Dialogue: 0,0:11:26.66,0:11:30.77,Default,,0,0,0,,Devemos evitar a todo custo que as pessoas descubram que esta é uma vila de magos.
+Dialogue: 0,0:11:31.33,0:11:32.38,Default,,0,0,0,,O que mais?
+Dialogue: 0,0:11:32.38,0:11:36.48,Default,,0,0,0,,Ah, alguém na mansão me contou uma história estranha.
+Dialogue: 0,0:11:36.81,0:11:37.84,Default,,0,0,0,,Uma história estranha?
+Dialogue: 0,0:11:38.25,0:11:41.34,Default,,0,0,0,,Disseram que uma criança nesta vila viu um fantasma.
+Dialogue: 0,0:11:41.83,0:11:45.68,Default,,0,0,0,,Então, no pior cenário, podemos simplesmente desistir de procurar o espião?
+Dialogue: 0,0:11:46.01,0:11:48.97,Default,,0,0,0,,Contanto que eles não nos vejam usando magia, está tudo bem.
+Dialogue: 0,0:11:48.97,0:11:51.77,Default,,0,0,0,,Então não me importo que acabe sendo apenas uma história de fantasma.
+Dialogue: 0,0:11:52.25,0:11:53.44,Default,,0,0,0,,Um fantasma, hein?
+Dialogue: 0,0:11:53.86,0:11:55.97,Default,,0,0,0,,Mas é engraçado, não é?
+Dialogue: 0,0:11:55.97,0:11:58.90,Default,,0,0,0,,Que crianças magas teriam medo de fantasmas?
+Dialogue: 0,0:11:58.90,0:12:00.01,Default,,0,0,0,,Realmente?
+Dialogue: 0,0:12:00.01,0:12:02.15,Default,,0,0,0,,Tetsuma era um sujeito bem medroso.
+Dialogue: 0,0:12:02.15,0:12:04.20,Default,,0,0,0,,Muitas vezes eu o fazia fazer xixi nas calças com medo.
+Dialogue: 0,0:12:04.68,0:12:06.20,Default,,0,0,0,,Acho que posso ter descoberto
+Dialogue: 0,0:12:06.20,0:12:09.66,Default,,0,0,0,,por que ele não gosta muito de Hakaze-san.
+Dialogue: 0,0:12:10.19,0:12:11.28,Default,,0,0,0,,Aconteceu alguma coisa?
+Dialogue: 0,0:12:11.28,0:12:15.00,Default,,0,0,0,,Ah, então você não tem medo de fantasmas?
+Dialogue: 0,0:12:15.29,0:12:16.89,Default,,0,0,0,,Claro.
+Dialogue: 0,0:12:16.89,0:12:19.64,Default,,0,0,0,,A Princesa do Gênesis não temeria fantasmas...
+Dialogue: 0,0:12:20.73,0:12:24.47,Default,,0,0,0,,Mas se eu parecesse assustado aqui, eu pareceria mais fofo?
+Dialogue: 0,0:12:25.01,0:12:28.92,Default,,0,0,0,,Espera, espera, o que diabos eu estou pensando em um momento como esse?
+Dialogue: 0,0:12:30.11,0:12:31.20,Default,,0,0,0,,Há algo errado?
+Dialogue: 0,0:12:31.20,0:12:34.19,Default,,0,0,0,,U-Um, well...
+Dialogue: 0,0:12:34.19,0:12:37.19,Default,,0,0,0,,Você também só acredita em coisas que pode ver, correto?
+Dialogue: 0,0:12:39.28,0:12:40.40,Default,,0,0,0,,É assim que eu pareço?
+Dialogue: 0,0:12:40.85,0:12:41.76,Default,,0,0,0,,Estou errado?
+Dialogue: 0,0:12:42.18,0:12:45.85,Default,,0,0,0,,Parece, senhora! Não é mesmo; não sei o que "parece".
+Dialogue: 0,0:12:46.32,0:12:46.99,Default,,0,0,0,,O que?
+Dialogue: 0,0:12:47.43,0:12:49.04,Default,,0,0,0,,É uma citação de Hamlet.
+Dialogue: 0,0:12:49.34,0:12:52.08,Default,,0,0,0,,Essa história também é sobre um fantasma.
+Dialogue: 0,0:12:52.97,0:12:54.86,Default,,0,0,0,,O rei é envenenado e morto,
+Dialogue: 0,0:12:54.86,0:12:58.83,Default,,0,0,0,,então, como um fantasma, ele aparece diante de Hamlet para exigir vingança.
+Dialogue: 0,0:12:59.85,0:13:03.23,Default,,0,0,0,,Sua mãe pergunta se ele realmente viu um fantasma...
+Dialogue: 0,0:13:09.35,0:13:10.89,Default,,0,0,0,,Você parece preocupado.
+Dialogue: 0,0:13:10.89,0:13:14.14,Default,,0,0,0,,Bom, você disse que eu sou a pessoa mais assustadora que você conhece.
+Dialogue: 0,0:13:14.60,0:13:16.76,Default,,0,0,0,,Só estou me perguntando se é assim que as pessoas pensam que eu sou.
+Dialogue: 0,0:13:17.93,0:13:25.15,Default,,0,0,0,,Parece, senhora! Não é mesmo; não sei o que "parece".
+Dialogue: 0,0:13:27.15,0:13:28.39,Default,,0,0,0,,Hamlet de novo?
+Dialogue: 0,0:13:28.82,0:13:30.59,Default,,0,0,0,,Imagino que você seja do tipo
+Dialogue: 0,0:13:30.59,0:13:33.50,Default,,0,0,0,,quem diria que você nunca viu um fantasma mesmo se tivesse.
+Dialogue: 0,0:13:34.05,0:13:36.33,Default,,0,0,0,,Para começar, eu não acredito neles.
+Dialogue: 0,0:13:37.09,0:13:40.83,Default,,0,0,0,,Você está lentamente se tornando uma pessoa chata, como Mahiro.
+Dialogue: 0,0:13:40.83,0:13:42.84,Default,,0,0,0,,Você não aceitará coisas irracionais.
+Dialogue: 0,0:13:45.98,0:13:47.72,Default,,0,0,0,,É um pouco triste, não é?
+Dialogue: 0,0:13:48.64,0:13:49.89,Default,,0,0,0,,Elas florescem e depois desaparecem.
+Dialogue: 0,0:13:52.52,0:13:55.34,Default,,0,0,0,,Você gostaria de ver alguém que faleceu, mesmo que seja um fantasma.
+Dialogue: 0,0:13:56.35,0:13:58.17,Default,,0,0,0,,Você negaria esses sentimentos também?
+Dialogue: 0,0:13:59.48,0:14:00.27,Default,,0,0,0,,Por exemplo,
+Dialogue: 0,0:14:01.38,0:14:03.36,Default,,0,0,0,,e se fosse meu fantasma?
+Dialogue: 0,0:14:18.65,0:14:19.59,Default,,0,0,0,,Você a encontrou?
+Dialogue: 0,0:14:19.59,0:14:20.21,Default,,0,0,0,,Não, ainda não.
+Dialogue: 0,0:14:20.93,0:14:22.22,Default,,0,0,0,,Quando foi a última vez que você a viu?
+Dialogue: 0,0:14:22.22,0:14:24.09,Default,,0,0,0,,Não desde que ela saiu sozinha, por volta do anoitecer.
+Dialogue: 0,0:14:24.40,0:14:25.86,Default,,0,0,0,,De qualquer forma, vamos continuar procurando.
+Dialogue: 0,0:14:25.86,0:14:26.51,Default,,0,0,0,,Qual é o problema?
+Dialogue: 0,0:14:28.08,0:14:29.43,Default,,0,0,0,,Não é bom, princesa.
+Dialogue: 0,0:14:29.77,0:14:31.21,Default,,0,0,0,,Sana desapareceu!
+Dialogue: 0,0:14:43.05,0:14:44.56,Default,,0,0,0,,É uma história sobre alguém que deseja
+Dialogue: 0,0:14:44.56,0:14:47.49,Default,,0,0,0,,vingar tanto que eles se destroem, que interessante?
+Dialogue: 0,0:14:47.93,0:14:50.49,Default,,0,0,0,,Bem, isso é inesperado. Você leu?
+Dialogue: 0,0:14:50.80,0:14:54.01,Default,,0,0,0,,Eu vi a peça com minha namorada quando estávamos no ensino médio.
+Dialogue: 0,0:14:54.01,0:14:56.30,Default,,0,0,0,,Então você realmente cursou o ensino médio?
+Dialogue: 0,0:14:57.50,0:14:59.08,Default,,0,0,0,,O que você acha que eu sou?
+Dialogue: 0,0:14:59.52,0:15:01.61,Default,,0,0,0,,O erro de Hamlet é que
+Dialogue: 0,0:15:01.61,0:15:04.59,Default,,0,0,0,,ele acreditava em algo como um fantasma que não existe.
+Dialogue: 0,0:15:05.44,0:15:07.73,Default,,0,0,0,,No segundo em que ele acreditou em algo irracional,
+Dialogue: 0,0:15:07.73,0:15:09.34,Default,,0,0,0,,ele estava condenado.
+Dialogue: 0,0:15:09.77,0:15:13.22,Default,,0,0,0,,Você não acredita em vozes de mortos ou em espíritos?
+Dialogue: 0,0:15:13.48,0:15:16.32,Default,,0,0,0,,Essas são apenas ilusões imaginadas pelos vivos.
+Dialogue: 0,0:15:16.69,0:15:18.31,Default,,0,0,0,,Quando você morre, acabou.
+Dialogue: 0,0:15:18.73,0:15:20.12,Default,,0,0,0,,Os mortos não retornam,
+Dialogue: 0,0:15:20.52,0:15:22.55,Default,,0,0,0,,nem ouvem nossos desejos.
+Dialogue: 0,0:15:23.26,0:15:24.52,Default,,0,0,0,,É tudo uma ilusão.
+Dialogue: 0,0:15:25.45,0:15:28.79,Default,,0,0,0,,Coisas que você esqueceu de dizer, coisas que você não conseguiu dizer...
+Dialogue: 0,0:15:28.79,0:15:32.16,Default,,0,0,0,,Eles querem que os fantasmas os ouçam, então eles inventam um.
+Dialogue: 0,0:15:32.77,0:15:36.99,Default,,0,0,0,,Também é possível que as pessoas imaginem seus desejos como fantasmas.
+Dialogue: 0,0:15:38.79,0:15:41.17,Default,,0,0,0,,Fuwa Mahiro está correto a esse respeito.
+Dialogue: 0,0:15:41.70,0:15:44.24,Default,,0,0,0,,Fantasmas são meras ilusões.
+Dialogue: 0,0:15:44.70,0:15:46.72,Default,,0,0,0,,Você diz isso com tanta convicção.
+Dialogue: 0,0:15:47.18,0:15:49.23,Default,,0,0,0,,Será que você tem medo deles?
+Dialogue: 0,0:15:49.23,0:15:50.42,Default,,0,0,0,,N-Não seja tolo!
+Dialogue: 0,0:15:50.87,0:15:53.71,Default,,0,0,0,,De qualquer forma, faz mais sentido supor que o fantasma
+Dialogue: 0,0:15:53.71,0:15:56.83,Default,,0,0,0,,a criança pensou que viu o espião.
+Dialogue: 0,0:15:57.33,0:15:59.19,Default,,0,0,0,,Seria bom investigar.
+Dialogue: 0,0:15:59.72,0:16:01.98,Default,,0,0,0,,Mas Mahiro-kun é bem interessante.
+Dialogue: 0,0:16:02.30,0:16:06.03,Default,,0,0,0,,Ele nega a existência de fantasmas, mas ama Hamlet.
+Dialogue: 0,0:16:08.37,0:16:09.82,Default,,0,0,0,,De qualquer forma, eu realmente não gosto disso.
+Dialogue: 0,0:16:10.19,0:16:13.07,Default,,0,0,0,,É que Aika costumava citá-lo o tempo todo.
+Dialogue: 0,0:16:13.49,0:16:15.29,Default,,0,0,0,,É uma história onde, no final,
+Dialogue: 0,0:16:15.29,0:16:16.71,Default,,0,0,0,,amante de uma mulher e seu irmão,
+Dialogue: 0,0:16:16.71,0:16:18.86,Default,,0,0,0,,lamentando a perda de sua irmã, lutar até a morte.
+Dialogue: 0,0:16:18.86,0:16:20.67,Default,,0,0,0,,Esse irmão seria você...
+Dialogue: 0,0:16:20.67,0:16:22.32,Default,,0,0,0,,Não foi só Hamlet.
+Dialogue: 0,0:16:23.18,0:16:25.80,Default,,0,0,0,,Ela também citaria essa coisa.
+Dialogue: 0,0:16:26.18,0:16:27.21,Default,,0,0,0,,A tempestade?
+Dialogue: 0,0:16:27.78,0:16:29.68,Default,,0,0,0,,Você não conhece essa?
+Dialogue: 0,0:16:31.86,0:16:33.90,Default,,0,0,0,,No final, tudo é perdoado,
+Dialogue: 0,0:16:34.35,0:16:37.85,Default,,0,0,0,,e todos acabam felizes e livres.
+Dialogue: 0,0:16:39.67,0:16:41.48,Default,,0,0,0,,Hamlet e A Tempestade?
+Dialogue: 0,0:16:42.10,0:16:43.91,Default,,0,0,0,,Ambos são contos de vingança,
+Dialogue: 0,0:16:43.91,0:16:45.65,Default,,0,0,0,,mas os finais são exatamente opostos.
+Dialogue: 0,0:16:46.19,0:16:46.94,Default,,0,0,0,,Olhar!
+Dialogue: 0,0:16:50.37,0:16:51.59,Default,,0,0,0,,Muito!
+Dialogue: 0,0:16:52.52,0:16:53.61,Default,,0,0,0,,Muito!
+Dialogue: 0,0:16:53.96,0:16:55.09,Default,,0,0,0,,Muito!
+Dialogue: 0,0:16:56.79,0:16:59.42,Default,,0,0,0,,Fogo... O santuário está pegando fogo!
+Dialogue: 0,0:17:03.17,0:17:04.33,Default,,0,0,0,,A ponte pênsil!
+Dialogue: 0,0:17:05.12,0:17:07.63,Default,,0,0,0,,Eles estão usando táticas bastante enérgicas
+Dialogue: 0,0:17:07.63,0:17:09.69,Default,,0,0,0,,para testar a existência da magia...
+Dialogue: 0,0:17:10.07,0:17:11.55,Default,,0,0,0,,Então o espião...
+Dialogue: 0,0:17:14.60,0:17:15.38,Default,,0,0,0,,Espere!
+Dialogue: 0,0:17:15.75,0:17:17.92,Default,,0,0,0,,Esta é a oportunidade perfeita para aprender
+Dialogue: 0,0:17:18.24,0:17:21.47,Default,,0,0,0,,se Takigawa Yoshino é realmente o mago do Êxodo.
+Dialogue: 0,0:17:21.99,0:17:24.94,Default,,0,0,0,,É uma pena que Yoshino-kun seja suspeito de ser um deles...
+Dialogue: 0,0:17:25.32,0:17:27.60,Default,,0,0,0,,considerando como o outro é.
+Dialogue: 0,0:17:27.99,0:17:32.19,Default,,0,0,0,,Cara, isso é ótimo sempre...
+Dialogue: 0,0:17:37.82,0:17:38.93,Default,,0,0,0,,Olha! É a Sana!
+Dialogue: 0,0:17:41.64,0:17:42.83,Default,,0,0,0,,Muito!
+Dialogue: 0,0:17:42.83,0:17:45.34,Default,,0,0,0,,Por que você veio aqui?
+Dialogue: 0,0:17:45.34,0:17:47.37,Default,,0,0,0,,Ela deveria ter ouvido falar do fantasma...
+Dialogue: 0,0:17:47.90,0:17:50.39,Default,,0,0,0,,Ela pode ter vindo aqui porque ouviu falar do fantasma.
+Dialogue: 0,0:17:50.39,0:17:51.09,Default,,0,0,0,,O que?
+Dialogue: 0,0:17:52.12,0:17:53.60,Default,,0,0,0,,Acho que entendi...
+Dialogue: 0,0:17:55.76,0:17:57.01,Default,,0,0,0,,De qualquer forma, precisamos salvá-la!
+Dialogue: 0,0:17:57.66,0:17:58.53,Default,,0,0,0,,Não há outra escolha...
+Dialogue: 0,0:17:58.53,0:18:01.63,Default,,0,0,0,,Princesa, você disse que magia é proibida!
+Dialogue: 0,0:18:01.63,0:18:03.68,Default,,0,0,0,,O cara está tentando forçar você a usar magia!
+Dialogue: 0,0:18:03.82,0:18:06.52,Default,,0,0,0,,Se não o impedirmos, o fogo se espalhará pela floresta!
+Dialogue: 0,0:18:06.92,0:18:09.44,Default,,0,0,0,,Também é possível que haja uma câmera escondida em algum lugar!
+Dialogue: 0,0:18:09.82,0:18:11.16,Default,,0,0,0,,Então o que devemos fazer?!
+Dialogue: 0,0:18:11.16,0:18:15.28,Default,,0,0,0,,Sem magia, só existem crianças e idosos aqui!
+Dialogue: 0,0:18:19.19,0:18:19.99,Default,,0,0,0,,Yoshino!
+Dialogue: 0,0:18:28.40,0:18:29.63,Default,,0,0,0,,O que você está tentando fazer?
+Dialogue: 0,0:18:30.04,0:18:32.05,Default,,0,0,0,,Se eu deslizar sobre a corda usando esta corrente...
+Dialogue: 0,0:18:32.05,0:18:33.84,Default,,0,0,0,,Não seja tolo... Isso é muito perigoso!
+Dialogue: 0,0:18:34.06,0:18:36.57,Default,,0,0,0,,Vou separá-lo de Sana-san e levá-lo embora!
+Dialogue: 0,0:18:36.95,0:18:37.76,Default,,0,0,0,,Yoshino!
+Dialogue: 0,0:18:39.59,0:18:41.68,Default,,0,0,0,,Ela pensou que podia ver o fantasma do seu irmão...
+Dialogue: 0,0:18:42.28,0:18:43.85,Default,,0,0,0,,É por isso que ela veio.
+Dialogue: 0,0:18:44.52,0:18:46.56,Default,,0,0,0,,Mesmo que ele fosse um fantasma, ela queria vê-lo.
+Dialogue: 0,0:18:51.58,0:18:52.44,Default,,0,0,0,,Yoshino!
+Dialogue: 0,0:18:59.02,0:19:00.37,Default,,0,0,0,,Yoshino-kun...
+Dialogue: 0,0:19:00.37,0:19:02.72,Default,,0,0,0,,Isso é raro, considerando que ele geralmente é bem composto.
+Dialogue: 0,0:19:02.72,0:19:05.70,Default,,0,0,0,,Mas tudo isso pode ser calculado.
+Dialogue: 0,0:19:05.70,0:19:09.04,Default,,0,0,0,,Mas você acha que ele faria algo tão arriscado?
+Dialogue: 0,0:19:09.04,0:19:11.25,Default,,0,0,0,,O que há de tão arriscado nisso?
+Dialogue: 0,0:19:11.25,0:19:13.79,Default,,0,0,0,,Você esqueceu que ele tem talismãs?
+Dialogue: 0,0:19:30.32,0:19:31.56,Default,,0,0,0,,Corra para a floresta!
+Dialogue: 0,0:19:47.63,0:19:48.12,Default,,0,0,0,,Yoshino!
+Dialogue: 0,0:19:52.31,0:19:53.53,Default,,0,0,0,,Ouça-me!
+Dialogue: 0,0:19:58.51,0:19:59.42,Default,,0,0,0,,Ela usou!
+Dialogue: 0,0:20:00.11,0:20:02.93,Default,,0,0,0,,Não, Takigawa Yoshino fez uso disso.
+Dialogue: 0,0:20:03.29,0:20:05.59,Default,,0,0,0,,Quando uma garota inocente percebe sua sensualidade...
+Dialogue: 0,0:20:05.59,0:20:07.16,Default,,0,0,0,,...ela se torna impossível de lidar.
+Dialogue: 0,0:20:15.52,0:20:16.22,Default,,0,0,0,,Espere!
+Dialogue: 0,0:20:29.33,0:20:31.14,Default,,0,0,0,,Você se saiu bem...
+Dialogue: 0,0:20:31.14,0:20:32.78,Default,,0,0,0,,A nosso favor, pelo menos.
+Dialogue: 0,0:20:36.48,0:20:37.50,Default,,0,0,0,,Você está bem?!
+Dialogue: 0,0:20:37.76,0:20:40.03,Default,,0,0,0,,Eu apenas torci um pouco o tornozelo.
+Dialogue: 0,0:20:40.68,0:20:43.55,Default,,0,0,0,,Parece que eles descobriram sobre magia...
+Dialogue: 0,0:20:43.76,0:20:45.03,Default,,0,0,0,,Isso não é...
+Dialogue: 0,0:20:49.66,0:20:53.35,Default,,0,0,0,,Não me importo com isso!
+Dialogue: 0,0:20:56.69,0:20:59.57,Default,,0,0,0,,Fiquei preocupado...
+Dialogue: 0,0:21:00.24,0:21:01.24,Default,,0,0,0,,Hakaze-san...
+Dialogue: 0,0:21:04.05,0:21:05.89,Default,,0,0,0,,Você está dizendo que tudo aconteceu
+Dialogue: 0,0:21:05.89,0:21:08.45,Default,,0,0,0,,dessa forma devido a um ato do mago do Êxodo?
+Dialogue: 0,0:21:08.83,0:21:11.93,Default,,0,0,0,,A Princesa do Gênesis começou a desconsiderar
+Dialogue: 0,0:21:11.93,0:21:14.62,Default,,0,0,0,,a lógica da Árvore do Gênesis, tudo por sua causa...
+Dialogue: 0,0:21:14.97,0:21:16.63,Default,,0,0,0,,Quem mais teria esse tipo de poder,
+Dialogue: 0,0:21:16.63,0:21:19.02,Default,,0,0,0,,além do mago do Êxodo?
+Dialogue: 0,0:21:19.87,0:21:22.49,Default,,0,0,0,,Mas acho que Hakaze-san vê
+Dialogue: 0,0:21:22.49,0:21:25.15,Default,,0,0,0,,Yoshino-kun de uma maneira completamente diferente...
+Dialogue: 0,0:21:25.90,0:21:27.80,Default,,0,0,0,,Bem, como você vê isso?
+Dialogue: 0,0:21:28.58,0:21:29.53,Default,,0,0,0,,Não sei...
+Dialogue: 0,0:21:29.99,0:21:32.20,Default,,0,0,0,,Não sei no que devo acreditar.
+Dialogue: 0,0:21:38.27,0:21:39.32,Default,,0,0,0,,Não adianta.
+Dialogue: 0,0:21:39.89,0:21:42.48,Default,,0,0,0,,Mesmo que a culpa esteja me esmagando,
+Dialogue: 0,0:21:42.95,0:21:43.94,Default,,0,0,0,,Eu sou...
+Dialogue: 0,0:21:44.95,0:21:47.70,Default,,0,0,0,,Estou apaixonado por Yoshino...
+Dialogue: 0,0:21:50.72,0:21:52.04,Default,,0,0,0,,O espião...
+Dialogue: 0,0:21:52.52,0:21:55.75,Default,,0,0,0,,Você está dizendo que eles foram enviados por uma agência nacional?
+Dialogue: 0,0:21:56.02,0:21:58.16,Default,,0,0,0,,Admito que foi bastante inesperado,
+Dialogue: 0,0:21:58.47,0:22:01.53,Default,,0,0,0,,mas pode ser vantajoso para nós que a aldeia de Kusaribe
+Dialogue: 0,0:22:01.53,0:22:04.06,Default,,0,0,0,,e sua conexão com a magia foram descobertas.
+Dialogue: 0,0:22:04.06,0:22:05.13,Default,,0,0,0,,O que você quer dizer?
+Dialogue: 0,0:22:05.61,0:22:09.39,Default,,0,0,0,,Parece que teremos mais oportunidades de usar nossos cartões de forma eficaz.
+Dialogue: 0,0:22:09.69,0:22:12.01,Default,,0,0,0,,Parece que você será reintegrado em breve.
+Dialogue: 0,0:22:12.01,0:22:13.78,Default,,0,0,0,,Só podemos ter esperança.
+Dialogue: 0,0:22:14.56,0:22:17.62,Default,,0,0,0,,Talvez eu mesmo tenha encontrado algo interessante.
+Dialogue: 0,0:22:18.09,0:22:19.23,Default,,0,0,0,,Algo interessante?
+Dialogue: 0,0:22:19.90,0:22:23.20,Default,,0,0,0,,Algo que pode ser uma chave
+Dialogue: 0,0:22:23.56,0:22:25.93,Default,,0,0,0,,para aprender por que as Árvores do Gênesis e do Êxodo existem.
+Dialogue: 0,0:24:02.74,0:24:05.00,Default,,0,0,0,,A namorada de um estudante do ensino médio
+Dialogue: 0,0:24:05.00,0:24:06.85,Default,,0,0,0,,é um colega de classe.
+Dialogue: 0,0:24:07.53,0:24:10.13,Default,,0,0,0,,O que é isso? Uma comédia romântica?
+Dialogue: 0,0:24:10.13,0:24:11.46,Default,,0,0,0,,E quanto a uma mulher casada?
+Dialogue: 0,0:24:12.03,0:24:15.07,Default,,0,0,0,,Até você se tornará um "canalha" certificado.
+Dialogue: 0,0:24:15.37,0:24:16.64,Default,,0,0,0,,Isso é duro.
+Dialogue: 0,0:24:16.64,0:24:20.26,Default,,0,0,0,,Devo dizer que estou curioso sobre gelo raspado humano.
+Dialogue: 0,0:24:20.79,0:24:23.15,Default,,0,0,0,,Neve marinha, hein?
+Dialogue: 0,0:24:23.98,0:24:28.08,Default,,0,0,0,,Episódio 17 Neve Marinha

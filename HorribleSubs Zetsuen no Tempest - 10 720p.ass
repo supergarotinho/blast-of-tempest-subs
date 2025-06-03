@@ -1,0 +1,385 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:33.18,0:01:35.11,Default,,0,0,0,,Não acredito...
+Dialogue: 0,0:01:35.41,0:01:37.40,Default,,0,0,0,,Toda a situação virou de cabeça para baixo,
+Dialogue: 0,0:01:37.40,0:01:39.37,Default,,0,0,0,,apenas com a palavra "namorado".
+Dialogue: 0,0:01:40.47,0:01:45.24,Default,,0,0,0,,Tudo isso foi colocado em uma balança e tudo foi superado...
+Dialogue: 0,0:01:45.24,0:01:47.20,Default,,0,0,0,,Por uma garota chamada Aika.
+Dialogue: 0,0:01:51.10,0:01:52.00,Default,,0,0,0,,Tudo bem...
+Dialogue: 0,0:01:53.76,0:01:55.76,Default,,0,0,0,,Aqui está minha teoria.
+Dialogue: 0,0:01:55.76,0:01:58.76,Default,,0,0,0,,Episódio 10 Como Fazer uma Máquina do Tempo
+Dialogue: 0,0:02:00.50,0:02:04.45,Default,,0,0,0,,A Árvore do Gênesis, que criou este mundo e sua lógica,
+Dialogue: 0,0:02:04.45,0:02:07.14,Default,,0,0,0,,protege totalmente Hakaze-san.
+Dialogue: 0,0:02:07.57,0:02:10.19,Default,,0,0,0,,Mahiro, dada a sua posição privilegiada,
+Dialogue: 0,0:02:10.19,0:02:13.36,Default,,0,0,0,,Você realmente acha que ela não tem chance de ganhar?
+Dialogue: 0,0:02:13.71,0:02:16.84,Default,,0,0,0,,Não é porque a Árvore do Gênesis ainda não despertou completamente?
+Dialogue: 0,0:02:16.84,0:02:19.49,Default,,0,0,0,,É por isso que ela é vulnerável, certo?
+Dialogue: 0,0:02:20.30,0:02:24.57,Default,,0,0,0,,A Árvore do Êxodo que pode derrotar a Árvore do Gênesis cresceu muito.
+Dialogue: 0,0:02:24.57,0:02:27.41,Default,,0,0,0,,Tenho certeza de que a lógica do mundo ficou um pouco confusa.
+Dialogue: 0,0:02:27.92,0:02:29.08,Default,,0,0,0,,Verdadeiro.
+Dialogue: 0,0:02:29.08,0:02:32.54,Default,,0,0,0,,É por isso que Hakaze-san está em desvantagem no momento.
+Dialogue: 0,0:02:33.10,0:02:36.26,Default,,0,0,0,,Mas isso por si só não significa que ela esteja perdida.
+Dialogue: 0,0:02:36.71,0:02:38.28,Default,,0,0,0,,Pense nisso.
+Dialogue: 0,0:02:38.28,0:02:40.00,Default,,0,0,0,,Por que viemos aqui?
+Dialogue: 0,0:02:41.53,0:02:43.51,Default,,0,0,0,,Se não fosse você, nunca teríamos chegado tão longe.
+Dialogue: 0,0:02:44.02,0:02:47.47,Default,,0,0,0,,Se não fosse você, Hakaze-san não teria recebido ajuda.
+Dialogue: 0,0:02:48.54,0:02:51.73,Default,,0,0,0,,Dado tudo isso, você pode realmente descartar
+Dialogue: 0,0:02:52.11,0:02:54.48,Default,,0,0,0,,pegar a boneca de Hakaze-san é mera coincidência?
+Dialogue: 0,0:02:58.26,0:03:00.23,Default,,0,0,0,,Coincidências como essa não existem.
+Dialogue: 0,0:03:00.83,0:03:04.91,Default,,0,0,0,,Essa deve ser a razão pela qual a Árvore do Gênesis está trabalhando a favor de Hakaze-san.
+Dialogue: 0,0:03:06.12,0:03:08.29,Default,,0,0,0,,Esse garoto sabe falar.
+Dialogue: 0,0:03:08.29,0:03:11.49,Default,,0,0,0,,Além disso, você não acha que tem algo estranho no Kusaribe Samon?
+Dialogue: 0,0:03:12.35,0:03:16.73,Default,,0,0,0,,Ele estava confiante de que estávamos alcançando Hakaze-san através do tempo
+Dialogue: 0,0:03:16.73,0:03:18.80,Default,,0,0,0,,desde o começo.
+Dialogue: 0,0:03:19.44,0:03:22.99,Default,,0,0,0,,Claro, ele é um mago, mas uma mudança no tempo é realmente a conclusão mais óbvia?
+Dialogue: 0,0:03:23.57,0:03:27.14,Default,,0,0,0,,Bem, acho que essa não é a primeira explicação que alguém poderia considerar.
+Dialogue: 0,0:03:27.83,0:03:29.70,Default,,0,0,0,,Então só posso assumir
+Dialogue: 0,0:03:29.70,0:03:32.24,Default,,0,0,0,,que Kusaribe Samon sabia desde o início que alguém como nós chegaria,
+Dialogue: 0,0:03:32.24,0:03:36.60,Default,,0,0,0,,e que Hakaze-san se comunicaria conosco através do tempo.
+Dialogue: 0,0:03:38.14,0:03:40.82,Default,,0,0,0,,E como você chegou a essa hipótese precipitada?
+Dialogue: 0,0:03:40.82,0:03:44.34,Default,,0,0,0,,Porque ele temia as consequências de tal circunstância,
+Dialogue: 0,0:03:44.34,0:03:46.70,Default,,0,0,0,,ele precisava preparar uma contramedida com antecedência.
+Dialogue: 0,0:03:48.63,0:03:50.97,Default,,0,0,0,,Por outras palavras, tal como as coisas estão,
+Dialogue: 0,0:03:50.97,0:03:54.40,Default,,0,0,0,,sua vitória ainda não foi confirmada.
+Dialogue: 0,0:03:54.40,0:03:55.33,Default,,0,0,0,,Isso mesmo.
+Dialogue: 0,0:03:55.86,0:03:58.93,Default,,0,0,0,,O que significa que ainda há uma maneira de trazer Hakaze-san de volta,
+Dialogue: 0,0:03:58.93,0:04:01.24,Default,,0,0,0,,mesmo que ela esteja presa numa gaiola de tempo.
+Dialogue: 0,0:04:03.15,0:04:05.40,Default,,0,0,0,,Kusaribe Samon está tentando fazer isso parecer impossível.
+Dialogue: 0,0:04:05.91,0:04:09.39,Default,,0,0,0,,Tentando nos enganar, Hakaze-san, e a lógica do mundo,
+Dialogue: 0,0:04:09.76,0:04:11.54,Default,,0,0,0,,para vencer!
+Dialogue: 0,0:04:15.16,0:04:17.06,Default,,0,0,0,,Parece que você empunha um talismã.
+Dialogue: 0,0:04:18.72,0:04:23.03,Default,,0,0,0,,Entretanto, seu poder emprestado não lhe dará nenhuma vantagem sobre mim!
+Dialogue: 0,0:04:23.76,0:04:26.12,Default,,0,0,0,,Seria sensato você recuar.
+Dialogue: 0,0:04:26.42,0:04:30.31,Default,,0,0,0,,A magia já me machucou duas vezes antes.
+Dialogue: 0,0:04:30.31,0:04:31.00,Default,,0,0,0,,Então,
+Dialogue: 0,0:04:31.70,0:04:35.50,Default,,0,0,0,,Preciso de alguma retribuição para fazer as pazes!
+Dialogue: 0,0:04:39.20,0:04:42.94,Default,,0,0,0,,Diga-me seu nome, mago.
+Dialogue: 0,0:04:43.70,0:04:45.88,Default,,0,0,0,,Eu não tenho um nome
+Dialogue: 0,0:04:45.88,0:04:48.09,Default,,0,0,0,,importante o suficiente para você lembrar.
+Dialogue: 0,0:04:56.27,0:04:57.35,Default,,0,0,0,,Aquele idiota.
+Dialogue: 0,0:05:00.54,0:05:02.36,Default,,0,0,0,,Telegrama da Força Aérea.
+Dialogue: 0,0:05:02.96,0:05:05.04,Default,,0,0,0,,Os caças foram acionados
+Dialogue: 0,0:05:05.04,0:05:07.76,Default,,0,0,0,,de Misawa e Tsuiki para fornecer apoio aéreo aproximado!
+Dialogue: 0,0:05:07.76,0:05:10.11,Default,,0,0,0,,Trinta minutos até a chegada ao Monte Fuji.
+Dialogue: 0,0:05:10.92,0:05:14.75,Default,,0,0,0,,Só nos resta torcer para que ela nos dê tempo suficiente.
+Dialogue: 0,0:05:16.20,0:05:17.65,Default,,0,0,0,,Interessante...
+Dialogue: 0,0:05:18.19,0:05:21.59,Default,,0,0,0,,Ele não consegue realmente derrotar Hakaze, que é apoiado pela lógica do mundo.
+Dialogue: 0,0:05:21.91,0:05:25.19,Default,,0,0,0,,Mas se ele conseguir fazer Hakaze pensar que ela está perdida,
+Dialogue: 0,0:05:25.19,0:05:29.62,Default,,0,0,0,,e deixou de lado sua determinação de resistir e perseverar...
+Dialogue: 0,0:05:29.62,0:05:31.60,Default,,0,0,0,,E então, hein?
+Dialogue: 0,0:05:32.62,0:05:37.60,Default,,0,0,0,,Seria normal que alguém preso numa gaiola de tempo perdesse toda a esperança.
+Dialogue: 0,0:05:38.03,0:05:40.31,Default,,0,0,0,,É exatamente isso que Kusaribe Samon quer.
+Dialogue: 0,0:05:40.91,0:05:43.19,Default,,0,0,0,,Com Hakaze-san em desespero,
+Dialogue: 0,0:05:43.19,0:05:45.19,Default,,0,0,0,,ele planejou reviver a Árvore do Êxodo.
+Dialogue: 0,0:05:45.59,0:05:49.70,Default,,0,0,0,,Ele não se importava se a verdade viesse à tona mais tarde, contanto que pudesse ganhar algum tempo.
+Dialogue: 0,0:05:50.96,0:05:53.20,Default,,0,0,0,,O que você acha, Samon-san?
+Dialogue: 0,0:05:56.45,0:06:00.01,Default,,0,0,0,,De fato, essa foi precisamente minha jogada.
+Dialogue: 0,0:06:01.01,0:06:04.07,Default,,0,0,0,,Com a razão do mundo ao seu lado, não posso derrotar a princesa.
+Dialogue: 0,0:06:04.64,0:06:07.52,Default,,0,0,0,,Precisei de tudo que tinha para criar uma desvantagem para ela.
+Dialogue: 0,0:06:08.61,0:06:10.99,Default,,0,0,0,,Eu finalmente consegui fazer isso.
+Dialogue: 0,0:06:11.92,0:06:13.97,Default,,0,0,0,,Depois de muito pensar e planejar,
+Dialogue: 0,0:06:14.51,0:06:18.23,Default,,0,0,0,,Finalmente criei um plano para enganar a princesa e a lógica da Árvore do Gênesis.
+Dialogue: 0,0:06:19.30,0:06:20.23,Default,,0,0,0,,E ainda assim...
+Dialogue: 0,0:06:21.64,0:06:24.36,Default,,0,0,0,,Esse garoto percebeu isso com muita facilidade.
+Dialogue: 0,0:06:25.25,0:06:28.24,Default,,0,0,0,,Isso também se deve ao fato de o mundo estar do lado da princesa?
+Dialogue: 0,0:06:29.49,0:06:34.37,Default,,0,0,0,,No entanto, eles não conseguiram enxergar tudo.
+Dialogue: 0,0:06:39.31,0:06:40.57,Default,,0,0,0,,Muito bem.
+Dialogue: 0,0:06:40.57,0:06:42.90,Default,,0,0,0,,Você levanta pontos válidos.
+Dialogue: 0,0:06:42.90,0:06:43.71,Default,,0,0,0,,No entanto,
+Dialogue: 0,0:06:44.25,0:06:46.98,Default,,0,0,0,,você ainda precisa resolver o assunto mais importante aqui.
+Dialogue: 0,0:06:49.49,0:06:51.19,Default,,0,0,0,,Ele está certo, Yoshino.
+Dialogue: 0,0:06:51.83,0:06:55.64,Default,,0,0,0,,Por enquanto, sua teoria é, no máximo, uma mera possibilidade.
+Dialogue: 0,0:06:57.17,0:07:01.18,Default,,0,0,0,,É verdade que a princesa está presa em uma dimensão dois anos atrás.
+Dialogue: 0,0:07:01.97,0:07:04.82,Default,,0,0,0,,Mas como você pretende recuperá-la?
+Dialogue: 0,0:07:05.57,0:07:07.99,Default,,0,0,0,,O corpo dela está pendurado ali.
+Dialogue: 0,0:07:09.26,0:07:13.12,Default,,0,0,0,,Você afirma que pode romper a prisão definitiva do tempo?
+Dialogue: 0,0:07:13.74,0:07:14.80,Default,,0,0,0,,Você não pode!
+Dialogue: 0,0:07:15.63,0:07:18.54,Default,,0,0,0,,Portanto, seu argumento é inválido.
+Dialogue: 0,0:07:18.92,0:07:21.42,Default,,0,0,0,,Suas palavras são meros sofismas, sem significado.
+Dialogue: 0,0:07:22.37,0:07:24.02,Default,,0,0,0,,Ele está certo, Yoshino.
+Dialogue: 0,0:07:24.81,0:07:28.84,Default,,0,0,0,,Não creio que seja possível romper a prisão do tempo.
+Dialogue: 0,0:07:28.84,0:07:30.72,Default,,0,0,0,,Se o fizéssemos, o passado mudaria.
+Dialogue: 0,0:07:31.26,0:07:32.96,Default,,0,0,0,,Um paradoxo temporal ocorreria.
+Dialogue: 0,0:07:33.37,0:07:34.30,Default,,0,0,0,,É inconcebível.
+Dialogue: 0,0:07:34.82,0:07:36.98,Default,,0,0,0,,Se você não puder fornecer provas sólidas
+Dialogue: 0,0:07:36.98,0:07:39.90,Default,,0,0,0,,que há alguma maneira de romper,
+Dialogue: 0,0:07:39.90,0:07:41.81,Default,,0,0,0,,Não posso ir para o seu lado.
+Dialogue: 0,0:07:42.43,0:07:43.31,Default,,0,0,0,,Isso é exatamente correto.
+Dialogue: 0,0:07:43.77,0:07:45.78,Default,,0,0,0,,É exatamente assim que você deve pensar.
+Dialogue: 0,0:07:46.36,0:07:51.43,Default,,0,0,0,,Embora, na realidade, haja de fato uma maneira de escapar da prisão.
+Dialogue: 0,0:07:52.43,0:07:55.48,Default,,0,0,0,,A lógica do mundo garante a vitória da princesa.
+Dialogue: 0,0:07:56.03,0:07:58.35,Default,,0,0,0,,Então aproveitamos isso.
+Dialogue: 0,0:07:59.41,0:08:03.03,Default,,0,0,0,,O clã Kusaribe passou três gerações
+Dialogue: 0,0:08:03.03,0:08:04.96,Default,,0,0,0,,construindo meticulosamente isto...
+Dialogue: 0,0:08:05.50,0:08:08.92,Default,,0,0,0,,Isso não é algo que nem mesmo a princesa conseguiria descobrir facilmente...
+Dialogue: 0,0:08:09.38,0:08:13.22,Default,,0,0,0,,Muito menos um garoto que não sabe quase nada sobre magia.
+Dialogue: 0,0:08:13.51,0:08:16.43,Default,,0,0,0,,Na verdade, a prisão temporal em si é uma ilusão.
+Dialogue: 0,0:08:16.96,0:08:18.64,Default,,0,0,0,,Então não haverá nenhum paradoxo temporal.
+Dialogue: 0,0:08:23.93,0:08:25.27,Default,,0,0,0,,Estamos sendo enganados
+Dialogue: 0,0:08:25.27,0:08:28.90,Default,,0,0,0,,em pensar que há uma diferença real de dois anos.
+Dialogue: 0,0:08:31.11,0:08:33.45,Default,,0,0,0,,O que esse garoto está dizendo?
+Dialogue: 0,0:08:33.98,0:08:37.93,Default,,0,0,0,,Hakaze-san, você passou cerca de quatro meses naquela ilha.
+Dialogue: 0,0:08:37.93,0:08:39.74,Default,,0,0,0,,Você não tem dúvidas, certo?
+Dialogue: 0,0:08:40.33,0:08:42.16,Default,,0,0,0,,S-Sim...
+Dialogue: 0,0:08:42.91,0:08:45.34,Default,,0,0,0,,Fiz questão de contar os dias com cuidado.
+Dialogue: 0,0:08:47.42,0:08:48.67,Default,,0,0,0,,Mas, Hakaze-san,
+Dialogue: 0,0:08:49.32,0:08:54.13,Default,,0,0,0,,Você também calculou quanto tempo levou para te transferir para aquela ilha?
+Dialogue: 0,0:08:54.13,0:08:55.01,Default,,0,0,0,,Huh?
+Dialogue: 0,0:08:55.59,0:08:58.68,Default,,0,0,0,,Você foi colocado para dormir por Kusaribe Samon,
+Dialogue: 0,0:08:58.68,0:09:01.18,Default,,0,0,0,,enfiado em um barril e despejado na ilha.
+Dialogue: 0,0:09:02.19,0:09:03.60,Default,,0,0,0,,Não é isso que você pensa?
+Dialogue: 0,0:09:05.21,0:09:06.21,Default,,0,0,0,,Mas...
+Dialogue: 0,0:09:07.00,0:09:09.81,Default,,0,0,0,,E se você fosse colocado para dormir por dois anos,
+Dialogue: 0,0:09:09.81,0:09:13.57,Default,,0,0,0,,depois enfiado num barril e despejado na ilha?
+Dialogue: 0,0:09:20.55,0:09:22.74,Default,,0,0,0,,Já que você estava dormindo,
+Dialogue: 0,0:09:22.74,0:09:26.00,Default,,0,0,0,,você não teria percebido que dois anos se passaram.
+Dialogue: 0,0:09:26.38,0:09:30.06,Default,,0,0,0,,Preso em uma ilha deserta, sem nenhuma maneira concreta de saber as horas,
+Dialogue: 0,0:09:30.06,0:09:32.76,Default,,0,0,0,,e então finalmente conseguiu se comunicar conosco através desta boneca...
+Dialogue: 0,0:09:33.52,0:09:38.26,Default,,0,0,0,,Eu pensava que estava conectado a um mundo dois anos no futuro.
+Dialogue: 0,0:09:38.60,0:09:42.29,Default,,0,0,0,,Acho que se falássemos com alguém que não soubesse que dormiu por dois anos,
+Dialogue: 0,0:09:42.29,0:09:44.22,Default,,0,0,0,,pareceria uma lacuna no tempo.
+Dialogue: 0,0:09:44.64,0:09:47.77,Default,,0,0,0,,Não... Você está errado.
+Dialogue: 0,0:09:48.24,0:09:50.10,Default,,0,0,0,,Mesmo que estejamos no mesmo tempo,
+Dialogue: 0,0:09:50.10,0:09:53.07,Default,,0,0,0,,como há alguma distância nos separa, pode parecer uma comunicação através do tempo.
+Dialogue: 0,0:09:53.65,0:09:56.45,Default,,0,0,0,,Essa prisão do tempo não é física.
+Dialogue: 0,0:09:56.45,0:09:58.34,Default,,0,0,0,,É uma ilusão psicológica.
+Dialogue: 0,0:10:00.75,0:10:02.33,Default,,0,0,0,,Mas então, Yoshino,
+Dialogue: 0,0:10:02.33,0:10:04.23,Default,,0,0,0,,o que são esses ossos?
+Dialogue: 0,0:10:04.23,0:10:08.54,Default,,0,0,0,,Junichiro não confirmou que eram Hakaze?
+Dialogue: 0,0:10:10.84,0:10:13.27,Default,,0,0,0,,Eles tiveram dois anos para fazer o que quisessem com o corpo dela.
+Dialogue: 0,0:10:13.70,0:10:16.84,Default,,0,0,0,,Esses ossos são apenas mais um acessório para nos enganar.
+Dialogue: 0,0:10:17.46,0:10:21.85,Default,,0,0,0,,Provavelmente foi difícil fazer alguém dormir por dois anos sem perceber.
+Dialogue: 0,0:10:22.30,0:10:26.91,Default,,0,0,0,,Mas eles têm acesso à magia e não perderam tempo.
+Dialogue: 0,0:10:27.36,0:10:30.88,Default,,0,0,0,,Se fosse a única maneira de enganá-la, provavelmente foi isso que fizeram.
+Dialogue: 0,0:10:31.62,0:10:35.23,Default,,0,0,0,,Eles não parecem dispostos a perder tempo.
+Dialogue: 0,0:10:35.57,0:10:40.36,Default,,0,0,0,,Nossa vitória mais uma vez depende do plano de Hakaze-san.
+Dialogue: 0,0:10:41.29,0:10:45.24,Default,,0,0,0,,Então, se ela não está presa numa prisão de tempo...
+Dialogue: 0,0:10:45.95,0:10:46.58,Default,,0,0,0,,Incrível!
+Dialogue: 0,0:10:48.04,0:10:50.63,Default,,0,0,0,,Se eu ativasse esse talismã,
+Dialogue: 0,0:10:50.63,0:10:55.00,Default,,0,0,0,,Samon não teria outra escolha a não ser trazer Hakaze de volta para cá.
+Dialogue: 0,0:10:55.53,0:10:56.20,Default,,0,0,0,,Não...
+Dialogue: 0,0:10:56.59,0:11:00.38,Default,,0,0,0,,E então, a vitória de Hakaze seria decidida instantaneamente.
+Dialogue: 0,0:11:00.78,0:11:01.72,Default,,0,0,0,,Não...
+Dialogue: 0,0:11:02.01,0:11:04.74,Default,,0,0,0,,Então as coisas acontecerão exatamente como planejamos originalmente...
+Dialogue: 0,0:11:06.60,0:11:08.10,Default,,0,0,0,,Não, espere, espere, espere...
+Dialogue: 0,0:11:08.74,0:11:10.11,Default,,0,0,0,,Espere!
+Dialogue: 0,0:11:10.11,0:11:13.11,Default,,0,0,0,,Não colocamos a princesa para dormir por dois anos!
+Dialogue: 0,0:11:14.39,0:11:17.32,Default,,0,0,0,,E sem dúvida, aqueles ossos pertencem à princesa!
+Dialogue: 0,0:11:18.02,0:11:19.63,Default,,0,0,0,,Isso não está acontecendo...
+Dialogue: 0,0:11:20.00,0:11:23.28,Default,,0,0,0,,Não permitirei que ativem o talismã por causa de uma teoria sem sentido!
+Dialogue: 0,0:11:24.05,0:11:25.50,Default,,0,0,0,,Esta é uma acusação falsa...
+Dialogue: 0,0:11:26.09,0:11:28.32,Default,,0,0,0,,Esta é uma acusação falsa baseada em mentiras!
+Dialogue: 0,0:11:28.32,0:11:29.62,Default,,0,0,0,,Você tem alguma prova?
+Dialogue: 0,0:11:31.00,0:11:34.31,Default,,0,0,0,,Se não podemos confiar no senso de tempo de Hakaze-san,
+Dialogue: 0,0:11:34.95,0:11:37.71,Default,,0,0,0,,não há absolutamente nenhuma prova de qualquer mudança de tempo.
+Dialogue: 0,0:11:38.12,0:11:39.97,Default,,0,0,0,,Mesmo com magia,
+Dialogue: 0,0:11:39.97,0:11:43.08,Default,,0,0,0,,é ilógico pensar que podemos nos comunicar através do tempo.
+Dialogue: 0,0:11:43.08,0:11:45.46,Default,,0,0,0,,Seria mais estranho realmente acreditar nisso.
+Dialogue: 0,0:11:47.70,0:11:49.83,Default,,0,0,0,,Você está falando de lógica agora?
+Dialogue: 0,0:11:50.41,0:11:53.81,Default,,0,0,0,,Primeiro, estamos de fato trabalhando ao longo do tempo.
+Dialogue: 0,0:11:55.99,0:11:58.32,Default,,0,0,0,,Mahiro, ative o talismã,
+Dialogue: 0,0:11:58.32,0:12:00.48,Default,,0,0,0,,e podemos salvar Hakaze-san.
+Dialogue: 0,0:12:02.62,0:12:04.39,Default,,0,0,0,,Seu desejo também se realizará.
+Dialogue: 0,0:12:04.91,0:12:06.70,Default,,0,0,0,,Podemos evitar mais baixas.
+Dialogue: 0,0:12:07.99,0:12:08.98,Default,,0,0,0,,Caramba...
+Dialogue: 0,0:12:09.92,0:12:12.00,Default,,0,0,0,,Aquele garoto está completamente errado.
+Dialogue: 0,0:12:12.71,0:12:14.84,Default,,0,0,0,,Mas isso é irrelevante!
+Dialogue: 0,0:12:16.13,0:12:18.16,Default,,0,0,0,,Se ele ativar o talismã,
+Dialogue: 0,0:12:18.16,0:12:21.40,Default,,0,0,0,,É quase certo que terei que devolver a princesa.
+Dialogue: 0,0:12:22.08,0:12:23.21,Default,,0,0,0,,Não...
+Dialogue: 0,0:12:23.21,0:12:25.02,Default,,0,0,0,,Não terei outra escolha!
+Dialogue: 0,0:12:27.13,0:12:29.05,Default,,0,0,0,,Não importa se ele fala a verdade ou bobagem.
+Dialogue: 0,0:12:30.04,0:12:32.14,Default,,0,0,0,,Se ele conseguir fazer o outro garoto puxar o gatilho,
+Dialogue: 0,0:12:32.14,0:12:33.67,Default,,0,0,0,,ele vai ganhar.
+Dialogue: 0,0:12:37.67,0:12:38.94,Default,,0,0,0,,Não...
+Dialogue: 0,0:12:39.60,0:12:41.08,Default,,0,0,0,,A princesa vencerá.
+Dialogue: 0,0:12:42.13,0:12:44.57,Default,,0,0,0,,Bobagem ou não, o resultado é o mesmo.
+Dialogue: 0,0:12:50.66,0:12:52.27,Default,,0,0,0,,Que inacreditavelmente astuto.
+Dialogue: 0,0:12:53.16,0:12:56.41,Default,,0,0,0,,Será que esse truque quebrará uma prisão de tempo real que levou o clã inteiro para forjar?
+Dialogue: 0,0:12:56.41,0:12:58.38,Default,,0,0,0,,Tudo isso usando bobagens?
+Dialogue: 0,0:12:59.41,0:13:00.52,Default,,0,0,0,,Isso não pode acontecer...
+Dialogue: 0,0:13:00.52,0:13:01.80,Default,,0,0,0,,Não pode!
+Dialogue: 0,0:13:02.13,0:13:05.93,Default,,0,0,0,,Como posso provar que há uma mudança de horário?
+Dialogue: 0,0:13:07.10,0:13:08.85,Default,,0,0,0,,Ótimo... Ele está em pânico.
+Dialogue: 0,0:13:09.51,0:13:12.22,Default,,0,0,0,,Agora, se ao menos Mahiro e Hakaze-san tomassem uma atitude...
+Dialogue: 0,0:13:12.85,0:13:14.02,Default,,0,0,0,,Se nós três
+Dialogue: 0,0:13:14.02,0:13:16.44,Default,,0,0,0,,somos capazes de combinar nossos pontos fortes...
+Dialogue: 0,0:13:17.05,0:13:18.19,Default,,0,0,0,,Nós podemos vencer...
+Dialogue: 0,0:13:19.01,0:13:20.41,Default,,0,0,0,,Deveríamos conseguir vencer!
+Dialogue: 0,0:13:50.10,0:13:51.31,Default,,0,0,0,,Eles estão aqui!
+Dialogue: 0,0:13:51.31,0:13:53.02,Default,,0,0,0,,Temos apoio aéreo próximo!
+Dialogue: 0,0:13:55.52,0:14:00.46,Default,,0,0,0,,Retorna! Retorna! Retorna! Retorna!
+Dialogue: 0,0:13:59.37,0:14:00.47,Default,,0,0,0,,Tetsuma-dono!
+Dialogue: 0,0:14:00.47,0:14:02.52,Default,,0,0,0,,A barreira não resistirá a outro golpe!
+Dialogue: 0,0:14:01.15,0:14:03.67,Default,,0,0,0,,Lindo! Lindo!
+Dialogue: 0,0:14:02.52,0:14:03.70,Default,,0,0,0,,Caramba.
+Dialogue: 0,0:14:03.67,0:14:05.93,Default,,0,0,0,,Lindo! Lindo!
+Dialogue: 0,0:14:03.70,0:14:05.93,Default,,0,0,0,,Eles estão jogando tudo o que têm em nós.
+Dialogue: 0,0:14:06.43,0:14:08.53,Default,,0,0,0,,Retorna! Retorna!
+Dialogue: 0,0:14:06.45,0:14:08.53,Default,,0,0,0,,Então também faremos o que for preciso.
+Dialogue: 0,0:14:08.84,0:14:11.30,Default,,0,0,0,,Fruta! Fruta!
+Dialogue: 0,0:14:09.25,0:14:14.00,Default,,0,0,0,,Desvie temporariamente a energia da primeira e da segunda barreiras!
+Dialogue: 0,0:14:13.94,0:14:16.27,Default,,0,0,0,,Retorna! Retorna!
+Dialogue: 0,0:14:14.00,0:14:17.38,Default,,0,0,0,,Concentre esse poder no renascimento da Árvore do Êxodo!
+Dialogue: 0,0:14:16.82,0:14:19.18,Default,,0,0,0,,Lindo! Lindo!
+Dialogue: 0,0:14:17.38,0:14:19.22,Default,,0,0,0,,Vamos apressar o ritual!
+Dialogue: 0,0:14:19.18,0:14:21.25,Default,,0,0,0,,Fruta! Fruta!
+Dialogue: 0,0:14:21.81,0:14:23.21,Default,,0,0,0,,Não se deixe enganar!
+Dialogue: 0,0:14:24.00,0:14:27.80,Default,,0,0,0,,Seu amigo não provou a ausência de diferencial de tempo.
+Dialogue: 0,0:14:28.37,0:14:32.55,Default,,0,0,0,,Ele não forneceu uma única razão concreta para ativar o talismã.
+Dialogue: 0,0:14:32.88,0:14:36.89,Default,,0,0,0,,Não preciso fornecer provas; você é quem está fazendo uma afirmação implausível!
+Dialogue: 0,0:14:33.43,0:14:35.70,Default,,0,0,0,,A teoria de Yoshino parece um blefe.
+Dialogue: 0,0:14:36.07,0:14:37.58,Default,,0,0,0,,Ficar do lado dele ainda é um grande risco.
+Dialogue: 0,0:14:36.89,0:14:37.95,Default,,0,0,0,,O que?
+Dialogue: 0,0:14:37.98,0:14:41.46,Default,,0,0,0,,Mas ele conseguiu criar uma situação que torna o risco aceitável.
+Dialogue: 0,0:14:38.44,0:14:41.24,Default,,0,0,0,,Você é quem deve nos mostrar as provas.
+Dialogue: 0,0:14:41.24,0:14:43.87,Default,,0,0,0,,Você é quem está alegando que há uma discrepância de tempo!
+Dialogue: 0,0:14:41.46,0:14:43.74,Default,,0,0,0,,Se Samon não consegue pensar em nada,
+Dialogue: 0,0:14:43.74,0:14:46.32,Default,,0,0,0,,Yoshino é a melhor escolha nas circunstâncias...
+Dialogue: 0,0:14:43.87,0:14:44.92,Default,,0,0,0,,É uma falácia lógica!
+Dialogue: 0,0:14:44.92,0:14:46.32,Default,,0,0,0,,É uma teoria válida!
+Dialogue: 0,0:14:48.60,0:14:51.53,Default,,0,0,0,,A teoria de Yoshino é bem duvidosa.
+Dialogue: 0,0:14:51.53,0:14:54.06,Default,,0,0,0,,Mas Samon também está se comportando de forma questionável.
+Dialogue: 0,0:14:54.06,0:14:56.87,Default,,0,0,0,,Será que existe um segredo nessa prisão do tempo?
+Dialogue: 0,0:14:59.12,0:15:00.12,Default,,0,0,0,,Então...
+Dialogue: 0,0:15:00.71,0:15:04.12,Default,,0,0,0,,Talvez valha a pena forçar a mão de Samon!
+Dialogue: 0,0:15:08.69,0:15:13.10,Default,,0,0,0,,Parece que não tenho outra escolha a não ser provar que a mudança de tempo existe.
+Dialogue: 0,0:15:13.77,0:15:17.73,Default,,0,0,0,,Embora seja completamente verdade que dois anos separam a ilha de agora...
+Dialogue: 0,0:15:18.33,0:15:20.56,Default,,0,0,0,,Pensar que estou sendo incomodado pelo ônus da prova!
+Dialogue: 0,0:15:21.52,0:15:25.00,Default,,0,0,0,,Aqueles ossos que trouxe da ilha pertencem à princesa...
+Dialogue: 0,0:15:26.84,0:15:28.42,Default,,0,0,0,,Trouxe de volta...
+Dialogue: 0,0:15:30.57,0:15:31.66,Default,,0,0,0,,O barril...
+Dialogue: 0,0:15:31.66,0:15:32.49,Default,,0,0,0,,Huh?
+Dialogue: 0,0:15:32.90,0:15:34.07,Default,,0,0,0,,Aquele barril!
+Dialogue: 0,0:15:35.50,0:15:36.41,Default,,0,0,0,,Barril?
+Dialogue: 0,0:15:36.41,0:15:37.86,Default,,0,0,0,,Isso mesmo.
+Dialogue: 0,0:15:37.86,0:15:39.83,Default,,0,0,0,,Não há um barril perto da princesa?
+Dialogue: 0,0:15:39.83,0:15:40.96,Default,,0,0,0,,Tem que haver!
+Dialogue: 0,0:15:46.48,0:15:47.52,Default,,0,0,0,,Hakaze-san?
+Dialogue: 0,0:15:48.26,0:15:50.55,Default,,0,0,0,,Sim, tem um barril.
+Dialogue: 0,0:15:51.02,0:15:55.60,Default,,0,0,0,,Recuperei os ossos da princesa da ilha, junto com aquele barril.
+Dialogue: 0,0:15:56.16,0:15:57.31,Default,,0,0,0,,Significado...
+Dialogue: 0,0:15:57.76,0:16:01.83,Default,,0,0,0,,O barril ao lado da princesa e o barril aqui são a mesma coisa.
+Dialogue: 0,0:16:02.72,0:16:05.62,Default,,0,0,0,,Porque há uma mudança de tempo de dois anos,
+Dialogue: 0,0:16:06.17,0:16:09.11,Default,,0,0,0,,é possível verificar que o barril existiu em ambos os momentos ao mesmo tempo!
+Dialogue: 0,0:16:09.66,0:16:12.11,Default,,0,0,0,,Mas não há provas de que seja o mesmo barril.
+Dialogue: 0,0:16:13.11,0:16:17.96,Default,,0,0,0,,Mas se houver, isso também provará que há uma mudança no tempo.
+Dialogue: 0,0:16:18.81,0:16:19.87,Default,,0,0,0,,Não importa o que...
+Dialogue: 0,0:16:20.43,0:16:25.20,Default,,0,0,0,,Peça para a princesa esculpir uma palavra de sua escolha no barril.
+Dialogue: 0,0:16:26.73,0:16:29.42,Default,,0,0,0,,Se os dois barris forem diferentes, nada acontecerá.
+Dialogue: 0,0:16:30.09,0:16:32.05,Default,,0,0,0,,Mas se forem iguais,
+Dialogue: 0,0:16:32.42,0:16:35.59,Default,,0,0,0,,a palavra que você mesmo escolheu
+Dialogue: 0,0:16:35.59,0:16:38.55,Default,,0,0,0,,aparecerá naquele barril.
+Dialogue: 0,0:16:40.79,0:16:42.06,Default,,0,0,0,,Muito bem.
+Dialogue: 0,0:16:42.68,0:16:46.11,Default,,0,0,0,,Hakaze-san, por favor, esculpa a seguinte palavra.
+Dialogue: 0,0:16:46.62,0:16:47.43,Default,,0,0,0,,Entendi.
+Dialogue: 0,0:16:50.90,0:16:53.57,Default,,0,0,0,,Então, por favor, escreva isto.
+Dialogue: 0,0:16:59.11,0:17:00.21,Default,,0,0,0,,Tudo bem.
+Dialogue: 0,0:17:17.52,0:17:18.79,Default,,0,0,0,,Está escrito lá,
+Dialogue: 0,0:17:18.79,0:17:20.19,Default,,0,0,0,,em direção ao fundo.
+Dialogue: 0,0:17:20.66,0:17:21.79,Default,,0,0,0,,Entendido.
+Dialogue: 0,0:17:24.89,0:17:26.77,Default,,0,0,0,,Estará lá sem falta.
+Dialogue: 0,0:17:26.77,0:17:27.94,Default,,0,0,0,,Está feito!
+Dialogue: 0,0:17:29.94,0:17:31.57,Default,,0,0,0,,Ariel!
+Dialogue: 0,0:17:36.56,0:17:38.90,Default,,0,0,0,,A palavra que eu disse a ela está gravada ali.
+Dialogue: 0,0:17:38.90,0:17:42.02,Default,,0,0,0,,Por algum motivo, com um ponto de exclamação.
+Dialogue: 0,0:17:43.55,0:17:44.57,Default,,0,0,0,,Só senti vontade de adicioná-lo.
+Dialogue: 0,0:17:45.19,0:17:48.63,Default,,0,0,0,,Então isso prova que os dois barris são, de fato, iguais.
+Dialogue: 0,0:17:52.11,0:17:53.94,Default,,0,0,0,,Parece que chegamos a uma conclusão.
+Dialogue: 0,0:17:54.61,0:17:58.76,Default,,0,0,0,,É impossível que o mesmo barril exista simultaneamente em dois lugares diferentes.
+Dialogue: 0,0:17:59.45,0:18:03.72,Default,,0,0,0,,Só é possível se existir aqui no presente e ali no passado!
+Dialogue: 0,0:18:04.21,0:18:06.69,Default,,0,0,0,,Jovem, aí está sua prova.
+Dialogue: 0,0:18:07.05,0:18:09.69,Default,,0,0,0,,Sua teoria falhou!
+Dialogue: 0,0:18:21.40,0:18:23.08,Default,,0,0,0,,Impressionante.
+Dialogue: 0,0:18:23.08,0:18:25.12,Default,,0,0,0,,Gastei bastante energia.
+Dialogue: 0,0:18:25.12,0:18:28.99,Default,,0,0,0,,Vai me custar muito tentar outro ataque às suas forças.
+Dialogue: 0,0:18:36.18,0:18:38.05,Default,,0,0,0,,E-Espere...
+Dialogue: 0,0:18:39.73,0:18:41.79,Default,,0,0,0,,Espere um segundo, Mage-kun.
+Dialogue: 0,0:18:46.02,0:18:49.69,Default,,0,0,0,,J-Junichiro-dono...
+Dialogue: 0,0:18:49.69,0:18:50.65,Default,,0,0,0,,Ei!
+Dialogue: 0,0:18:51.69,0:18:54.05,Default,,0,0,0,,Fique mais um pouco.
+Dialogue: 0,0:18:54.67,0:18:55.57,Default,,0,0,0,,Ver?
+Dialogue: 0,0:18:56.39,0:18:58.32,Default,,0,0,0,,Eu também tenho lanches.
+Dialogue: 0,0:18:58.59,0:19:00.99,Default,,0,0,0,,Junichiro-dono, o que você...
+Dialogue: 0,0:19:09.25,0:19:10.42,Default,,0,0,0,,O vento...
+Dialogue: 0,0:19:18.30,0:19:20.47,Default,,0,0,0,,Tudo veio à tona.
+Dialogue: 0,0:19:20.47,0:19:25.22,Default,,0,0,0,,Se você também vir isso, não ative o talismã precipitadamente.
+Dialogue: 0,0:19:25.22,0:19:28.64,Default,,0,0,0,,Eu finalmente lhe trarei o assassino da sua irmã.
+Dialogue: 0,0:19:28.64,0:19:30.75,Default,,0,0,0,,Ei, acorda!
+Dialogue: 0,0:19:33.71,0:19:35.19,Default,,0,0,0,,Ele está certo, Yoshino!
+Dialogue: 0,0:19:35.19,0:19:36.41,Default,,0,0,0,,Não caia no desespero.
+Dialogue: 0,0:19:36.41,0:19:38.94,Default,,0,0,0,,Na verdade, fui tolo em me deixar desesperar!
+Dialogue: 0,0:19:40.17,0:19:42.39,Default,,0,0,0,,Yoshino, sua conclusão pode ter sido incorreta,
+Dialogue: 0,0:19:42.39,0:19:44.78,Default,,0,0,0,,mas sua maneira de pensar está correta.
+Dialogue: 0,0:19:44.78,0:19:47.62,Default,,0,0,0,,A lógica deste mundo me favorece.
+Dialogue: 0,0:19:47.62,0:19:49.44,Default,,0,0,0,,Eu também senti algo estranho...
+Dialogue: 0,0:19:49.44,0:19:51.39,Default,,0,0,0,,Samon está escondendo algo.
+Dialogue: 0,0:19:52.42,0:19:55.34,Default,,0,0,0,,Eu ainda não sei como atravessar o tempo,
+Dialogue: 0,0:19:56.03,0:19:57.67,Default,,0,0,0,,mas não desista!
+Dialogue: 0,0:19:58.04,0:19:59.64,Default,,0,0,0,,Mesmo que vocês dois não consigam fazer isso,
+Dialogue: 0,0:19:59.64,0:20:01.72,Default,,0,0,0,,com a ajuda da minha magia,
+Dialogue: 0,0:20:01.72,0:20:03.46,Default,,0,0,0,,podemos encontrar um jeito.
+Dialogue: 0,0:20:03.98,0:20:05.85,Default,,0,0,0,,Certamente haverá um!
+Dialogue: 0,0:20:05.85,0:20:09.31,Default,,0,0,0,,Sim, definitivamente parece haver um jeito.
+Dialogue: 0,0:20:09.31,0:20:11.88,Default,,0,0,0,,Vendo que sua voz está atravessando o tempo,
+Dialogue: 0,0:20:11.88,0:20:16.14,Default,,0,0,0,,você provavelmente pode encontrar uma maneira de fazer seu corpo viajar no tempo com magia.
+Dialogue: 0,0:20:16.14,0:20:18.21,Default,,0,0,0,,Ei, do que você está falando?
+Dialogue: 0,0:20:19.06,0:20:21.60,Default,,0,0,0,,Você pretende ignorar seu acordo?
+Dialogue: 0,0:20:21.60,0:20:22.99,Default,,0,0,0,,Esse não era o acordo!
+Dialogue: 0,0:20:22.99,0:20:25.18,Default,,0,0,0,,Cumprirei minha promessa.
+Dialogue: 0,0:20:25.18,0:20:27.88,Default,,0,0,0,,Se você puder me dar o assassino de Aika,
+Dialogue: 0,0:20:27.88,0:20:30.46,Default,,0,0,0,,Vou cortar relações com Hakaze e Yoshino.
+Dialogue: 0,0:20:30.46,0:20:32.83,Default,,0,0,0,,E eu não vou ativar esse talismã
+Dialogue: 0,0:20:32.83,0:20:36.29,Default,,0,0,0,,sem conhecer a magia de atravessar o tempo.
+Dialogue: 0,0:20:36.72,0:20:38.00,Default,,0,0,0,,Mas sabe de uma coisa?
+Dialogue: 0,0:20:38.00,0:20:42.97,Default,,0,0,0,,Fico irritado em pensar que você estava se gabando de como estava prestes a nos enganar.
+Dialogue: 0,0:20:43.84,0:20:44.81,Default,,0,0,0,,Então,
+Dialogue: 0,0:20:44.81,0:20:49.33,Default,,0,0,0,,Sinto vontade de tentar encontrar alguma magia para atravessar o tempo.
+Dialogue: 0,0:20:51.64,0:20:53.94,Default,,0,0,0,,Yoshino, mude seu pensamento.
+Dialogue: 0,0:20:55.56,0:20:57.31,Default,,0,0,0,,Ou melhor,
+Dialogue: 0,0:20:57.31,0:20:59.73,Default,,0,0,0,,Não era isso que você queria o tempo todo?
+Dialogue: 0,0:21:00.47,0:21:03.61,Default,,0,0,0,,Deixando Samon em pânico ao lançar alguma teoria ridícula nele,
+Dialogue: 0,0:21:03.61,0:21:06.54,Default,,0,0,0,,então aproveitou a oportunidade para aliviar o desespero de Hakaze.
+Dialogue: 0,0:21:07.03,0:21:09.18,Default,,0,0,0,,Até mudei de ideia.
+Dialogue: 0,0:21:10.07,0:21:12.62,Default,,0,0,0,,Não vou deixar você fingir que não era isso que você pretendia.
+Dialogue: 0,0:21:18.72,0:21:20.96,Default,,0,0,0,,N-Não pode ser...
+Dialogue: 0,0:21:21.47,0:21:25.68,Default,,0,0,0,,Você está dizendo que eu estava jogando o jogo daquele garoto?!
+Dialogue: 0,0:21:26.08,0:21:29.56,Default,,0,0,0,,Yoshino, você é surpreendentemente dissimulado.
+Dialogue: 0,0:21:31.30,0:21:33.29,Default,,0,0,0,,Ainda é um pouco cedo para comemorar.
+Dialogue: 0,0:21:33.87,0:21:37.78,Default,,0,0,0,,Temos que encontrar uma maneira de atravessar o tempo
+Dialogue: 0,0:21:37.78,0:21:41.11,Default,,0,0,0,,antes que o assassino de Aika-chan seja trazido aqui.
+Dialogue: 0,0:21:41.78,0:21:43.49,Default,,0,0,0,,Certo, Mahiro?
+Dialogue: 0,0:21:43.86,0:21:45.19,Default,,0,0,0,,Sim.
+Dialogue: 0,0:21:45.19,0:21:49.53,Default,,0,0,0,,É possível que esse caminho não funcione para mim.
+Dialogue: 0,0:21:50.22,0:21:53.12,Default,,0,0,0,,Então, neste ponto, ainda não consigo escolher o lado de Hakaze.
+Dialogue: 0,0:21:54.81,0:21:55.71,Default,,0,0,0,,No entanto,
+Dialogue: 0,0:21:56.62,0:21:59.14,Default,,0,0,0,,até que o assassino de Aika seja trazido até mim,
+Dialogue: 0,0:21:59.14,0:22:01.96,Default,,0,0,0,,Vou ajudar a pensar em uma maneira de resgatar Hakaze.
+Dialogue: 0,0:22:06.42,0:22:08.44,Default,,0,0,0,,Não tenha medo, Yoshino.
+Dialogue: 0,0:22:08.44,0:22:11.06,Default,,0,0,0,,O vento agora sopra a nosso favor.
+Dialogue: 0,0:22:11.06,0:22:15.23,Default,,0,0,0,,Você mudou a maré quando me tirou do desespero!
+Dialogue: 0,0:22:17.79,0:22:20.94,Default,,0,0,0,,Muito bem. Vamos romper esta prisão do tempo.
+Dialogue: 0,0:22:21.72,0:22:23.56,Default,,0,0,0,,Deve haver um jeito!
+Dialogue: 0,0:24:02.37,0:24:03.86,Default,,0,0,0,,Você está de mau humor.
+Dialogue: 0,0:24:03.86,0:24:05.34,Default,,0,0,0,,Você sabe a identidade do assassino.
+Dialogue: 0,0:24:05.74,0:24:07.60,Default,,0,0,0,,Apresse-se e traga o assassino aqui.
+Dialogue: 0,0:24:08.25,0:24:09.27,Default,,0,0,0,,Sem chance.
+Dialogue: 0,0:24:09.63,0:24:11.38,Default,,0,0,0,,Retirada tática!
+Dialogue: 0,0:24:12.18,0:24:13.42,Default,,0,0,0,,Não pode ser...
+Dialogue: 0,0:24:14.05,0:24:15.51,Default,,0,0,0,,Como você pode se chamar de homem?
+Dialogue: 0,0:24:15.51,0:24:17.01,Default,,0,0,0,,Estou errado?
+Dialogue: 0,0:24:17.01,0:24:18.64,Default,,0,0,0,,Pode haver uma pessoa
+Dialogue: 0,0:24:18.64,0:24:21.64,Default,,0,0,0,,quem poderia ter escapado da teia de magia!
+Dialogue: 0,0:24:21.64,0:24:23.98,Default,,0,0,0,,II-Impossível!
+Dialogue: 0,0:24:23.98,0:24:27.75,Default,,0,0,0,,Episódio 11 Garota do Tempo

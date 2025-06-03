@@ -1,0 +1,399 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:53.57,0:01:57.35,Default,,0,0,0,,Eu não ia para um lugar assim desde que eu era criança, nas excursões da escola.
+Dialogue: 0,0:01:57.35,0:02:00.15,Default,,0,0,0,,Você quer dizer desde as excursões escolares até a terceira série.
+Dialogue: 0,0:02:00.70,0:02:03.29,Default,,0,0,0,,Você começou a matar aula na quarta série.
+Dialogue: 0,0:02:03.85,0:02:06.24,Default,,0,0,0,,Você se lembra de coisas estranhas.
+Dialogue: 0,0:02:06.68,0:02:08.27,Default,,0,0,0,,Por aqui!
+Dialogue: 0,0:02:08.27,0:02:09.28,Default,,0,0,0,,Ei, espere!
+Dialogue: 0,0:02:12.42,0:02:15.96,Default,,0,0,0,,Cara, olha como os sapatos deles estão sujos.
+Dialogue: 0,0:02:16.75,0:02:19.41,Default,,0,0,0,,Eles provavelmente não se importam com o que está acontecendo
+Dialogue: 0,0:02:19.41,0:02:21.62,Default,,0,0,0,,no mundo agora.
+Dialogue: 0,0:02:25.28,0:02:27.10,Default,,0,0,0,,Tivemos momentos como...
+Dialogue: 0,0:02:28.65,0:02:30.12,Default,,0,0,0,,Não, acho que não.
+Dialogue: 0,0:02:30.12,0:02:31.46,Default,,0,0,0,,Provavelmente não!
+Dialogue: 0,0:02:31.46,0:02:34.26,Default,,0,0,0,,Você sempre foi um pouco rebelde.
+Dialogue: 0,0:02:34.26,0:02:35.40,Default,,0,0,0,,Que diabos?
+Dialogue: 0,0:02:35.40,0:02:36.85,Default,,0,0,0,,Essa é a minha fala!
+Dialogue: 0,0:02:39.38,0:02:42.39,Default,,0,0,0,,Episódio 4 O Par Amaldiçoado
+Dialogue: 0,0:02:46.97,0:02:48.99,Default,,0,0,0,,Hakaze-san escondeu isso no templo?
+Dialogue: 0,0:02:48.99,0:02:51.01,Default,,0,0,0,,Ela vai ser amaldiçoada.
+Dialogue: 0,0:02:51.97,0:02:54.52,Default,,0,0,0,,E então temos outro amaldiçoado aqui.
+Dialogue: 0,0:02:54.52,0:02:56.65,Default,,0,0,0,,Quem se importa? É só decoração.
+Dialogue: 0,0:02:56.65,0:02:59.28,Default,,0,0,0,,Meu único deus é a Árvore do Gênesis.
+Dialogue: 0,0:02:59.28,0:03:00.70,Default,,0,0,0,,Não sei nada sobre outros deuses.
+Dialogue: 0,0:03:01.50,0:03:03.70,Default,,0,0,0,,Certo, claro que não.
+Dialogue: 0,0:03:07.01,0:03:09.27,Default,,0,0,0,,Chuva? Que chato.
+Dialogue: 0,0:03:09.87,0:03:10.90,Default,,0,0,0,,Oh sim.
+Dialogue: 0,0:03:10.90,0:03:12.45,Default,,0,0,0,,Eu trouxe um guarda-chuva de viagem.
+Dialogue: 0,0:03:12.45,0:03:14.13,Default,,0,0,0,,Não estamos em uma viagem de lazer.
+Dialogue: 0,0:03:14.49,0:03:17.00,Default,,0,0,0,,Prefiro que você diga que estou bem preparado.
+Dialogue: 0,0:03:18.16,0:03:18.76,Default,,0,0,0,,Incrível!
+Dialogue: 0,0:03:19.55,0:03:20.17,Default,,0,0,0,,Sim.
+Dialogue: 0,0:03:20.64,0:03:22.58,Default,,0,0,0,,Temos algo ainda mais irritante para lidar!
+Dialogue: 0,0:03:22.58,0:03:23.49,Default,,0,0,0,,Uma fruta?
+Dialogue: 0,0:03:24.18,0:03:26.68,Default,,0,0,0,,O último voou há apenas três dias.
+Dialogue: 0,0:03:26.68,0:03:28.54,Default,,0,0,0,,Maldito seja, Samon...
+Dialogue: 0,0:03:28.54,0:03:30.50,Default,,0,0,0,,Aparentemente ele tem mais medo do meu alcance
+Dialogue: 0,0:03:30.50,0:03:32.49,Default,,0,0,0,,do que qualquer risco em apressar o ritual.
+Dialogue: 0,0:03:32.99,0:03:34.69,Default,,0,0,0,,Acho que isso não é nenhuma surpresa.
+Dialogue: 0,0:03:35.81,0:03:36.94,Default,,0,0,0,,Está começando a cair.
+Dialogue: 0,0:03:37.26,0:03:39.45,Default,,0,0,0,,Pode começar a chover.
+Dialogue: 0,0:03:39.45,0:03:40.71,Default,,0,0,0,,É melhor trancar a porta.
+Dialogue: 0,0:03:40.71,0:03:41.40,Default,,0,0,0,,Tenho que avisá-los!
+Dialogue: 0,0:03:41.40,0:03:42.47,Default,,0,0,0,,Não há tempo.
+Dialogue: 0,0:03:41.90,0:03:42.47,Default,,0,0,0,,Ei!
+Dialogue: 0,0:03:42.47,0:03:44.91,Default,,0,0,0,,Eles ficarão bem enquanto eu tiver o talismã e eles estiverem por perto, certo?
+Dialogue: 0,0:03:46.42,0:03:49.67,Default,,0,0,0,,Eu estava pensando que ele é bem calmo, não importa a situação...
+Dialogue: 0,0:03:50.26,0:03:52.18,Default,,0,0,0,,Mas ele é um tanto precipitado?
+Dialogue: 0,0:03:52.67,0:03:53.79,Default,,0,0,0,,Quem sabe?
+Dialogue: 0,0:03:53.79,0:03:56.78,Default,,0,0,0,,Há algo nele que nunca entenderei.
+Dialogue: 0,0:03:58.08,0:03:58.95,Default,,0,0,0,,Huh?
+Dialogue: 0,0:03:58.95,0:04:00.62,Default,,0,0,0,,Ferro preto...
+Dialogue: 0,0:04:00.62,0:04:01.30,Default,,0,0,0,,síndrome?
+Dialogue: 0,0:04:01.60,0:04:02.48,Default,,0,0,0,,Sim.
+Dialogue: 0,0:04:02.48,0:04:04.07,Default,,0,0,0,,Por favor, vá imediatamente para um lugar seguro.
+Dialogue: 0,0:04:04.07,0:04:05.73,Default,,0,0,0,,E deixe os outros saberem ao longo do caminho!
+Dialogue: 0,0:04:05.73,0:04:07.56,Default,,0,0,0,,Estamos ocupados...
+Dialogue: 0,0:04:07.56,0:04:08.64,Default,,0,0,0,,Saia do caminho.
+Dialogue: 0,0:04:10.17,0:04:11.18,Default,,0,0,0,,Por favor, aguarde!
+Dialogue: 0,0:04:11.18,0:04:13.31,Default,,0,0,0,,Você não pode esperar que acreditem em você.
+Dialogue: 0,0:04:13.76,0:04:17.02,Default,,0,0,0,,O governo está escondendo tudo sobre a síndrome do ferro preto.
+Dialogue: 0,0:04:17.02,0:04:19.03,Default,,0,0,0,,Isso é pior que um conto de fadas.
+Dialogue: 0,0:04:19.77,0:04:23.24,Default,,0,0,0,,Mas para nós não fazermos nada e assistirmos...
+Dialogue: 0,0:04:24.09,0:04:25.45,Default,,0,0,0,,Uau!
+Dialogue: 0,0:04:25.84,0:04:27.91,Default,,0,0,0,,Não é uma borboleta roxa rabo de andorinha?
+Dialogue: 0,0:04:29.25,0:04:30.03,Default,,0,0,0,,Incrível!
+Dialogue: 0,0:04:30.03,0:04:31.43,Default,,0,0,0,,Uau, tem muita coisa ali!
+Dialogue: 0,0:04:30.69,0:04:31.43,Default,,0,0,0,,O talismã...
+Dialogue: 0,0:05:06.31,0:05:07.20,Default,,0,0,0,,Yoshino!
+Dialogue: 0,0:05:33.96,0:05:35.15,Default,,0,0,0,,Não deixe que isso te afete.
+Dialogue: 0,0:05:35.65,0:05:38.90,Default,,0,0,0,,Eles simplesmente não conseguiam encontrar uma maneira de sobreviver.
+Dialogue: 0,0:06:00.68,0:06:02.85,Default,,0,0,0,,Com licença...
+Dialogue: 0,0:06:02.85,0:06:03.88,Default,,0,0,0,,Olá?
+Dialogue: 0,0:06:04.50,0:06:06.05,Default,,0,0,0,,Olá?
+Dialogue: 0,0:06:06.82,0:06:08.44,Default,,0,0,0,,Não tem ninguém aqui, certo?
+Dialogue: 0,0:06:08.94,0:06:11.01,Default,,0,0,0,,Então entraremos pela porta dos fundos!
+Dialogue: 0,0:06:12.36,0:06:14.73,Default,,0,0,0,,Ei, Mahiro, esta é a casa de alguém.
+Dialogue: 0,0:06:14.73,0:06:17.68,Default,,0,0,0,,Se forem duros como pedra, não importa.
+Dialogue: 0,0:06:17.68,0:06:19.27,Default,,0,0,0,,Não podemos fazer nada com essa chuva,
+Dialogue: 0,0:06:19.27,0:06:20.76,Default,,0,0,0,,então é melhor descansarmos.
+Dialogue: 0,0:06:21.17,0:06:22.43,Default,,0,0,0,,Sim, mas...
+Dialogue: 0,0:06:22.43,0:06:23.07,Default,,0,0,0,,Uau!
+Dialogue: 0,0:06:23.07,0:06:23.93,Default,,0,0,0,,Que diabos?
+Dialogue: 0,0:06:23.93,0:06:25.34,Default,,0,0,0,,Isto não sai com água?
+Dialogue: 0,0:06:25.34,0:06:26.38,Default,,0,0,0,,Nunca vi isso antes.
+Dialogue: 0,0:06:27.44,0:06:29.03,Default,,0,0,0,,Perdoe a nossa intrusão.
+Dialogue: 0,0:06:33.76,0:06:35.29,Default,,0,0,0,,Ah, um banho.
+Dialogue: 0,0:06:35.29,0:06:38.20,Default,,0,0,0,,Ótimo... Estou gelado até os ossos.
+Dialogue: 0,0:06:38.20,0:06:38.87,Default,,0,0,0,,Ei...
+Dialogue: 0,0:06:39.51,0:06:40.89,Default,,0,0,0,,Um banho está empurrando...
+Dialogue: 0,0:06:41.56,0:06:42.92,Default,,0,0,0,,Você já se despiu?
+Dialogue: 0,0:06:43.25,0:06:44.13,Default,,0,0,0,,O que diabos?
+Dialogue: 0,0:06:44.13,0:06:45.66,Default,,0,0,0,,O que você quer?
+Dialogue: 0,0:06:45.66,0:06:48.05,Default,,0,0,0,,Não tenho interesse em tomar banho com outro cara.
+Dialogue: 0,0:06:50.60,0:06:53.37,Default,,0,0,0,,Uau! Não tem chuveiro?!
+Dialogue: 0,0:07:02.40,0:07:03.52,Default,,0,0,0,,A propósito, Yoshino...
+Dialogue: 0,0:07:03.97,0:07:04.81,Default,,0,0,0,,Sim?
+Dialogue: 0,0:07:05.31,0:07:09.22,Default,,0,0,0,,É permitido usar a cozinha deles, mas não o banheiro?
+Dialogue: 0,0:07:09.67,0:07:12.04,Default,,0,0,0,,Bem, vai ser uma longa jornada...
+Dialogue: 0,0:07:17.25,0:07:19.21,Default,,0,0,0,,Temos que manter nossa energia.
+Dialogue: 0,0:07:21.48,0:07:23.88,Default,,0,0,0,,Mahiro ainda não saiu?
+Dialogue: 0,0:07:24.19,0:07:27.16,Default,,0,0,0,,Tomando um longo banho em uma vila amaldiçoada pela fruta...
+Dialogue: 0,0:07:29.30,0:07:30.39,Default,,0,0,0,,A propósito, Yoshino.
+Dialogue: 0,0:07:30.98,0:07:34.00,Default,,0,0,0,,Há quanto tempo você e Mahiro se conhecem?
+Dialogue: 0,0:07:34.66,0:07:36.54,Default,,0,0,0,,Acho que desde o ensino fundamental.
+Dialogue: 0,0:07:38.86,0:07:44.18,Default,,0,0,0,,Ninguém imaginaria que vocês dois normalmente seriam amigos.
+Dialogue: 0,0:07:45.16,0:07:46.90,Default,,0,0,0,,Nós não éramos amigos.
+Dialogue: 0,0:07:49.20,0:07:52.96,Default,,0,0,0,,Ele é inteligente e bom em esportes,
+Dialogue: 0,0:07:52.96,0:07:55.68,Default,,0,0,0,,mas ele sempre menosprezou aqueles ao seu redor.
+Dialogue: 0,0:07:56.22,0:07:58.09,Default,,0,0,0,,Parece difícil de lidar.
+Dialogue: 0,0:07:59.60,0:08:03.96,Default,,0,0,0,,Mas também não foi tudo culpa dele.
+Dialogue: 0,0:08:04.29,0:08:05.04,Default,,0,0,0,,Bom dia.
+Dialogue: 0,0:08:05.33,0:08:06.78,Default,,0,0,0,,Bom dia.
+Dialogue: 0,0:08:06.78,0:08:07.66,Default,,0,0,0,,Bom dia.
+Dialogue: 0,0:08:07.28,0:08:08.27,Default,,0,0,0,,Bom dia—
+Dialogue: 0,0:08:11.75,0:08:15.86,Default,,0,0,0,,O pai de Mahiro era uma figura muito importante em casa.
+Dialogue: 0,0:08:16.42,0:08:18.01,Default,,0,0,0,,Por isso,
+Dialogue: 0,0:08:18.01,0:08:19.81,Default,,0,0,0,,a escola não conseguiu advertir Mahiro,
+Dialogue: 0,0:08:19.81,0:08:22.49,Default,,0,0,0,,pois estavam preocupados com problemas com seu pai.
+Dialogue: 0,0:08:23.06,0:08:26.46,Default,,0,0,0,,As outras crianças também tiveram a mesma sensação.
+Dialogue: 0,0:08:27.42,0:08:29.53,Default,,0,0,0,,Então ele estava em uma categoria diferente.
+Dialogue: 0,0:08:30.06,0:08:32.13,Default,,0,0,0,,A julgar pela sua personalidade,
+Dialogue: 0,0:08:32.13,0:08:35.28,Default,,0,0,0,,Eu acho que você evitaria alguém como Mahiro mesmo que não fosse solicitado.
+Dialogue: 0,0:08:40.48,0:08:42.55,Default,,0,0,0,,Sim, eu o evitei.
+Dialogue: 0,0:08:47.26,0:08:50.51,Default,,0,0,0,,Mas então algo aconteceu.
+Dialogue: 0,0:09:02.22,0:09:05.81,Default,,0,0,0,,Foi quando estávamos na terceira série.
+Dialogue: 0,0:09:12.12,0:09:13.82,Default,,0,0,0,,A polícia estava perseguindo
+Dialogue: 0,0:09:13.82,0:09:15.65,Default,,0,0,0,,um assaltante em uma motocicleta.
+Dialogue: 0,0:09:32.84,0:09:35.14,Default,,0,0,0,,Pode ser que ele tenha seguido o caminho errado.
+Dialogue: 0,0:09:35.14,0:09:37.63,Default,,0,0,0,,De qualquer forma, ele foi em direção a Mahiro, sozinho na calçada.
+Dialogue: 0,0:09:39.31,0:09:41.51,Default,,0,0,0,,O assaltante está em estado crítico.
+Dialogue: 0,0:09:41.97,0:09:43.50,Default,,0,0,0,,Ele ainda está inconsciente.
+Dialogue: 0,0:09:43.50,0:09:45.55,Default,,0,0,0,,Ah, que assustador...
+Dialogue: 0,0:09:45.55,0:09:49.04,Default,,0,0,0,,Mas é bom que Mahiro-kun tenha escapado com apenas alguns ossos quebrados.
+Dialogue: 0,0:09:49.57,0:09:50.74,Default,,0,0,0,,Ei, Yoshino...
+Dialogue: 0,0:09:50.74,0:09:52.52,Default,,0,0,0,,Você vai abandonar seu aipo novamente?
+Dialogue: 0,0:09:52.52,0:09:55.95,Default,,0,0,0,,Eu ia enchê-los de maionese e depois comê-los.
+Dialogue: 0,0:09:55.95,0:09:58.88,Default,,0,0,0,,Você nunca vai crescer se for exigente com a comida.
+Dialogue: 0,0:09:58.88,0:10:00.43,Default,,0,0,0,,Eu não os odeio.
+Dialogue: 0,0:10:00.43,0:10:02.09,Default,,0,0,0,,Eu simplesmente não gosto deles.
+Dialogue: 0,0:10:02.09,0:10:02.96,Default,,0,0,0,,Yoshino,
+Dialogue: 0,0:10:03.48,0:10:05.24,Default,,0,0,0,,você é amigo do Mahiro-kun?
+Dialogue: 0,0:10:06.03,0:10:06.99,Default,,0,0,0,,Não...
+Dialogue: 0,0:10:07.57,0:10:09.62,Default,,0,0,0,,Eu não gosto dele.
+Dialogue: 0,0:10:10.56,0:10:12.09,Default,,0,0,0,,Você viu na TV?
+Dialogue: 0,0:10:12.09,0:10:14.84,Default,,0,0,0,,Aizawa, da turma seguinte, ficou lá por pouco tempo.
+Dialogue: 0,0:10:14.84,0:10:16.28,Default,,0,0,0,,Incrível, ele é totalmente famoso!
+Dialogue: 0,0:10:15.16,0:10:17.38,Default,,0,0,0,,Tudo bem, chega!
+Dialogue: 0,0:10:18.28,0:10:20.86,Default,,0,0,0,,Tenho certeza de que Fuwa está sozinha, presa no hospital.
+Dialogue: 0,0:10:21.43,0:10:25.57,Default,,0,0,0,,Quem representará a turma e irá visitá-lo comigo?
+Dialogue: 0,0:10:27.39,0:10:29.40,Default,,0,0,0,,Quem irá visitá-lo?
+Dialogue: 0,0:10:29.40,0:10:31.82,Default,,0,0,0,,Não é como se ele ficasse feliz se fôssemos.
+Dialogue: 0,0:10:31.82,0:10:34.19,Default,,0,0,0,,Sim, ele provavelmente perguntaria o que diabos estamos fazendo ali.
+Dialogue: 0,0:10:34.19,0:10:35.14,Default,,0,0,0,,Ele faria isso com certeza.
+Dialogue: 0,0:10:35.14,0:10:36.74,Default,,0,0,0,,Vamos lá, pessoal...
+Dialogue: 0,0:10:36.74,0:10:38.17,Default,,0,0,0,,Tudo bem,
+Dialogue: 0,0:10:36.74,0:10:39.49,Default,,0,0,0,,Serviço diurno
+Dialogue: 0,0:10:38.17,0:10:40.33,Default,,0,0,0,,então será quem estiver de plantão durante o dia.
+Dialogue: 0,0:10:40.33,0:10:41.42,Default,,0,0,0,,O que?
+Dialogue: 0,0:10:43.69,0:10:44.58,Default,,0,0,0,,Oh...
+Dialogue: 0,0:10:44.91,0:10:48.08,Default,,0,0,0,,Bem, sua cor é boa.
+Dialogue: 0,0:10:48.46,0:10:50.58,Default,,0,0,0,,Todo mundo está preocupado com você.
+Dialogue: 0,0:10:53.30,0:10:56.73,Default,,0,0,0,,Você teve muita sorte, considerando a gravidade do acidente.
+Dialogue: 0,0:10:56.73,0:10:58.68,Default,,0,0,0,,Ouvi dizer que a moto foi destruída.
+Dialogue: 0,0:10:59.40,0:11:00.22,Default,,0,0,0,,Sensei...
+Dialogue: 0,0:11:00.22,0:11:01.43,Default,,0,0,0,,Hum? O que houve?
+Dialogue: 0,0:11:02.44,0:11:03.64,Default,,0,0,0,,Eu gostaria de beber alguma coisa.
+Dialogue: 0,0:11:04.82,0:11:06.77,Default,,0,0,0,,Ah, tudo bem.
+Dialogue: 0,0:11:06.77,0:11:09.46,Default,,0,0,0,,Isto é especial, então não conte aos outros.
+Dialogue: 0,0:11:10.03,0:11:11.75,Default,,0,0,0,,U-Um, Sens—
+Dialogue: 0,0:11:19.48,0:11:21.28,Default,,0,0,0,,Detesto perguntar, mas tenho um pedido.
+Dialogue: 0,0:11:23.28,0:11:24.32,Default,,0,0,0,,Um pedido...
+Dialogue: 0,0:11:24.82,0:11:26.01,Default,,0,0,0,,Você me ouviu, não é?
+Dialogue: 0,0:11:27.81,0:11:29.00,Default,,0,0,0,,Bem...
+Dialogue: 0,0:11:29.26,0:11:32.98,Default,,0,0,0,,Eu fui meio que forçado a vir aqui,
+Dialogue: 0,0:11:32.98,0:11:35.88,Default,,0,0,0,,então prefiro não falar mais com você.
+Dialogue: 0,0:11:36.27,0:11:38.05,Default,,0,0,0,,Bem, você não é honesto?
+Dialogue: 0,0:11:38.05,0:11:39.76,Default,,0,0,0,,E então, se você tiver alguma solicitação,
+Dialogue: 0,0:11:39.76,0:11:41.86,Default,,0,0,0,,você poderia perguntar ao professor ou ao seu pai...
+Dialogue: 0,0:11:41.86,0:11:45.61,Default,,0,0,0,,Escute. Os adultos não me levam a sério.
+Dialogue: 0,0:11:45.61,0:11:47.56,Default,,0,0,0,,É por isso que estou perguntando a você.
+Dialogue: 0,0:11:50.64,0:11:52.69,Default,,0,0,0,,Quero que você pesquise as circunstâncias
+Dialogue: 0,0:11:52.69,0:11:55.86,Default,,0,0,0,,cercando o meu acidente e o assaltante o máximo possível.
+Dialogue: 0,0:11:57.30,0:11:59.07,Default,,0,0,0,,E o que você fará com essa informação?
+Dialogue: 0,0:11:59.64,0:12:01.77,Default,,0,0,0,,O assaltante que me atropelou...
+Dialogue: 0,0:12:02.49,0:12:03.82,Default,,0,0,0,,Ele fez isso de propósito!
+Dialogue: 0,0:12:04.27,0:12:05.03,Default,,0,0,0,,Huh?
+Dialogue: 0,0:12:05.78,0:12:07.22,Default,,0,0,0,,Ele estava tentando me matar.
+Dialogue: 0,0:12:07.89,0:12:09.95,Default,,0,0,0,,Ele mirou em mim e bateu em mim!
+Dialogue: 0,0:12:17.85,0:12:19.01,Default,,0,0,0,,No momento,
+Dialogue: 0,0:12:19.69,0:12:22.23,Default,,0,0,0,,Não consegui ver sua expressão por causa do capacete,
+Dialogue: 0,0:12:22.69,0:12:24.51,Default,,0,0,0,,mas eu senti a sede de sangue.
+Dialogue: 0,0:12:27.61,0:12:30.59,Default,,0,0,0,,Ele assaltou alguém e foi pego pela polícia de propósito,
+Dialogue: 0,0:12:30.59,0:12:35.10,Default,,0,0,0,,para que ele pudesse me atropelar "acidentalmente".
+Dialogue: 0,0:12:35.59,0:12:38.28,Default,,0,0,0,,Dessa forma, ele poderia esconder o verdadeiro motivo de ter me matado.
+Dialogue: 0,0:12:41.33,0:12:43.22,Default,,0,0,0,,Se for esse o caso, você deve
+Dialogue: 0,0:12:43.22,0:12:46.07,Default,,0,0,0,,conte à polícia ou ao seu pai.
+Dialogue: 0,0:12:46.59,0:12:49.02,Default,,0,0,0,,Adultos não vão agir só porque eu disse que senti.
+Dialogue: 0,0:12:49.66,0:12:51.75,Default,,0,0,0,,É por isso que tenho que procurar pistas!
+Dialogue: 0,0:12:52.28,0:12:54.16,Default,,0,0,0,,Mas por que eu?
+Dialogue: 0,0:12:54.16,0:12:56.46,Default,,0,0,0,,Porque não tenho mais ninguém a quem possa perguntar.
+Dialogue: 0,0:12:56.46,0:12:58.88,Default,,0,0,0,,Mas isso é porque você não tem nenhum amigo—
+Dialogue: 0,0:12:58.88,0:13:00.05,Default,,0,0,0,,Cale-se!
+Dialogue: 0,0:13:00.05,0:13:01.82,Default,,0,0,0,,E você, então?
+Dialogue: 0,0:13:01.82,0:13:03.87,Default,,0,0,0,,Apesar de estar na mesma classe,
+Dialogue: 0,0:13:03.87,0:13:05.66,Default,,0,0,0,,Não me lembro de ter visto você alguma vez.
+Dialogue: 0,0:13:05.66,0:13:07.44,Default,,0,0,0,,Não consigo nem lembrar do seu nome.
+Dialogue: 0,0:13:07.44,0:13:10.49,Default,,0,0,0,,Um cara que deixa uma impressão tão superficial ao menos tem amigos?
+Dialogue: 0,0:13:11.02,0:13:13.64,Default,,0,0,0,,É essa a atitude que você deve ter ao pedir ajuda?
+Dialogue: 0,0:13:13.64,0:13:14.92,Default,,0,0,0,,E você?!
+Dialogue: 0,0:13:14.92,0:13:16.53,Default,,0,0,0,,Você não sente que deveria estar
+Dialogue: 0,0:13:16.53,0:13:18.71,Default,,0,0,0,,pelo menos um pouco gentil com um colega hospitalizado?
+Dialogue: 0,0:13:18.71,0:13:20.13,Default,,0,0,0,,Ei...
+Dialogue: 0,0:13:20.97,0:13:23.47,Default,,0,0,0,,Bem, parece que vocês estão se divertindo.
+Dialogue: 0,0:13:23.47,0:13:24.49,Default,,0,0,0,,É ótimo ver vocês se dando bem.
+Dialogue: 0,0:13:25.03,0:13:27.45,Default,,0,0,0,,Espere um segundo que eu vou servir uma xícara para você.
+Dialogue: 0,0:13:27.77,0:13:28.82,Default,,0,0,0,,Sensei.
+Dialogue: 0,0:13:28.82,0:13:30.74,Default,,0,0,0,,Ele disse que viria me visitar novamente.
+Dialogue: 0,0:13:30.74,0:13:31.72,Default,,0,0,0,,O que?
+Dialogue: 0,0:13:31.72,0:13:32.84,Default,,0,0,0,,Realmente?
+Dialogue: 0,0:13:32.84,0:13:34.15,Default,,0,0,0,,Que bom ouvir isso!
+Dialogue: 0,0:13:34.15,0:13:37.19,Default,,0,0,0,,Amigos são o melhor remédio.
+Dialogue: 0,0:13:37.19,0:13:40.34,Default,,0,0,0,,Eu tinha um pressentimento de que vocês dois se dariam bem.
+Dialogue: 0,0:13:41.87,0:13:43.16,Default,,0,0,0,,Obrigado pela refeição.
+Dialogue: 0,0:13:43.67,0:13:45.60,Default,,0,0,0,,Você já terminou?
+Dialogue: 0,0:13:45.60,0:13:47.30,Default,,0,0,0,,Você comeu todos os seus vegetais?
+Dialogue: 0,0:13:48.57,0:13:49.26,Default,,0,0,0,,Oh...
+Dialogue: 0,0:13:50.78,0:13:53.85,Default,,0,0,0,,Decidi comer primeiro tudo o que não gosto.
+Dialogue: 0,0:13:53.85,0:13:57.35,Default,,0,0,0,,Livro de Estudo Escolar Japanica Enciclopédia Ilustrada Japanica
+Dialogue: 0,0:13:58.04,0:14:00.36,Default,,0,0,0,,Isso é tudo que tenho por enquanto.
+Dialogue: 0,0:14:00.81,0:14:01.91,Default,,0,0,0,,Você...
+Dialogue: 0,0:14:01.91,0:14:03.39,Default,,0,0,0,,Você fez tudo isso sozinho?
+Dialogue: 0,0:14:04.02,0:14:09.71,Default,,0,0,0,,Eu não sou como você, apenas ajo por instinto.
+Dialogue: 0,0:14:11.62,0:14:14.12,Default,,0,0,0,,Esta é uma foto do assaltante.
+Dialogue: 0,0:14:14.57,0:14:16.33,Default,,0,0,0,,Aquele é o apartamento dele.
+Dialogue: 0,0:14:16.33,0:14:21.25,Default,,0,0,0,,Ah, e ganhei um panfleto do local de trabalho do seu pai...
+Dialogue: 0,0:14:22.09,0:14:25.26,Default,,0,0,0,,Esse cara é seu motorista, certo?
+Dialogue: 0,0:14:27.02,0:14:28.88,Default,,0,0,0,,Ele não parece familiar...
+Dialogue: 0,0:14:28.88,0:14:30.01,Default,,0,0,0,,Eu lembro dele
+Dialogue: 0,0:14:30.01,0:14:33.63,Default,,0,0,0,,porque ele veio te buscar na escola uma vez.
+Dialogue: 0,0:14:34.15,0:14:36.56,Default,,0,0,0,,Você se lembra de coisas estranhas.
+Dialogue: 0,0:14:37.06,0:14:40.02,Default,,0,0,0,,Ele provavelmente é o cara que meu pai demitiu outro dia.
+Dialogue: 0,0:14:40.77,0:14:42.33,Default,,0,0,0,,E ele?
+Dialogue: 0,0:14:42.78,0:14:44.98,Default,,0,0,0,,Acho que ele é o responsável por isso.
+Dialogue: 0,0:14:48.20,0:14:48.96,Default,,0,0,0,,O que?!
+Dialogue: 0,0:14:51.22,0:14:53.87,Default,,0,0,0,,Você não está se sentindo bem, então deveria se acalmar...
+Dialogue: 0,0:14:56.31,0:14:58.82,Default,,0,0,0,,Por que seria ele?!
+Dialogue: 0,0:14:59.33,0:15:02.14,Default,,0,0,0,,Se o responsável tivesse se passado por um assaltante
+Dialogue: 0,0:15:02.14,0:15:04.29,Default,,0,0,0,,causar o acidente de propósito...
+Dialogue: 0,0:15:04.70,0:15:06.17,Default,,0,0,0,,O plano não daria certo
+Dialogue: 0,0:15:06.17,0:15:09.79,Default,,0,0,0,,a menos que ele conhecesse suas rotas de viagem e desvios.
+Dialogue: 0,0:15:10.22,0:15:12.84,Default,,0,0,0,,Já que você é tão desconfiado,
+Dialogue: 0,0:15:12.84,0:15:16.87,Default,,0,0,0,,você provavelmente notaria se alguém estivesse pesquisando sobre você.
+Dialogue: 0,0:15:17.41,0:15:19.27,Default,,0,0,0,,Você está tentando começar uma briga.
+Dialogue: 0,0:15:19.27,0:15:23.09,Default,,0,0,0,,Mas se for alguém que sempre te levou e buscou na escola...
+Dialogue: 0,0:15:25.99,0:15:27.65,Default,,0,0,0,,Então eu fiz uma pequena pesquisa,
+Dialogue: 0,0:15:27.65,0:15:29.90,Default,,0,0,0,,e esses dois se conheciam.
+Dialogue: 0,0:15:30.72,0:15:33.16,Default,,0,0,0,,Eu não sei qual é o relacionamento deles,
+Dialogue: 0,0:15:33.16,0:15:37.05,Default,,0,0,0,,mas acho que ele guardava rancor do seu pai.
+Dialogue: 0,0:15:37.66,0:15:40.31,Default,,0,0,0,,Para se vingar, ele tentou matar você, o filho.
+Dialogue: 0,0:15:40.31,0:15:43.32,Default,,0,0,0,,E ele pediu ajuda a alguém que conhecia.
+Dialogue: 0,0:15:46.36,0:15:47.05,Default,,0,0,0,,Ei.
+Dialogue: 0,0:15:47.78,0:15:48.76,Default,,0,0,0,,O que?
+Dialogue: 0,0:15:49.05,0:15:50.69,Default,,0,0,0,,Você poderia me passar o telefone?
+Dialogue: 0,0:15:50.69,0:15:53.12,Default,,0,0,0,,Hein? Mas você consegue alcançar, não consegue?
+Dialogue: 0,0:15:53.12,0:15:55.24,Default,,0,0,0,,Estou chateado, então você pode pegar?
+Dialogue: 0,0:15:55.24,0:15:56.43,Default,,0,0,0,,Huh?
+Dialogue: 0,0:16:06.36,0:16:08.03,Default,,0,0,0,,Olá, pai?
+Dialogue: 0,0:16:08.03,0:16:09.74,Default,,0,0,0,,Um, well...
+Dialogue: 0,0:16:09.74,0:16:11.93,Default,,0,0,0,,Descobri quem estava por trás disso.
+Dialogue: 0,0:16:12.84,0:16:14.91,Default,,0,0,0,,Ele pediu para você dar uma olhada no assaltante,
+Dialogue: 0,0:16:14.91,0:16:17.38,Default,,0,0,0,,e você acabou identificando o verdadeiro mentor?
+Dialogue: 0,0:16:17.38,0:16:19.78,Default,,0,0,0,,Isso é um pouco de exagero.
+Dialogue: 0,0:16:19.78,0:16:23.53,Default,,0,0,0,,Além disso, eu queria me apressar e encontrar o verdadeiro culpado.
+Dialogue: 0,0:16:23.53,0:16:25.61,Default,,0,0,0,,Eu queria me livrar de Mahiro.
+Dialogue: 0,0:16:25.61,0:16:28.31,Default,,0,0,0,,Então era para escapar do fardo...
+Dialogue: 0,0:16:28.31,0:16:29.81,Default,,0,0,0,,Isso parece mesmo com você.
+Dialogue: 0,0:16:30.34,0:16:33.84,Default,,0,0,0,,No plano original, o assaltante deveria ser
+Dialogue: 0,0:16:33.84,0:16:36.10,Default,,0,0,0,,para atropelar e matar Mahiro e então escapar.
+Dialogue: 0,0:16:36.10,0:16:40.35,Default,,0,0,0,,Aparentemente, eles até prepararam um caminhão de 18 rodas para auxiliar na fuga.
+Dialogue: 0,0:16:40.68,0:16:43.62,Default,,0,0,0,,Mas Mahiro teve uma sorte do diabo.
+Dialogue: 0,0:16:43.62,0:16:44.69,Default,,0,0,0,,Eu vejo.
+Dialogue: 0,0:16:45.12,0:16:47.62,Default,,0,0,0,,E então vocês dois se tornaram amigos depois?
+Dialogue: 0,0:16:48.15,0:16:48.91,Default,,0,0,0,,Não.
+Dialogue: 0,0:16:49.46,0:16:52.83,Default,,0,0,0,,Eu não pretendia mais lidar com ele.
+Dialogue: 0,0:16:53.11,0:16:54.36,Default,,0,0,0,,Sala dos professores
+Dialogue: 0,0:16:53.48,0:16:54.36,Default,,0,0,0,,Uau.
+Dialogue: 0,0:16:54.68,0:16:57.32,Default,,0,0,0,,E pensar que vocês se dariam tão bem.
+Dialogue: 0,0:16:57.77,0:17:00.30,Default,,0,0,0,,Mas eu realmente não...
+Dialogue: 0,0:16:57.77,0:17:00.30,Default,,0,0,0,,Estou muito orgulhoso de você!
+Dialogue: 0,0:17:02.33,0:17:05.08,Default,,0,0,0,,Guardião de Mahiro
+Dialogue: 0,0:17:02.80,0:17:05.08,Default,,0,0,0,,A partir de hoje, coloco você no comando de Mahiro.
+Dialogue: 0,0:17:05.51,0:17:08.09,Default,,0,0,0,,Responsável... por Mahiro?
+Dialogue: 0,0:17:08.93,0:17:13.04,Default,,0,0,0,,Aparentemente, ele pensou que se Mahiro estivesse perto de mim,
+Dialogue: 0,0:17:13.04,0:17:16.55,Default,,0,0,0,,ele não agiria mal e poderia ser controlado.
+Dialogue: 0,0:17:17.65,0:17:20.43,Default,,0,0,0,,E desde então até o ensino fundamental, dividimos a mesma turma.
+Dialogue: 0,0:17:21.14,0:17:23.14,Default,,0,0,0,,Se tivéssemos que escolher parceiros,
+Dialogue: 0,0:17:23.14,0:17:25.16,Default,,0,0,0,,Eu seria automaticamente pareado com ele.
+Dialogue: 0,0:17:25.49,0:17:27.27,Default,,0,0,0,,Que pena.
+Dialogue: 0,0:17:29.15,0:17:30.81,Default,,0,0,0,,Eu não poderia ter dito melhor.
+Dialogue: 0,0:17:31.51,0:17:33.18,Default,,0,0,0,,No entanto, em vez de Mahiro
+Dialogue: 0,0:17:33.18,0:17:36.50,Default,,0,0,0,,sendo odiado por aqueles ao seu redor,
+Dialogue: 0,0:17:36.50,0:17:38.41,Default,,0,0,0,,Acho que ele era realmente admirado.
+Dialogue: 0,0:17:39.67,0:17:43.10,Default,,0,0,0,,Ele podia fazer qualquer coisa e fazia o que queria.
+Dialogue: 0,0:17:43.55,0:17:46.14,Default,,0,0,0,,Ele sempre viveu sem medo, do jeito que queria.
+Dialogue: 0,0:17:46.71,0:17:49.29,Default,,0,0,0,,Tenho certeza de que muitas crianças queriam ser amigas dele.
+Dialogue: 0,0:17:50.02,0:17:53.51,Default,,0,0,0,,Mas Mahiro não deixava as pessoas entrarem facilmente.
+Dialogue: 0,0:17:54.00,0:17:55.11,Default,,0,0,0,,Até as crianças podiam ver
+Dialogue: 0,0:17:55.11,0:18:00.30,Default,,0,0,0,,que se tentassem imprudentemente se aproximar de alguém como ele, eles se machucariam.
+Dialogue: 0,0:18:02.45,0:18:03.96,Default,,0,0,0,,Então, para o bem ou para o mal,
+Dialogue: 0,0:18:03.96,0:18:08.06,Default,,0,0,0,,você acabou sendo quem se aproximou imprudentemente do Mahiro?
+Dialogue: 0,0:18:08.61,0:18:12.44,Default,,0,0,0,,Mas cheguei muito longe porque estava perto dele.
+Dialogue: 0,0:18:13.05,0:18:14.95,Default,,0,0,0,,Longe, né?
+Dialogue: 0,0:18:16.31,0:18:19.78,Default,,0,0,0,,Foi porque você conseguiu ir longe que você conseguiu suportá-lo.
+Dialogue: 0,0:18:20.26,0:18:22.40,Default,,0,0,0,,Existe alguma diferença?
+Dialogue: 0,0:18:23.01,0:18:25.07,Default,,0,0,0,,Se você não pensa assim, há algo errado.
+Dialogue: 0,0:18:27.25,0:18:28.98,Default,,0,0,0,,Aquele foi um ótimo banho...
+Dialogue: 0,0:18:29.87,0:18:30.90,Default,,0,0,0,,Comida!
+Dialogue: 0,0:18:36.11,0:18:38.02,Default,,0,0,0,,Embora seja uma comida um tanto absurda.
+Dialogue: 0,0:18:41.85,0:18:44.55,Default,,0,0,0,,Por que tem aipo na sopa de missô?
+Dialogue: 0,0:18:44.55,0:18:46.31,Default,,0,0,0,,O aipo geralmente é consumido cru.
+Dialogue: 0,0:18:47.58,0:18:49.56,Default,,0,0,0,,É amargo se você comê-lo cru.
+Dialogue: 0,0:18:50.03,0:18:50.81,Default,,0,0,0,,Huh?
+Dialogue: 0,0:18:59.40,0:19:00.61,Default,,0,0,0,,Está quieto.
+Dialogue: 0,0:19:01.59,0:19:03.34,Default,,0,0,0,,Bom, estamos no campo.
+Dialogue: 0,0:19:04.68,0:19:06.15,Default,,0,0,0,,Não é só isso...
+Dialogue: 0,0:19:06.52,0:19:08.24,Default,,0,0,0,,Você nem consegue ouvir as vacas.
+Dialogue: 0,0:19:08.24,0:19:10.20,Default,,0,0,0,,Provavelmente por causa da síndrome do ferro preto.
+Dialogue: 0,0:19:11.24,0:19:14.89,Default,,0,0,0,,A propósito, por que as borboletas não são afetadas, Hakaze?
+Dialogue: 0,0:19:17.76,0:19:19.05,Default,,0,0,0,,Tirando uma soneca?
+Dialogue: 0,0:19:19.52,0:19:21.38,Default,,0,0,0,,Deve ser bom ser tão despreocupado...
+Dialogue: 0,0:19:33.72,0:19:35.32,Default,,0,0,0,,Ei, Mahiro...
+Dialogue: 0,0:19:43.36,0:19:44.81,Default,,0,0,0,,Que diabos?
+Dialogue: 0,0:19:44.81,0:19:47.64,Default,,0,0,0,,Você também é bem despreocupado.
+Dialogue: 0,0:20:07.62,0:20:09.44,Default,,0,0,0,,Vai dar uma caminhada matinal?
+Dialogue: 0,0:20:09.93,0:20:12.81,Default,,0,0,0,,Quem diria que você seria capaz de aproveitar atividades tão pitorescas?
+Dialogue: 0,0:20:15.80,0:20:17.16,Default,,0,0,0,,Esse som...
+Dialogue: 0,0:20:17.16,0:20:20.49,Default,,0,0,0,,Então agora você está realmente usando dinheiro para obter água potável?
+Dialogue: 0,0:20:21.13,0:20:24.54,Default,,0,0,0,,Bem, quem sabe o que vai acontecer se você simplesmente chutar a máquina de venda automática.
+Dialogue: 0,0:20:25.22,0:20:26.22,Default,,0,0,0,,Isso é tudo.
+Dialogue: 0,0:20:31.53,0:20:34.83,Default,,0,0,0,,Há quanto tempo você e Yoshino se conhecem?
+Dialogue: 0,0:20:36.98,0:20:39.08,Default,,0,0,0,,Houve algum acidente estúpido,
+Dialogue: 0,0:20:39.08,0:20:40.91,Default,,0,0,0,,e teve resultados estúpidos...
+Dialogue: 0,0:20:41.36,0:20:43.12,Default,,0,0,0,,E então outras coisas aconteceram,
+Dialogue: 0,0:20:43.12,0:20:44.76,Default,,0,0,0,,e estamos juntos desde então.
+Dialogue: 0,0:20:44.76,0:20:46.52,Default,,0,0,0,,Parece que tudo foi estúpido.
+Dialogue: 0,0:20:47.13,0:20:49.40,Default,,0,0,0,,Yoshino me contou sobre o acidente.
+Dialogue: 0,0:20:49.40,0:20:50.57,Default,,0,0,0,,O que?
+Dialogue: 0,0:20:50.57,0:20:52.64,Default,,0,0,0,,Então você não precisa me perguntar.
+Dialogue: 0,0:20:52.64,0:20:54.86,Default,,0,0,0,,A história também tem uma piada idiota.
+Dialogue: 0,0:20:52.64,0:20:56.52,Default,,0,0,0,,Apresentação de Ensaio
+Dialogue: 0,0:20:55.74,0:20:59.01,Default,,0,0,0,,O motivo pelo qual Mahiro-kun foi atropelado por uma motocicleta
+Dialogue: 0,0:20:59.01,0:21:01.63,Default,,0,0,0,,foi porque ele estava tentando salvar um cachorrinho.
+Dialogue: 0,0:21:02.19,0:21:06.71,Default,,0,0,0,,Ele então me pediu para encontrar o dono do cachorrinho.
+Dialogue: 0,0:21:07.21,0:21:10.45,Default,,0,0,0,,Na verdade, Mahiro-kun é uma pessoa muito legal.
+Dialogue: 0,0:21:10.97,0:21:13.34,Default,,0,0,0,,HH-Que maravilha!
+Dialogue: 0,0:21:13.34,0:21:15.66,Default,,0,0,0,,Vamos ter uma salva de palmas!
+Dialogue: 0,0:21:16.31,0:21:18.32,Default,,0,0,0,,Mahiro é incrível!
+Dialogue: 0,0:21:18.32,0:21:20.13,Default,,0,0,0,,Quem sabia que ele era uma pessoa tão boa?
+Dialogue: 0,0:21:21.90,0:21:23.79,Default,,0,0,0,,Depois disso, todos na classe começaram
+Dialogue: 0,0:21:23.79,0:21:25.82,Default,,0,0,0,,agindo de forma estranha e gentil comigo.
+Dialogue: 0,0:21:25.82,0:21:27.80,Default,,0,0,0,,Falando em desconforto.
+Dialogue: 0,0:21:27.80,0:21:30.69,Default,,0,0,0,,Entendo. Essa história é vagamente desagradável.
+Dialogue: 0,0:21:30.69,0:21:34.38,Default,,0,0,0,,Foi quando eu aprendi o quão cruel Yoshino é,
+Dialogue: 0,0:21:34.38,0:21:36.06,Default,,0,0,0,,apesar de seu rosto inocente.
+Dialogue: 0,0:21:36.40,0:21:38.45,Default,,0,0,0,,Então era a maneira dele se vingar de você
+Dialogue: 0,0:21:38.45,0:21:40.12,Default,,0,0,0,,por ser forçado a lidar com você...
+Dialogue: 0,0:21:40.12,0:21:41.50,Default,,0,0,0,,O que é que foi isso?
+Dialogue: 0,0:21:41.50,0:21:42.28,Default,,0,0,0,,Ah, nada.
+Dialogue: 0,0:21:42.89,0:21:45.62,Default,,0,0,0,,Eu só estava me perguntando o que teria acontecido
+Dialogue: 0,0:21:45.62,0:21:47.03,Default,,0,0,0,,se você não tivesse conhecido Yoshino.
+Dialogue: 0,0:21:47.72,0:21:50.04,Default,,0,0,0,,Se eu não tivesse conhecido Yoshino...
+Dialogue: 0,0:21:50.56,0:21:52.19,Default,,0,0,0,,Nada teria mudado?
+Dialogue: 0,0:21:53.43,0:21:57.12,Default,,0,0,0,,É possível que eu nunca tivesse chegado tão longe.
+Dialogue: 0,0:21:58.98,0:22:01.25,Default,,0,0,0,,Sério, que diabos?
+Dialogue: 0,0:22:02.85,0:22:06.88,Default,,0,0,0,,Peço desculpas. Não é nada... nada importante.
+Dialogue: 0,0:22:07.52,0:22:09.11,Default,,0,0,0,,Qualquer que seja.
+Dialogue: 0,0:22:16.62,0:22:17.73,Default,,0,0,0,,O que está errado?
+Dialogue: 0,0:22:17.73,0:22:20.38,Default,,0,0,0,,Ah, não é nada.
+Dialogue: 0,0:24:02.56,0:24:03.75,Default,,0,0,0,,Yoshino-san,
+Dialogue: 0,0:24:04.24,0:24:06.28,Default,,0,0,0,,tudo acontece por uma razão.
+Dialogue: 0,0:24:06.67,0:24:08.10,Default,,0,0,0,,Um talismã especial?
+Dialogue: 0,0:24:08.10,0:24:10.18,Default,,0,0,0,,Temos um trunfo para garantir nossa vitória.
+Dialogue: 0,0:24:10.18,0:24:12.35,Default,,0,0,0,,Você é bem confiante, não é?
+Dialogue: 0,0:24:12.35,0:24:15.55,Default,,0,0,0,,Isso mesmo... Isso também foi guiado pelo destino.
+Dialogue: 0,0:24:15.98,0:24:19.13,Default,,0,0,0,,Parece que terei um presente especial para Samon-dono.
+Dialogue: 0,0:24:19.48,0:24:24.02,Default,,0,0,0,,Algum dia, isso também terá um final muito bonito.
+Dialogue: 0,0:24:24.02,0:24:27.01,Default,,0,0,0,,Episódio 5 Tudo acontece por uma razão
